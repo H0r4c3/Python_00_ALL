@@ -1,0 +1,9 @@
+#default_path = 'https://books.toscrape.com/'
+#default_locator_paragraphs = 'div.page_inner section li.col-xs-6.col-sm-4.col-md-3.col-lg-3'
+#default_locator_details = 'article.product_pod h3 a[title]'
+
+
+default_path = 'https://www.readytowear.ro/barbati/imbracaminte/geci/geci-de-piele-barbati/geaca-de-piele-naturala-barbati-gipsy-bleumarin-alb-murdar/'
+default_locator_paragraphs = '#content > div.product-info > div.right > div.price'
+#default_locator_details = 'span.txt_price'
+default_locator_details = 'span.txt_price'

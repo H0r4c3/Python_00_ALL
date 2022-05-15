@@ -1,0 +1,173 @@
+[HMF-INFO]
+Format=Hella HMF-File
+Version=Version 3.0
+GenTool=Aglaia Python Script
+Date=07.01.2021
+Time=09:44:50
+[HMF-INFO-END]
+
+[HMF-HEADER]
+Project=LV-BMC
+Description=Low Voltage BMS
+Author=Szymon Siemianowski
+MKSRevision= $Revision: 1.3 $
+PartNumber=013998
+Abart=03
+Revision=AB
+HW Variante=7892H_06
+EStand=L01.01.28
+[HMF-HEADER-END]
+
+[HMF-EP-VERIFY]
+PartNumber=013998
+Abart=03
+Revision=AB
+HW Variante=7892H_06
+DaimlerHWPartnumber=A7899012201
+CustPartCodeNo=A7899008600
+[HMF-EP-VERIFY-END]
+
+[HMF-DATA-STRING]
+Name=LabelData
+Target=EOL
+Sequence=1
+Format=unknown
+Location=Label
+Mode=direct
+File=
+Stream=
+DeviceName=LVC
+CustomerPartNo=A7899008600
+DaimlerHWPartnumber=A7899012201           
+DaimlerSWPartnumber=A7899026402   
+HellaSupplierCode=15435183
+HellaSwStatus=
+HellaFblStatus=
+SampleStatus=
+SupplierPartNo=5DI013.998-03
+Project=BEA2
+EQVersion=E01
+ZGSVersion=003
+[HMF-DATA-STRING-END]
+
+[HMF-DATA-STRING]
+Name=IC700_FullFlash
+Target=Programmer
+Sequence=2
+Format=Ertec-Bert
+Location=FLASH
+Mode=indirect
+File=LVC_FULL_FLASH_IMAGE_PRODUCTION_D2_PB421.bert
+Stream=
+AlgoFile=Hella.BEA_2_0_LVC.TC277TP_64F200N.v3.6.3.algo
+CRCChecksum=0xB1376CBC
+GeneratorKey=100520210917
+[HMF-DATA-STRING-END]
+
+[HMF-DATA-STRING]
+Name=IC720_EEPROM_Image
+Target=Programmer
+Sequence=3
+Format=Hella-Hex
+Location=EEPROM
+Mode=indirect
+File=LVC_EepDump_PB421_204102.bin
+Stream=
+CRCChecksum=0x64878736
+[HMF-DATA-STRING-END]
+
+[HMF-DATA-STRING]
+Name=IC1752_FOT_Image
+Target=Programmer
+Sequence=4
+Format=Hella-Bin
+Location=FOT2_EEPROM
+Mode=indirect
+File=LVC_FOT2_B20.bin
+Stream=
+CRCChecksum=0xA858CF34
+[HMF-DATA-STRING-END]
+
+[HMF-DATA-STRING]
+Name=IC1852_FOT_Image
+Target=Programmer
+Sequence=5
+Format=Hella-Bin
+Location=FOT1_EEPROM
+Mode=indirect
+File=LVC_FOT1_B20.bin
+Stream=
+CRCChecksum=0xA92A11F4
+[HMF-DATA-STRING-END]
+
+[HMF-DATA-STRING]
+Name=HellaProdData
+Target=Programmer
+Sequence=6
+Format=unbekannt
+Location=FLASH
+Mode=direct
+Stream=
+HellaPartNumLocation=0xA0204100
+HellaPartNumLength=0x06 //ASCII encoded 
+HellaPartNumValue=013998
+HellaPartAbartLocation=0xA0204120
+HellaPartAbartLength=0x02 //ASCII encoded
+HellaPartAbartValue=03
+HellaHWVersionLocation=0xA0204140
+HellaHWVersionLength=0x08 //ASCII encoded
+HellaHWVersionValue=7892H_06
+HellaEVersionLocation=0xA0204160
+HellaEVersionLength=0x09
+HellaEVersionValue=L01.01.28
+HellaSerialNumberLocation=0xA0204180
+HellaSerialNumberLength=0x0E //Serial number has 14 digits and is encoded as ASCII 
+[HMF-DATA-STRING-END]
+
+[HMF-DATA-STRING]
+Name=EOL-HPM
+Target=EOL
+Sequence=7
+Format=Hella-Rec
+Location=RAM
+Mode=direkt
+File=BEA2_HPM_with_crc_and_sig_LVC.rec
+Stream=
+HPMVersion=12.02.00
+[HMF-DATA-STRING-END]
+
+[HMF-DATA-STRING]
+Name=EOL-WriteDatavar
+Target=EOL
+Sequence=8
+Format=HPM_WriteMemoryByID
+Location=DF
+Mode=direct
+File=
+Stream=
+PDiag_EcuProductionDateYear=0x00 // Format ASCII encoded, two bytes
+PDiag_EcuProductionDateDay=0x00 0x00 // Format ASCII encoded, three bytes
+PDiag_DailyProductionCounter=0x00 0x00 0x00 0x00 // Format ASCII encoded, 14 bytes
+[HMF-DATA-STRING-END]
+
+[HMF-DATA-STRING]
+Name=EOL-ReadDatavar
+Target=EOL
+Sequence=9
+Format=HPM_ReadMemoryByID
+Location=DF
+Mode=direct
+File=
+Stream=
+// Data from EOL Write
+PDiag_EcuProductionDateYear=0x00 0x00 // Format ASCII encoded, two bytes
+PDiag_EcuProductionDateDay=0x00 0x00 0x00 // Format ASCII encoded, three bytes
+PDiag_DailyProductionCounter=0x00 0x00 0x00 0x00 0x00 0x00 // Format ASCII encoded, six bytes
+PDiag_SerialNumber=0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 // Format ASCII encoded, 14 bytes
+// Data from flashing station
+PDiag_HellaPartNumValue=013998
+PDiag_HellaPartAbartValue=03
+PDiag_HellaPartNumValue_HellaHWVersionValue=7892H_06
+PDiag_HellaHWDioCfg=0011 // Configuration of resistors at the Aurix. HVC - DI_HW_ID_0 , LVC - HWCFG0
+PDiag_HellaEVersionValue=L01.01.28
+[HMF-DATA-STRING-END]

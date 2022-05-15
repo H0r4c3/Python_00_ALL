@@ -1,0 +1,9004 @@
+1
+00:00:02,000 --> 00:00:07,000
+Downloaded from
+YTS.MX
+
+2
+00:00:08,000 --> 00:00:13,000
+Official YIFY movies site:
+YTS.MX
+
+3
+00:00:41,541 --> 00:00:42,458
+‎Fir-ar sa fie!
+
+4
+00:00:45,458 --> 00:00:48,333
+‎NETFLIX PREZINTA
+
+5
+00:02:10,500 --> 00:02:12,375
+‎CE… RAHAT
+
+6
+00:03:05,708 --> 00:03:06,791
+‎Demential!
+
+7
+00:03:06,875 --> 00:03:08,541
+‎Am luat bere si cola dietetica.
+
+8
+00:03:08,625 --> 00:03:11,791
+‎Eu am luat cidru tare
+‎si cate ceva de rontait.
+
+9
+00:03:11,875 --> 00:03:12,791
+‎E petrecere.
+
+10
+00:03:12,875 --> 00:03:15,791
+‎Sunt fericit pentru tine, Kate.
+
+11
+00:03:15,875 --> 00:03:18,250
+‎Pentru cometa Dibiasky, da?
+
+12
+00:03:18,333 --> 00:03:19,416
+‎- Noroc!
+‎- Da!
+
+13
+00:03:20,166 --> 00:03:22,916
+‎Trebuie sa fie o cometa
+‎din norul lui Oort,
+
+14
+00:03:23,000 --> 00:03:24,833
+‎avand in vedere unde ai vazut-o.
+
+15
+00:03:24,916 --> 00:03:27,083
+‎Ultima oara a venit asa aproape de Soare
+
+16
+00:03:27,166 --> 00:03:29,375
+‎inaintea civilizatiei omenesti, probabil.
+
+17
+00:03:29,458 --> 00:03:31,541
+‎Ia uite ce arc! Doamne, e uimitor!
+
+18
+00:03:31,625 --> 00:03:35,083
+‎Cum aflam viteza cometei in orbita,
+‎dle profesor Mindy?
+
+19
+00:03:35,166 --> 00:03:36,625
+‎Buna intrebare!
+
+20
+00:03:37,333 --> 00:03:40,166
+‎Nostim. N-am mai calculat
+‎dinamici orbitale din postuniversitara.
+
+21
+00:03:40,791 --> 00:03:42,000
+‎Întrebarea e…
+
+22
+00:03:42,916 --> 00:03:45,416
+‎ce ar face Carl Sagan?
+
+23
+00:03:45,500 --> 00:03:48,875
+‎S-ar intoarce la primul principiu.
+
+24
+00:03:49,541 --> 00:03:52,875
+‎Vectorul topocentric e rho…
+
+25
+00:03:54,541 --> 00:03:56,500
+‎Kate, care sunt coordonatele initiale?
+
+26
+00:03:57,083 --> 00:03:58,000
+‎Douazeci si unu.
+
+27
+00:03:59,666 --> 00:04:00,875
+‎Douazeci si patru.
+
+28
+00:04:01,541 --> 00:04:02,500
+‎Treisprezece.
+
+29
+00:04:02,583 --> 00:04:04,250
+‎E distractiv, nu-i asa?
+
+30
+00:04:04,333 --> 00:04:07,458
+‎- Șaizeci si sapte.
+‎- Acum sunt electrizat.
+
+31
+00:04:07,541 --> 00:04:08,791
+‎- Dle profesor Mindy.
+‎- Bine.
+
+32
+00:04:08,875 --> 00:04:10,583
+‎Cate rotatii avem pentru calibrarea…
+
+33
+00:04:10,666 --> 00:04:13,458
+‎Aproximare coordonata, 85.
+
+34
+00:04:14,125 --> 00:04:17,958
+‎Acum ca avem orbita cometei,
+‎vom verifica tabelul Ephemeris
+
+35
+00:04:18,041 --> 00:04:22,875
+‎si vom afla distanta
+‎dintre cometa si planeta Pamant.
+
+36
+00:04:25,666 --> 00:04:28,083
+‎De ce sunt tot mai mici distantele?
+
+37
+00:04:42,708 --> 00:04:43,833
+‎Dle profesor Mindy?
+
+38
+00:04:49,416 --> 00:04:50,625
+‎Dle profesor Mindy?
+
+39
+00:04:56,250 --> 00:04:58,041
+‎Auziti? Hai sa…
+
+40
+00:04:58,875 --> 00:05:00,458
+‎Hai sa ne oprim aici, da?
+
+41
+00:05:02,833 --> 00:05:04,833
+‎Și pozitia relativa?
+
+42
+00:05:05,416 --> 00:05:08,500
+‎Nu-i dau de cap. Nu in seara asta.
+‎Îmi pare rau.
+
+43
+00:05:09,291 --> 00:05:11,666
+‎- Hai sa mergem. Sunt frant.
+‎- Și eu.
+
+44
+00:05:12,500 --> 00:05:15,291
+‎- Kate, a fost fantastic.
+‎- Felicitari!
+
+45
+00:05:16,000 --> 00:05:16,958
+‎Kate.
+
+46
+00:05:18,708 --> 00:05:19,666
+‎Tu ramai.
+
+47
+00:05:21,875 --> 00:05:26,791
+‎„VREAU SA MOR LINIȘTIT ÎN SOMN
+‎CA BUNICUL MEU,
+
+48
+00:05:26,875 --> 00:05:30,000
+‎NU SA ȚIP DE GROAZA
+‎CA PASAGERII LUI.” - JACK HANDEY
+
+49
+00:05:30,083 --> 00:05:31,958
+‎Dna dr. Calder,
+
+50
+00:05:32,041 --> 00:05:33,916
+‎un profesor din Michigan si studentii sai…
+
+51
+00:05:34,000 --> 00:05:36,375
+‎Sunt dr. Calder.
+‎M-ati scos dintr-o sedinta
+
+52
+00:05:36,458 --> 00:05:39,291
+‎unde anuntam ca am pierdut
+‎fonduri de opt miliarde.
+
+53
+00:05:39,375 --> 00:05:42,208
+‎Îmi pare nespus de rau, dna dr. Calder,
+
+54
+00:05:42,291 --> 00:05:45,125
+‎dar vedem
+‎niste numere orbitale foarte ciudate
+
+55
+00:05:45,208 --> 00:05:47,166
+‎la cometa pe care am descoperit-o.
+
+56
+00:05:47,250 --> 00:05:48,958
+‎Ati primit e-mailurile, nu?
+
+57
+00:05:49,041 --> 00:05:50,333
+‎- Asta e?
+‎- Da.
+
+58
+00:05:50,416 --> 00:05:51,875
+‎Da.
+
+59
+00:05:51,958 --> 00:05:55,041
+‎Stati sa-l sun pe dr. Oglethorpe. O clipa.
+
+60
+00:05:55,875 --> 00:05:57,250
+‎M-a pus sa astept.
+
+61
+00:05:57,333 --> 00:06:00,500
+‎Îl suna pe un anume dr. Oglethorpe.
+‎Cine e?
+
+62
+00:06:01,333 --> 00:06:04,083
+‎Doamne! Îi pun pe difuzor.
+
+63
+00:06:06,041 --> 00:06:07,166
+‎„Dr. Oglethorpe,
+
+64
+00:06:07,250 --> 00:06:10,666
+‎seful Biroului de Coordonare
+‎a Apararii Planetare.”
+
+65
+00:06:10,750 --> 00:06:12,625
+‎- Exista asa ceva?
+‎- Habar n-am.
+
+66
+00:06:12,708 --> 00:06:16,000
+‎BIROUL DE COORDONARE
+‎A APARARII PLANETARE CHIAR EXISTA.
+
+67
+00:06:16,375 --> 00:06:20,875
+‎ACEASTA E SIGLA LOR
+
+68
+00:06:20,958 --> 00:06:22,333
+‎Sunt dr. Oglethorpe.
+
+69
+00:06:22,416 --> 00:06:25,375
+‎Jocelyn Calder
+‎de la Centrul Spatial Kennedy.
+
+70
+00:06:25,458 --> 00:06:26,458
+‎Buna, Jocelyn.
+
+71
+00:06:27,083 --> 00:06:31,500
+‎A fost zarit un obiect in apropierea
+‎Pamantului, cu telescopul Subaru.
+
+72
+00:06:31,583 --> 00:06:35,458
+‎Și de ce n-ai raportat
+‎celor de la Studiul Planetelor Mici?
+
+73
+00:06:35,541 --> 00:06:38,291
+‎Un profesor si niste studenti
+‎de la Michigan State
+
+74
+00:06:38,375 --> 00:06:40,250
+‎au identificat ceva mare.
+
+75
+00:06:40,333 --> 00:06:41,833
+‎Serios? Cat de mare?
+
+76
+00:06:41,916 --> 00:06:43,291
+‎Cat e de mare?
+
+77
+00:06:43,375 --> 00:06:45,666
+‎Am estimat un diametru de 5-10 km.
+
+78
+00:06:45,750 --> 00:06:47,250
+‎Circa 5-10 km latime.
+
+79
+00:06:48,750 --> 00:06:49,750
+‎E maricica.
+
+80
+00:06:51,000 --> 00:06:55,291
+‎Și acest profesor a fost primul
+‎care a observat-o?
+
+81
+00:06:55,375 --> 00:06:57,625
+‎Buna ziua! Da. Sunt dr. Mindy.
+
+82
+00:06:57,708 --> 00:07:01,125
+‎A descoperit-o doctoranda Kate Dibiasky.
+
+83
+00:07:01,208 --> 00:07:02,916
+‎Eu am facut calculele orbitale.
+
+84
+00:07:05,000 --> 00:07:07,250
+‎Studiez emisiile de gaze
+‎din galaxiile moarte.
+
+85
+00:07:07,333 --> 00:07:10,791
+‎Nu public de mult,
+‎deci nu cred ca ati auzit de mine.
+
+86
+00:07:10,875 --> 00:07:14,208
+‎Ma rog, nu conteaza. Scuze.
+‎Care era intrebarea?
+
+87
+00:07:14,291 --> 00:07:17,375
+‎Care sunt ultimele estimari
+‎ale traiectoriei sale?
+
+88
+00:07:17,458 --> 00:07:18,333
+‎Kate?
+
+89
+00:07:22,958 --> 00:07:27,041
+‎Le-am calculat toata ziua.
+‎Obtin acelasi rezultat.
+
+90
+00:07:27,791 --> 00:07:30,791
+‎Loveste direct Pamantul
+‎peste sase luni si 14 zile.
+
+91
+00:07:31,875 --> 00:07:33,000
+‎Și eu.
+
+92
+00:07:33,083 --> 00:07:35,333
+‎Matthew, conform calculelor tale?
+
+93
+00:07:36,333 --> 00:07:40,500
+‎Programul de calcul orbital
+‎zice sase luni si 14 zile.
+
+94
+00:07:40,583 --> 00:07:42,791
+‎Avem sase luni si 14 zile.
+
+95
+00:07:42,875 --> 00:07:48,916
+‎Și are cam intre cinci
+‎si zece kilometri latime.
+
+96
+00:07:49,000 --> 00:07:51,125
+‎Ceea ce…
+
+97
+00:07:52,208 --> 00:07:53,333
+‎Nu e…
+
+98
+00:07:54,000 --> 00:07:56,083
+‎un eveniment care ar provoca extinctia?
+
+99
+00:07:57,208 --> 00:07:59,375
+‎Sa nu fim dramatici.
+
+100
+00:08:01,500 --> 00:08:02,416
+‎Bine.
+
+101
+00:08:03,166 --> 00:08:07,333
+‎Întai, aducem grupul de scolari aici,
+‎la Washington.
+
+102
+00:08:07,416 --> 00:08:08,833
+‎Sa ne linistim putin.
+
+103
+00:08:08,916 --> 00:08:12,458
+‎Vreau persoana care a vazut cometa prima
+‎si pe responsabil.
+
+104
+00:08:12,833 --> 00:08:13,833
+‎Ce?
+
+105
+00:08:16,916 --> 00:08:21,208
+‎…transmitem datele imediat
+‎celor de la Cambridge, Caltech si IAU.
+
+106
+00:08:21,291 --> 00:08:23,291
+‎O clipa. Sunt informatii secrete.
+
+107
+00:08:23,375 --> 00:08:24,875
+‎Ce se intampla?
+
+108
+00:08:24,958 --> 00:08:26,666
+‎Eu sunt la ordinul presedintelui.
+
+109
+00:08:26,750 --> 00:08:27,791
+‎Chiar se intampla?
+
+110
+00:08:27,875 --> 00:08:30,666
+‎Sa-i aducem pe studenta
+‎si pe profesor la baza Hickam.
+
+111
+00:08:30,750 --> 00:08:33,291
+‎Washington, da? Hei, Kate!
+
+112
+00:08:33,375 --> 00:08:35,291
+‎Nu e posibil, nu-i asa?
+
+113
+00:08:35,375 --> 00:08:38,541
+‎Kate, nu e real, nu?
+
+114
+00:08:38,625 --> 00:08:41,125
+‎E un fel de realitate alternativa.
+
+115
+00:08:41,208 --> 00:08:42,041
+‎Spune ceva.
+
+116
+00:08:42,125 --> 00:08:43,750
+‎Ma duc sa ma droghez.
+
+117
+00:08:43,833 --> 00:08:48,125
+‎Trebuie sa va duc urgent la Washington.
+‎Am doar avionul asta.
+
+118
+00:08:48,208 --> 00:08:50,375
+‎Eu sunt dr. Mindy. Ea e…
+
+119
+00:08:50,458 --> 00:08:52,208
+‎- Buna!
+‎- Mergeti!
+
+120
+00:08:54,833 --> 00:08:57,791
+‎- Unde ne asezam, Kate?
+‎- Habar n-am.
+
+121
+00:08:57,875 --> 00:08:59,625
+‎Exista vreun loc pentru…
+
+122
+00:09:06,708 --> 00:09:10,625
+‎Ce mama dracului? Pe bune?
+‎E o gluma nenorocita?
+
+123
+00:09:10,708 --> 00:09:11,833
+‎Maiculita!
+
+124
+00:09:18,458 --> 00:09:21,000
+‎Nu se poate asa ceva. Nu.
+
+125
+00:10:09,125 --> 00:10:11,125
+‎- Te referi la Brendon?
+‎- Da, la el.
+
+126
+00:10:11,208 --> 00:10:14,583
+‎Nu si-a plecat capul.
+‎E numai politica, Teddy. Știi bine.
+
+127
+00:10:15,625 --> 00:10:18,250
+‎- Randall si Kate, nu-i asa?
+‎- Da. Buna seara.
+
+128
+00:10:18,333 --> 00:10:20,583
+‎Dr. Oglethorpe. Îmi puteti spune Teddy.
+
+129
+00:10:20,666 --> 00:10:22,166
+‎Îmi cer scuze. Cum ati zis…
+
+130
+00:10:22,250 --> 00:10:23,833
+‎- Sa va spun „Teddy”?
+‎- Teddy.
+
+131
+00:10:23,916 --> 00:10:25,333
+‎- Teddy.
+‎- Da.
+
+132
+00:10:25,416 --> 00:10:28,083
+‎Îi spunem asa
+‎fiindca nu e ursuletul Teddy.
+
+133
+00:10:29,000 --> 00:10:31,416
+‎Generalul Themes, din partea Pentagonului,
+
+134
+00:10:31,500 --> 00:10:33,375
+‎pentru a supraveghea… ce-o fi.
+
+135
+00:10:33,458 --> 00:10:37,875
+‎Doamna presedinta va intarzia,
+‎iar voi ati avut un zbor lung, asa ca…
+
+136
+00:10:41,375 --> 00:10:43,541
+‎Echipa Michigan State Spartans.
+
+137
+00:10:48,916 --> 00:10:52,583
+‎- Acela e Biroul Oval?
+‎- Da, e Biroul Oval.
+
+138
+00:10:53,583 --> 00:10:55,541
+‎E mult mai mic decat in poze.
+
+139
+00:10:55,625 --> 00:10:58,875
+‎Doamna presedinta trebuie sa vina.
+‎A fost deja informata.
+
+140
+00:10:58,958 --> 00:11:00,458
+‎Nu-i asa, Scott?
+
+141
+00:11:02,041 --> 00:11:03,166
+‎Asa e.
+
+142
+00:11:03,250 --> 00:11:05,541
+‎Chiar ii spunem presedintei Statelor Unite
+
+143
+00:11:05,625 --> 00:11:07,583
+‎ca mai avem sase luni si ceva
+
+144
+00:11:07,666 --> 00:11:12,166
+‎pana la extinctia totala
+‎a omenirii si a tuturor speciilor?
+
+145
+00:11:12,250 --> 00:11:16,291
+‎Da. Exact asta o sa-i spunem. Da.
+
+146
+00:11:21,916 --> 00:11:23,916
+‎Vai de mine!
+
+147
+00:12:13,541 --> 00:12:15,416
+‎Da, am zis forte de ordine.
+
+148
+00:12:15,500 --> 00:12:18,708
+‎Dar n-am…
+‎Mi-ai zis ca are un cazier curat.
+
+149
+00:12:20,916 --> 00:12:23,666
+‎- Buna seara, dna presedinta.
+‎- Înapoi, va rog.
+
+150
+00:12:23,750 --> 00:12:26,000
+‎E reputatia lui din ultimii 40 de ani.
+
+151
+00:12:26,083 --> 00:12:30,208
+‎Dna presedinta, sunt dr. Oglethorpe.
+‎Cred ca Jocelyn v-a informat…
+
+152
+00:12:30,291 --> 00:12:33,000
+‎- Jason!
+‎- Da, ce e, tocilarilor?
+
+153
+00:12:33,083 --> 00:12:35,166
+‎Hai! Ce naiba? E o treaba serioasa.
+
+154
+00:12:35,250 --> 00:12:36,875
+‎Da, stiu. Doar cinci minute.
+
+155
+00:12:36,958 --> 00:12:40,625
+‎Avem o problema cu candidatul
+‎la Curtea Suprema. Multumesc.
+
+156
+00:12:53,333 --> 00:12:57,541
+‎Multi ani traiasca
+
+157
+00:12:57,625 --> 00:13:01,958
+‎Multi ani traiasca
+
+158
+00:13:02,041 --> 00:13:06,541
+‎La multi ani, draga Patty…
+
+159
+00:13:08,500 --> 00:13:11,750
+‎Preiei un mesaj, apare chestia asta
+
+160
+00:13:11,833 --> 00:13:13,500
+‎si nu stiu ce se intampla.
+
+161
+00:13:14,833 --> 00:13:17,541
+‎Nu inteleg de cate ori sa-ti mai spun…
+
+162
+00:13:17,625 --> 00:13:21,500
+‎Sunt o groaza de chestii
+‎despre candidatul lor incompetent,
+
+163
+00:13:22,791 --> 00:13:25,875
+‎dar niciun cuvant despre problema noastra.
+
+164
+00:13:25,958 --> 00:13:28,291
+‎Retelele sociale o tin intruna
+
+165
+00:13:28,375 --> 00:13:32,250
+‎cu despartirea
+‎dintre Riley Bina si DJ Chello.
+
+166
+00:13:33,458 --> 00:13:35,166
+‎Ce pacat!
+
+167
+00:13:36,083 --> 00:13:37,291
+‎Par copii de treaba.
+
+168
+00:13:38,041 --> 00:13:39,541
+‎Nu-i cunosc.
+
+169
+00:13:41,708 --> 00:13:42,583
+‎Asa ca…
+
+170
+00:13:42,666 --> 00:13:44,375
+‎- Desi e pacat.
+‎- Da.
+
+171
+00:13:44,458 --> 00:13:46,500
+‎- Tu ii cunosti, Kate?
+‎- Da.
+
+172
+00:13:46,583 --> 00:13:48,875
+‎Dar ma doare-n cur in clipa asta.
+
+173
+00:13:51,208 --> 00:13:53,208
+‎Te jupoaie de bani pentru astea.
+
+174
+00:13:53,291 --> 00:13:54,625
+‎Zece dolari bucata.
+
+175
+00:13:55,125 --> 00:13:56,625
+‎- Ia o apa.
+‎- Multumesc.
+
+176
+00:13:56,708 --> 00:13:58,083
+‎Platesc eu si pentru Kate.
+
+177
+00:13:58,166 --> 00:13:59,250
+‎- Perfect.
+‎- Multumesc.
+
+178
+00:13:59,333 --> 00:14:00,416
+‎Poftim 20.
+
+179
+00:14:02,416 --> 00:14:03,333
+‎Ține.
+
+180
+00:14:03,416 --> 00:14:05,333
+‎- N-ai rest?
+‎- Nu.
+
+181
+00:14:08,375 --> 00:14:11,208
+‎- Pot sa-l rog pe puscas.
+‎- Da…
+
+182
+00:14:13,291 --> 00:14:14,625
+‎E Xanax.
+
+183
+00:14:14,708 --> 00:14:16,708
+‎Iau doar un sfert, altfel…
+
+184
+00:14:17,833 --> 00:14:19,958
+‎- Kate!
+‎- Mersi.
+
+185
+00:14:20,708 --> 00:14:23,083
+‎Ai grija, iei prea mult.
+
+186
+00:14:44,000 --> 00:14:46,958
+‎Scuze, trebuie sa fiu in Okinawa
+‎pana maine, la doua.
+
+187
+00:14:47,041 --> 00:14:49,375
+‎- Poftim?
+‎- Pe bune?
+
+188
+00:14:49,458 --> 00:14:52,125
+‎- E important.
+‎- Trebuie sa-i potolesc pe bastinasi.
+
+189
+00:14:52,208 --> 00:14:53,666
+‎Salutari fiicei tale!
+
+190
+00:14:54,416 --> 00:14:58,333
+‎Nu era important sa fie si el cu noi?
+
+191
+00:15:05,500 --> 00:15:06,833
+‎Unde platesc?
+
+192
+00:15:06,916 --> 00:15:07,958
+‎E gratis.
+
+193
+00:15:10,666 --> 00:15:11,791
+‎Serios?
+
+194
+00:15:11,875 --> 00:15:13,375
+‎Da, suntem la Casa Alba.
+
+195
+00:15:19,708 --> 00:15:21,916
+‎Snackurile sunt gratis.
+
+196
+00:15:22,708 --> 00:15:23,583
+‎Poftim?
+
+197
+00:15:24,208 --> 00:15:25,291
+‎Generalul…
+
+198
+00:15:25,375 --> 00:15:28,166
+‎Ne-a luat bani pentru snackuri,
+‎dar sunt gratuite.
+
+199
+00:15:28,250 --> 00:15:29,416
+‎Mai sa fie!
+
+200
+00:15:29,500 --> 00:15:31,541
+‎De ce a facut asa ceva?
+
+201
+00:15:32,125 --> 00:15:35,291
+‎Baieti, se pare
+‎ca nu ne vedem in seara asta.
+
+202
+00:15:35,375 --> 00:15:37,291
+‎Îmi pare nespus de rau.
+
+203
+00:15:37,375 --> 00:15:39,291
+‎O sa va cazam la un hotel.
+
+204
+00:15:39,375 --> 00:15:41,541
+‎Presedinta stie de ce suntem aici?
+
+205
+00:15:41,625 --> 00:15:43,916
+‎Nu pot sa cred!
+
+206
+00:15:44,000 --> 00:15:47,875
+‎- N-or sti de ce suntem aici.
+‎- Ba stiu. Dar i-ati auzit.
+
+207
+00:15:47,958 --> 00:15:50,291
+‎- Îsi dau seama…
+‎- Fiti gata maine.
+
+208
+00:15:50,375 --> 00:15:51,708
+‎…cat ne-a luat sa ajungem…
+
+209
+00:15:55,666 --> 00:15:57,708
+‎Și ne-au pus sa asteptam sapte ore,
+
+210
+00:15:57,791 --> 00:15:59,750
+‎dar nu ne-au primit. Nu pot sa cred.
+
+211
+00:15:59,833 --> 00:16:03,541
+‎Normal ca nu v-au primit.
+‎Kate, ai vazut stirile de azi?
+
+212
+00:16:03,625 --> 00:16:06,958
+‎Nu, am fost prinsa cu… proiectul nostru.
+
+213
+00:16:07,041 --> 00:16:08,500
+‎Deschide televizorul.
+
+214
+00:16:08,583 --> 00:16:11,083
+‎Presedinta Orlean
+‎e bagata in rahat pana-n gat.
+
+215
+00:16:11,916 --> 00:16:15,166
+‎Șeriful Wade Conlon era deja
+‎un candidat controversat,
+
+216
+00:16:15,250 --> 00:16:18,791
+‎fara diploma in Drept si cu sloganul
+‎„intai trage, apoi intreaba”.
+
+217
+00:16:18,875 --> 00:16:19,958
+‎AUTOPSIE
+
+218
+00:16:20,041 --> 00:16:21,125
+‎Te uiti?
+
+219
+00:16:21,208 --> 00:16:23,250
+‎Dupa ce s-a aflat ca a pozat nud
+
+220
+00:16:23,333 --> 00:16:25,750
+‎- …in facultate…
+‎- Da, ma uit acum.
+
+221
+00:16:25,833 --> 00:16:28,250
+‎…Casa Alba se confrunta cu o criza uriasa.
+
+222
+00:16:28,333 --> 00:16:32,125
+‎Și fii atenta.
+‎Am gasit cinci fosti studenti
+
+223
+00:16:32,833 --> 00:16:37,333
+‎dispusi sa depuna marturie
+‎ca Conlon se excita vizibil
+
+224
+00:16:37,958 --> 00:16:39,375
+‎cand poza la orele de desen.
+
+225
+00:16:39,458 --> 00:16:40,916
+‎Nu ma rusinez de ce-am facut.
+
+226
+00:16:41,000 --> 00:16:43,916
+‎Sa spun ca „se excita vizibil”
+
+227
+00:16:44,791 --> 00:16:46,000
+‎sau ca „avea erectie”?
+
+228
+00:16:46,083 --> 00:16:47,916
+‎Nu vreau o stire-momeala.
+
+229
+00:16:48,000 --> 00:16:49,708
+‎E un articol serios.
+
+230
+00:16:51,000 --> 00:16:54,291
+‎Kate, ma ajuti putin, te rog?
+
+231
+00:16:55,375 --> 00:16:56,250
+‎Scuze.
+
+232
+00:16:57,083 --> 00:17:00,083
+‎- Nu sunt in apele mele.
+‎- Putem discuta pe fata?
+
+233
+00:17:00,166 --> 00:17:02,083
+‎Mi se pare ca ocolim subiectul.
+
+234
+00:17:02,166 --> 00:17:05,000
+‎Ai vreo problema cu mama?
+‎Despre asta e vorba?
+
+235
+00:17:06,083 --> 00:17:07,791
+‎Nu-mi poti spune ce se-ntampla?
+
+236
+00:17:07,875 --> 00:17:10,458
+‎Asa e protocolul. Te rog, stai linistita.
+
+237
+00:17:11,416 --> 00:17:15,208
+‎Marshall a luat 172 la admiterea la Drept
+‎si acum sarbatorim.
+
+238
+00:17:15,291 --> 00:17:18,666
+‎Bravo, Marshall!
+‎Sunt mandru de tine, amice.
+
+239
+00:17:18,750 --> 00:17:21,083
+‎Mersi, tata. Mi-e dor de tine.
+
+240
+00:17:21,166 --> 00:17:24,708
+‎Evan cum se simte?
+‎Functioneaza noile medicamente?
+
+241
+00:17:24,791 --> 00:17:26,166
+‎De nota sapte.
+
+242
+00:17:26,750 --> 00:17:28,083
+‎Zice ca de nota sapte.
+
+243
+00:17:28,166 --> 00:17:30,750
+‎Mai bine decat luna trecuta, nu?
+
+244
+00:17:30,833 --> 00:17:34,208
+‎Nu uita sa iei cuvantul la sedinta, maine.
+
+245
+00:17:34,291 --> 00:17:35,750
+‎- Bine.
+‎- De obicei taci
+
+246
+00:17:35,833 --> 00:17:38,416
+‎cand e vorba sa te afirmi si…
+
+247
+00:17:38,500 --> 00:17:43,000
+‎Te-a intrebat daca esti lesbiana.
+‎N-a zis ca esti lesbiana.
+
+248
+00:17:43,083 --> 00:17:44,916
+‎- A fost o intrebare.
+‎- Asculta…
+
+249
+00:17:45,000 --> 00:17:48,208
+‎Pot sa stau la masa cu mama ta
+‎peste… sapte luni?
+
+250
+00:17:48,291 --> 00:17:54,625
+‎Șapte… E ciudat de specific
+‎si de distant. Doar e mama.
+
+251
+00:18:00,208 --> 00:18:02,541
+‎Deci…
+
+252
+00:18:02,625 --> 00:18:06,041
+‎Am auzit ca e un asteroid sau o cometa
+
+253
+00:18:06,125 --> 00:18:07,958
+‎care nu va place cum arata.
+
+254
+00:18:09,875 --> 00:18:12,416
+‎Spuneti-mi despre ce e vorba
+‎si de ce m-ar interesa.
+
+255
+00:18:12,500 --> 00:18:14,208
+‎Aveti 20 de minute.
+
+256
+00:18:14,291 --> 00:18:16,208
+‎- Douazeci?
+‎- Începe, profesore.
+
+257
+00:18:16,291 --> 00:18:18,375
+‎Acum. Hai!
+
+258
+00:18:20,125 --> 00:18:21,291
+‎Doamna presedinta.
+
+259
+00:18:23,791 --> 00:18:27,125
+‎Cu circa 36 de ore in urma,
+
+260
+00:18:27,208 --> 00:18:31,791
+‎doctoranda Kate Dibiasky a descoperit
+
+261
+00:18:32,541 --> 00:18:34,000
+‎o cometa foarte mare.
+
+262
+00:18:34,916 --> 00:18:36,875
+‎- Da.
+‎- Bravo tie!
+
+263
+00:18:36,958 --> 00:18:39,541
+‎O cometa cu un diametru
+‎intre cinci si 10 km
+
+264
+00:18:39,625 --> 00:18:44,250
+‎care vine, conform estimarilor noastre,
+‎din norul lui Oort.
+
+265
+00:18:45,291 --> 00:18:47,791
+‎Partea cea mai indepartata
+‎a sistemului solar.
+
+266
+00:18:48,416 --> 00:18:49,458
+‎Și…
+
+267
+00:18:50,750 --> 00:18:53,416
+‎Folosind metoda lui Gauss
+‎de determinare a orbitei
+
+268
+00:18:53,500 --> 00:18:59,541
+‎si o incertitudine astrometrica medie
+‎de 0,04 arcsecunde, am calculat…
+
+269
+00:18:59,625 --> 00:19:01,416
+‎- Ce naiba e asta?
+‎- Plictiseala!
+
+270
+00:19:01,500 --> 00:19:03,000
+‎Spune-ne ce e.
+
+271
+00:19:03,083 --> 00:19:05,291
+‎- Din ce sa ma opresc?
+‎- Opreste-te.
+
+272
+00:19:05,375 --> 00:19:06,833
+‎Profesorul Mindy spune
+
+273
+00:19:06,916 --> 00:19:08,416
+‎ca vine o cometa spre Pamant
+
+274
+00:19:08,500 --> 00:19:10,750
+‎si, potrivit computerelor de la NASA,
+
+275
+00:19:10,833 --> 00:19:12,958
+‎va lovi Oceanul Pacific
+
+276
+00:19:13,041 --> 00:19:15,166
+‎la 100 km vest de coasta statului Chile.
+
+277
+00:19:15,250 --> 00:19:16,958
+‎Și apoi ce-o sa fie? Un tsunami?
+
+278
+00:19:17,041 --> 00:19:20,666
+‎Nu. Va fi mult mai catastrofal.
+
+279
+00:19:20,750 --> 00:19:25,375
+‎Vor fi tsunamiuri cu valuri colosale
+‎care vor matura tot globul.
+
+280
+00:19:26,291 --> 00:19:32,458
+‎La un eventual impact, va lovi cu forta
+‎unui miliard de bombe de la Hiroshima.
+
+281
+00:19:33,541 --> 00:19:36,375
+‎Vor fi cutremure
+‎cu magnitudinea zece sau 11…
+
+282
+00:19:36,458 --> 00:19:39,375
+‎Stai putin. Respiri ciudat. Ma agiti.
+
+283
+00:19:39,458 --> 00:19:42,000
+‎Scuza-ma, incerc
+‎sa explic un lucru stiintific.
+
+284
+00:19:42,083 --> 00:19:45,208
+‎Știu, dar e stresant. Încerc sa ascult…
+
+285
+00:19:45,291 --> 00:19:47,833
+‎Nu cred ca ati inteles
+‎gravitatea situatiei.
+
+286
+00:19:47,916 --> 00:19:49,875
+‎Încerc s-o expun cat mai bine…
+
+287
+00:19:49,958 --> 00:19:54,791
+‎Doamna presedinta, cometa asta e
+‎ceea ce noi numim „ucigas de planete”.
+
+288
+00:19:54,875 --> 00:19:56,333
+‎Corect.
+
+289
+00:20:01,291 --> 00:20:02,333
+‎Cat e de sigur?
+
+290
+00:20:02,416 --> 00:20:05,541
+‎Suntem siguri 100% de impact.
+
+291
+00:20:05,625 --> 00:20:07,666
+‎Te rog, nu spune 100%.
+
+292
+00:20:07,750 --> 00:20:10,416
+‎Sa-i spunem
+‎eveniment potential semnificativ?
+
+293
+00:20:10,500 --> 00:20:11,375
+‎- Da.
+‎- Da.
+
+294
+00:20:11,458 --> 00:20:14,666
+‎Dar nu e potential.
+
+295
+00:20:14,750 --> 00:20:15,916
+‎Chiar se va intampla.
+
+296
+00:20:16,000 --> 00:20:20,083
+‎Mai exact, 99,78%.
+
+297
+00:20:20,166 --> 00:20:22,291
+‎Grozav! Deci nu e 100%.
+
+298
+00:20:22,375 --> 00:20:25,250
+‎Oamenii de stiinta nu spun niciodata 100%.
+
+299
+00:20:25,333 --> 00:20:27,791
+‎Sa zicem 70% si sa mergem mai departe.
+
+300
+00:20:27,875 --> 00:20:29,541
+‎Nu e nici pe departe 70%.
+
+301
+00:20:29,625 --> 00:20:31,958
+‎Nu putem merge sa le spunem oamenilor
+
+302
+00:20:32,041 --> 00:20:34,750
+‎ca au 100% sanse sa moara.
+
+303
+00:20:34,833 --> 00:20:37,791
+‎Da? E absurd.
+
+304
+00:20:37,875 --> 00:20:41,000
+‎Sa se ocupe si oamenii nostri de stiinta.
+‎Fara suparare,
+
+305
+00:20:41,083 --> 00:20:44,250
+‎dar sunteti doar doi oameni
+‎care ati venit aici cu…
+
+306
+00:20:44,333 --> 00:20:45,541
+‎Doctorul Oglethorpe.
+
+307
+00:20:45,625 --> 00:20:47,166
+‎Doctorul… Ogilvy. Da.
+
+308
+00:20:47,250 --> 00:20:50,791
+‎Sunt seful apararii planetare
+‎de la NASA de 15 ani.
+
+309
+00:20:50,875 --> 00:20:55,333
+‎Și dr. Mindy e profesor titular
+‎de astronomie la Michigan State,
+
+310
+00:20:55,416 --> 00:20:58,458
+‎unde dra Dibiasky e doctoranda.
+
+311
+00:20:58,541 --> 00:20:59,416
+‎- Bine.
+‎- Scuze.
+
+312
+00:20:59,500 --> 00:21:01,083
+‎Ai spus „Michigan State”?
+
+313
+00:21:01,166 --> 00:21:03,750
+‎Da. Au un departament
+‎de astronomie excelent.
+
+314
+00:21:03,833 --> 00:21:05,250
+‎- Da.
+‎- Hai, frate!
+
+315
+00:21:05,333 --> 00:21:07,625
+‎Glumesti? Vrei sa-mi vezi notele la teste?
+
+316
+00:21:07,708 --> 00:21:09,708
+‎Sa trecem la miezul problemei.
+
+317
+00:21:09,791 --> 00:21:11,625
+‎Cat ma va costa?
+
+318
+00:21:11,708 --> 00:21:13,875
+‎Ce anume imi cereti?
+
+319
+00:21:13,958 --> 00:21:17,041
+‎Exista planuri
+‎guvernamentale implementate.
+
+320
+00:21:17,125 --> 00:21:19,541
+‎Actiuni care se pot lua prin NASA.
+
+321
+00:21:19,625 --> 00:21:22,583
+‎Drone care pot fi echipate
+‎cu arme nucleare,
+
+322
+00:21:22,666 --> 00:21:27,083
+‎pentru a devia, speram noi,
+‎si a schimba orbita cometei.
+
+323
+00:21:27,166 --> 00:21:28,916
+‎Trebuie sa actionam imediat.
+
+324
+00:21:29,000 --> 00:21:31,583
+‎Bine.
+
+325
+00:21:31,666 --> 00:21:32,750
+‎Cand sunt alegerile?
+
+326
+00:21:32,833 --> 00:21:34,000
+‎- În trei saptamani.
+‎- Bine.
+
+327
+00:21:34,083 --> 00:21:36,833
+‎Daca se afla pana atunci,
+‎pierdem Congresul.
+
+328
+00:21:36,916 --> 00:21:38,833
+‎Și n-am mai putea face nimic.
+
+329
+00:21:38,916 --> 00:21:39,833
+‎O sa fie o fundatura.
+
+330
+00:21:39,916 --> 00:21:43,916
+‎Momentul e… atroce.
+
+331
+00:21:45,000 --> 00:21:51,125
+‎Bine, in clipa asta, eu zic
+‎sa stam linistiti si sa evaluam situatia.
+
+332
+00:21:51,208 --> 00:21:53,833
+‎- Exact.
+‎- Sa se ocupe altii de asta.
+
+333
+00:21:53,916 --> 00:21:55,625
+‎Niste profesionisti.
+
+334
+00:21:55,708 --> 00:21:59,041
+‎Noi doi vom evalua planurile NASA, da?
+
+335
+00:21:59,125 --> 00:22:00,291
+‎Va multumesc mult.
+
+336
+00:22:00,375 --> 00:22:03,583
+‎Daca am inteles corect,
+
+337
+00:22:03,666 --> 00:22:07,416
+‎dupa toate informatiile primite azi,
+
+338
+00:22:08,041 --> 00:22:12,291
+‎luati decizia
+‎„de a sta linistiti si a evalua”?
+
+339
+00:22:12,375 --> 00:22:15,625
+‎- Scuze, ea cine e?
+‎- Cine dracu' esti tu? Nu esti fiul ei?
+
+340
+00:22:15,708 --> 00:22:18,375
+‎Sunt seful cabinetului,
+‎baiat cu dragon tatuat.
+
+341
+00:22:18,458 --> 00:22:19,875
+‎Deci eu sunt in regula.
+
+342
+00:22:19,958 --> 00:22:22,541
+‎Trebuie sa plecam de aici.
+‎E plin de ciudati.
+
+343
+00:22:22,625 --> 00:22:25,208
+‎Dra Dibiasky incearca sa spuna
+
+344
+00:22:25,291 --> 00:22:30,375
+‎ca ideea de a sta linistiti
+‎e extrem de periculoasa…
+
+345
+00:22:33,500 --> 00:22:35,583
+‎Multumesc. Un lucru bun azi.
+
+346
+00:22:36,833 --> 00:22:38,041
+‎Sa va zic ceva haios.
+
+347
+00:22:39,000 --> 00:22:40,541
+‎Cand am candidat la presedintie,
+
+348
+00:22:40,625 --> 00:22:43,958
+‎a trebuit sa ascund tigarile
+‎in prima luna a campaniei,
+
+349
+00:22:44,041 --> 00:22:46,291
+‎pentru ca pozele cu mine fumand
+
+350
+00:22:46,375 --> 00:22:48,333
+‎se vindeau cu o suta de mii bucata.
+
+351
+00:22:49,625 --> 00:22:52,500
+‎Ma ascundeam,
+‎dar m-am saturat la un moment dat.
+
+352
+00:22:53,166 --> 00:22:56,583
+‎Și am zis ca o sa fumez cand am chef.
+
+353
+00:23:00,791 --> 00:23:01,791
+‎Știti ce s-a intamplat?
+
+354
+00:23:02,666 --> 00:23:06,500
+‎- Am urcat trei puncte in sondaje.
+‎- Le-a placut c-a fost sincera.
+
+355
+00:23:06,583 --> 00:23:08,458
+‎Le place sa vada o tipa beton fumand‎.
+
+356
+00:23:08,541 --> 00:23:11,583
+‎Mi se pare presedinta ideala
+‎pentru ‎Playboy.
+
+357
+00:23:11,666 --> 00:23:15,000
+‎Știti cate intruniri cu „sfarsitul lumi”
+
+358
+00:23:15,083 --> 00:23:16,708
+‎am avut de-a lungul anilor?
+
+359
+00:23:16,791 --> 00:23:20,833
+‎Criza economica, arme nucleare ratacite,
+‎noxe care ucid atmosfera.
+
+360
+00:23:20,916 --> 00:23:23,666
+‎- IA rau-voitoare.
+‎- Seceta, foamete, epidemii…
+
+361
+00:23:23,750 --> 00:23:24,958
+‎De toate.
+
+362
+00:23:25,041 --> 00:23:28,833
+‎Invazii extraterestre,
+‎cresterea populatiei, gaura in ozon…
+
+363
+00:23:28,916 --> 00:23:29,916
+‎Jason!
+
+364
+00:23:30,000 --> 00:23:32,166
+‎- Învata sa nu sari calul.
+‎- Iarta-ma, mama.
+
+365
+00:23:32,750 --> 00:23:35,000
+‎Ideea e ca am treaba.
+
+366
+00:23:35,083 --> 00:23:37,833
+‎Trebuie sa intelegeti
+‎ca e un eveniment apocaliptic.
+
+367
+00:23:37,916 --> 00:23:43,250
+‎E un corp ceresc urias care se indreapta
+‎spre planeta noastra cu viteza…
+
+368
+00:23:43,333 --> 00:23:45,333
+‎Dle profesor Mindy, inteleg.
+
+369
+00:23:46,458 --> 00:23:47,625
+‎Am inteles.
+
+370
+00:23:48,791 --> 00:23:51,250
+‎- Ar trebui sa fiti mandru.
+‎- Multumesc.
+
+371
+00:23:51,333 --> 00:23:54,666
+‎Iau situatia foarte in serios.
+‎Pun la suflet.
+
+372
+00:23:54,750 --> 00:23:57,875
+‎Ma bucur mult. Nici nu va dati seama.
+
+373
+00:23:57,958 --> 00:24:03,000
+‎Gasca, ce-am vorbit aici
+‎ramane strict secret, da?
+
+374
+00:24:03,083 --> 00:24:04,500
+‎- Da.
+‎- Bine.
+
+375
+00:24:04,583 --> 00:24:05,750
+‎Mersi pentru eleganta.
+
+376
+00:24:14,875 --> 00:24:17,041
+‎Zici sa divulgam presei?
+
+377
+00:24:17,125 --> 00:24:19,583
+‎- Nu e ilegal?
+‎- O sa divulgam tot.
+
+378
+00:24:19,666 --> 00:24:22,375
+‎Poate n-ati observat,
+‎Casa Alba ne-a dat papucii.
+
+379
+00:24:22,458 --> 00:24:24,375
+‎Iubitul meu, Phillip, stie un reporter
+
+380
+00:24:24,458 --> 00:24:26,458
+‎de la ‎New York Herald
+‎care va vorbi cu noi.
+
+381
+00:24:26,541 --> 00:24:29,250
+‎- Adul Grelio.
+‎- Bine. E unul influent.
+
+382
+00:24:29,333 --> 00:24:32,541
+‎Eu tin legatura
+‎cu comunitatea stiintifica pe sest.
+
+383
+00:24:34,166 --> 00:24:38,416
+‎- Nu sunt convins ca as face asa ceva.
+‎- Spui doar o poveste.
+
+384
+00:24:38,500 --> 00:24:39,750
+‎Spune-o cat mai simplu.
+
+385
+00:24:40,458 --> 00:24:41,583
+‎Fara matematica.
+
+386
+00:24:42,791 --> 00:24:44,166
+‎Dar e numai matematica.
+
+387
+00:24:56,583 --> 00:24:58,500
+‎Totul a inceput cu o conexiune.
+
+388
+00:24:59,416 --> 00:25:03,041
+‎Un gest simplu care a creat atat de mult.
+
+389
+00:25:03,875 --> 00:25:05,000
+‎Foarte multe alegeri.
+
+390
+00:25:06,208 --> 00:25:08,541
+‎Uneori poate sa para chiar prea mult.
+
+391
+00:25:09,375 --> 00:25:10,875
+‎Pana acum.
+
+392
+00:25:10,958 --> 00:25:13,083
+‎Va prezentam BASH LiiF.
+
+393
+00:25:13,166 --> 00:25:14,000
+‎SA FIE LIIF
+
+394
+00:25:14,083 --> 00:25:16,791
+‎Viata, fara stresul de a trai.
+
+395
+00:25:18,666 --> 00:25:21,250
+‎Înainte de a-l prezenta
+‎pe fondatorul BASH,
+
+396
+00:25:21,333 --> 00:25:23,791
+‎nu uitati sa evitati
+‎contactul vizual direct,
+
+397
+00:25:23,875 --> 00:25:27,458
+‎miscarile bruste,
+‎tusea si expresiile faciale negative.
+
+398
+00:25:27,541 --> 00:25:30,916
+‎Și acum va rugam
+‎sa-i urati bun venit dlui Peter Isherwell.
+
+399
+00:25:31,000 --> 00:25:32,625
+‎PETER ISHERWELL - FONDATOR
+
+400
+00:25:34,000 --> 00:25:35,791
+‎Te iubim, Peter!
+
+401
+00:25:46,333 --> 00:25:48,125
+‎Te iubim, Peter!
+
+402
+00:25:48,208 --> 00:25:49,375
+‎Buna ziua tuturor!
+
+403
+00:25:49,458 --> 00:25:51,833
+‎Toata munca mea de-o viata
+
+404
+00:25:52,458 --> 00:25:57,416
+‎a fost motivata de dorinta inexprimabila
+‎de a avea un prieten
+
+405
+00:25:58,083 --> 00:26:00,416
+‎care sa ma inteleaga si sa ma aline.
+
+406
+00:26:00,500 --> 00:26:05,791
+‎Acum, toti acei ani de munca
+‎s-au concretizat cu produsul BASH LiiF.
+
+407
+00:26:05,875 --> 00:26:10,375
+‎În noul nostru celular BASH 14.3
+
+408
+00:26:10,458 --> 00:26:14,750
+‎sunt complet integrate
+‎toate sentimentele si dorintele voastre,
+
+409
+00:26:14,833 --> 00:26:17,333
+‎fara sa fie nevoie
+‎sa pronuntati un cuvant.
+
+410
+00:26:17,416 --> 00:26:18,291
+‎Daca ma simt…
+
+411
+00:26:19,000 --> 00:26:20,291
+‎- Trist.
+‎- Speriat.
+
+412
+00:26:20,375 --> 00:26:21,458
+‎Sau singur.
+
+413
+00:26:21,541 --> 00:26:25,750
+‎Celularul BASH 14.3,
+‎cand e setat pe modalitatea viata,
+
+414
+00:26:25,833 --> 00:26:28,958
+‎percepe imediat starea de spirit
+‎cu ajutorul tensiunii,
+
+415
+00:26:30,291 --> 00:26:31,541
+‎batailor inimii si…
+
+416
+00:26:31,625 --> 00:26:33,416
+‎Semnele vitale arata ca esti trist.
+
+417
+00:26:33,500 --> 00:26:35,833
+‎Asta te va inveseli, Peter.
+
+418
+00:26:35,916 --> 00:26:40,583
+‎Esti prietenul meu de suflet
+
+419
+00:26:40,666 --> 00:26:44,458
+‎Esti prietenul meu de suflet
+‎Ma faci fericit, prieten de suflet
+
+420
+00:26:44,541 --> 00:26:46,416
+‎E adorabil!
+
+421
+00:26:46,500 --> 00:26:47,833
+‎Clipul ala…
+
+422
+00:26:48,750 --> 00:26:52,083
+‎De asemenea, programeaza
+
+423
+00:26:52,166 --> 00:26:55,375
+‎o sedinta de psihoterapie
+‎cu un profesionist din zona,
+
+424
+00:26:55,458 --> 00:27:00,208
+‎ca sa fim siguri ca aceste sentimente
+‎triste nu se mai intorc niciodata.
+
+425
+00:27:00,291 --> 00:27:03,041
+‎- Pot sa spun ceva, dle Isherwell?
+‎- Nu.
+
+426
+00:27:03,125 --> 00:27:07,541
+‎Pentru a sustine BASH LiiF,
+‎as dori sa anunt oficial…
+
+427
+00:27:08,458 --> 00:27:10,125
+‎Dati-mi telefoanele. Nu-s ale voastre.
+
+428
+00:27:12,916 --> 00:27:14,125
+‎Salutati.
+
+429
+00:27:14,208 --> 00:27:15,125
+‎Pa, dle Isherwell!
+
+430
+00:27:15,208 --> 00:27:16,458
+‎Pa, Peter!
+
+431
+00:27:17,166 --> 00:27:18,458
+‎Te iubesc, Peter.
+
+432
+00:27:18,541 --> 00:27:22,583
+‎Oare catelusul acela
+‎de pe cocos optimizeaza
+
+433
+00:27:22,666 --> 00:27:25,416
+‎memoria senzoriala
+‎a consumatorului preadolescent?
+
+434
+00:27:25,500 --> 00:27:27,166
+‎Pasarea mi se pare amenintatoare.
+
+435
+00:27:27,250 --> 00:27:30,291
+‎Vom verifica datele, bineinteles.
+
+436
+00:27:30,375 --> 00:27:32,958
+‎Paul Debent m-a rugat sa va dau asta.
+
+437
+00:27:33,041 --> 00:27:35,791
+‎E de la un prieten astronom din Mexic.
+
+438
+00:27:38,166 --> 00:27:39,000
+‎Vai de mine!
+
+439
+00:27:40,541 --> 00:27:43,000
+‎Ce alte confirmari mai avem, Adul?
+
+440
+00:27:43,083 --> 00:27:46,416
+‎Mi-a confirmat calculele
+‎si dr. Oglethorpe de la Washington.
+
+441
+00:27:46,500 --> 00:27:48,500
+‎I le-am aratat si dr. Franks
+‎de la Columbia.
+
+442
+00:27:48,583 --> 00:27:50,833
+‎Era sa cada de pe scaun.
+
+443
+00:27:50,916 --> 00:27:54,875
+‎Recunosc ca am fost foarte sceptic
+‎la inceput,
+
+444
+00:27:54,958 --> 00:27:56,583
+‎dar e destul de credibil.
+
+445
+00:27:56,666 --> 00:27:59,083
+‎Calculele sunt credibile.
+
+446
+00:27:59,166 --> 00:28:00,166
+‎Doamne!
+
+447
+00:28:00,833 --> 00:28:02,750
+‎Și presedinta a zis sa stam linistiti?
+
+448
+00:28:02,833 --> 00:28:05,583
+‎- Exact.
+‎- „Sa stam linistiti si sa evaluam.”
+
+449
+00:28:05,666 --> 00:28:07,708
+‎Îsi face griji pentru alegeri.
+
+450
+00:28:07,791 --> 00:28:09,375
+‎Trebuie sa ne miscam repede.
+
+451
+00:28:09,458 --> 00:28:11,333
+‎Îi vor acuza
+‎de divulgarea secretelor de stat.
+
+452
+00:28:11,416 --> 00:28:13,375
+‎Faceti-le rost de un avocat gratis.
+
+453
+00:28:13,458 --> 00:28:16,458
+‎- Puteti folosi avocatul meu.
+‎- Acum ti-l permiti.
+
+454
+00:28:16,541 --> 00:28:17,750
+‎O sa angajam un avocat?
+
+455
+00:28:17,833 --> 00:28:19,708
+‎- Nu. N-a fost necesar.
+‎- Ba da.
+
+456
+00:28:19,791 --> 00:28:21,791
+‎Scuzati-ma!
+
+457
+00:28:21,875 --> 00:28:23,166
+‎N-a fost necesar.
+
+458
+00:28:23,250 --> 00:28:25,083
+‎Am o intrebare.
+
+459
+00:28:25,166 --> 00:28:27,625
+‎De ce ar fi o infractiune ca spunem
+
+460
+00:28:27,708 --> 00:28:31,000
+‎publicului ce am vazut,
+‎ca le spunem adevarul?
+
+461
+00:28:31,083 --> 00:28:34,166
+‎Are nevoie de pregatire mediatica
+‎inainte de emisiuni.
+
+462
+00:28:34,250 --> 00:28:35,875
+‎Pare cam lent.
+
+463
+00:28:35,958 --> 00:28:38,083
+‎Cum adica „pregatire mediatica”?
+
+464
+00:28:39,041 --> 00:28:41,791
+‎Vor sa mergem la o emisiune
+‎numita ‎The Daily Rip,
+
+465
+00:28:41,875 --> 00:28:44,500
+‎maine, la prima ora,
+‎inainte sa iasa articolul.
+
+466
+00:28:44,583 --> 00:28:46,416
+‎Știti ce e ‎The Daily Rip?
+
+467
+00:28:46,500 --> 00:28:49,000
+‎Cea mai tare emisiune.
+‎Vor sa participe toti.
+
+468
+00:28:49,083 --> 00:28:50,916
+‎Brie si Jack, o chimie legendara.
+
+469
+00:28:51,000 --> 00:28:52,250
+‎M-au invitat si pe mine.
+
+470
+00:28:52,333 --> 00:28:54,500
+‎Eram fericit, n-am dormit doua nopti,
+
+471
+00:28:54,583 --> 00:28:55,916
+‎dar m-au exclus din cauza timpului.
+
+472
+00:28:56,000 --> 00:28:57,750
+‎Și acum ma simt jignit.
+
+473
+00:28:57,833 --> 00:29:01,583
+‎Știu despre ce emisiune vorbesti.
+‎Îi place mult sotiei mele.
+
+474
+00:29:01,666 --> 00:29:04,458
+‎Auzi? Îmi spui despre ce e vorba?
+
+475
+00:29:04,541 --> 00:29:07,916
+‎Nu mi-ai citit articolul despre Conlon
+‎care se excita la cursuri.
+
+476
+00:29:08,000 --> 00:29:10,791
+‎Iar Adul Grelio se intereseaza
+‎de chestia voastra.
+
+477
+00:29:10,875 --> 00:29:13,625
+‎Și nici n-ai timp sa ma suni? Haide!
+
+478
+00:29:13,708 --> 00:29:16,708
+‎O cometa mai mare decat asteroidul
+‎care a distrus dinozaurii
+
+479
+00:29:16,791 --> 00:29:18,083
+‎se indreapta spre Pamant.
+
+480
+00:29:18,166 --> 00:29:20,541
+‎Daca nu va fi deviata, moare planeta.
+
+481
+00:29:21,083 --> 00:29:22,625
+‎Poftim, ce ai spus?
+
+482
+00:29:22,708 --> 00:29:24,000
+‎E pentru un joc video.
+
+483
+00:29:27,458 --> 00:29:28,791
+‎Vorbesti serios?
+
+484
+00:29:29,541 --> 00:29:30,541
+‎Da.
+
+485
+00:29:32,791 --> 00:29:34,083
+‎Vai, Doamne!
+
+486
+00:29:44,333 --> 00:29:47,041
+‎Vai, Doamne! Ce dracu'?
+
+487
+00:29:47,125 --> 00:29:49,833
+‎Și eu te iubesc. Bine. Da.
+
+488
+00:29:50,541 --> 00:29:52,958
+‎Hei, trebuie sa mergem, da?
+
+489
+00:29:53,041 --> 00:29:54,208
+‎Haide!
+
+490
+00:30:30,791 --> 00:30:33,458
+‎- Profesorul Mindy si dra Dibiasky?
+‎- Da.
+
+491
+00:30:33,541 --> 00:30:35,833
+‎Jack si Brie sunt incantati
+‎sa va aiba in emisiune.
+
+492
+00:30:35,916 --> 00:30:37,750
+‎Serios? Știu cine suntem?
+
+493
+00:30:37,833 --> 00:30:40,166
+‎Casa Alba neaga ca s-ar fi intalnit cu ei.
+
+494
+00:30:40,250 --> 00:30:43,791
+‎Nemernicii raman nemernici pana la capat.
+
+495
+00:30:52,750 --> 00:30:54,625
+‎Buna, sunt Thalia.
+
+496
+00:30:54,708 --> 00:30:57,166
+‎The Herald‎ m-a trimis
+‎sa ma ocup de tinute.
+
+497
+00:30:58,958 --> 00:30:59,833
+‎Nu port asa ceva.
+
+498
+00:31:01,583 --> 00:31:05,541
+‎Da, aveti o structura faciala grozava.
+
+499
+00:31:05,625 --> 00:31:08,333
+‎Va tund putin barba si…
+
+500
+00:31:08,416 --> 00:31:09,833
+‎Ce par frumos!
+
+501
+00:31:10,625 --> 00:31:11,541
+‎Multumesc.
+
+502
+00:31:12,375 --> 00:31:15,958
+‎Cum facem? Eu vorbesc despre descoperire
+
+503
+00:31:16,666 --> 00:31:19,083
+‎si dv., despre nevoia
+‎de a interveni urgent.
+
+504
+00:31:19,166 --> 00:31:21,416
+‎Cum o spunem?
+
+505
+00:31:22,708 --> 00:31:26,125
+‎- Repetam putin sau scriem ceva?
+‎- Va aduc apa?
+
+506
+00:31:26,208 --> 00:31:28,458
+‎Apa, da. Ar fi nemaipomenit.
+
+507
+00:31:29,625 --> 00:31:32,416
+‎Suntem aici acum.
+
+508
+00:31:32,500 --> 00:31:37,375
+‎Șase sasi in sase saci.
+
+509
+00:31:38,125 --> 00:31:40,041
+‎O sa iau Xanax.
+
+510
+00:31:41,166 --> 00:31:42,708
+‎Iau uneori cand…
+
+511
+00:31:44,625 --> 00:31:46,625
+‎Kate, nu si de data asta.
+
+512
+00:31:52,291 --> 00:31:56,333
+‎Trebuie sa respire adanc
+‎si sa vorbeasca tare.
+
+513
+00:31:56,416 --> 00:31:57,875
+‎Se descurca. Sunt convins.
+
+514
+00:32:03,208 --> 00:32:04,458
+‎Doamne! Haide!
+
+515
+00:32:09,041 --> 00:32:12,916
+‎Esti aici, acum.
+
+516
+00:32:17,541 --> 00:32:18,458
+‎Doamne!
+
+517
+00:32:18,541 --> 00:32:20,583
+‎Ți-am zis sa nu mai bei posirca aia.
+
+518
+00:32:21,750 --> 00:32:23,750
+‎- Doar doua pahare.
+‎- Și jumatate.
+
+519
+00:32:23,833 --> 00:32:25,541
+‎- Înca 20 de secunde.
+‎- Întarzii mereu.
+
+520
+00:32:25,625 --> 00:32:27,541
+‎Atentie la linia ochilor.
+
+521
+00:32:27,625 --> 00:32:30,250
+‎Nu va uitati la Jack si Brie, va rog.
+
+522
+00:32:30,333 --> 00:32:31,708
+‎Începe genericul.
+
+523
+00:32:52,041 --> 00:32:54,708
+‎- Fetitele arata bine?
+‎- Da. Suntem in direct.
+
+524
+00:32:54,791 --> 00:32:58,083
+‎Brie, am ceva pentru tine azi. I-auzi!
+
+525
+00:32:58,166 --> 00:33:00,041
+‎Candidatul de la Curtea Suprema,
+
+526
+00:33:00,125 --> 00:33:06,208
+‎seriful Conlon, a fost identificat
+‎intr-un serial erotic sugestiv prin cablu,
+
+527
+00:33:06,291 --> 00:33:07,791
+‎- …din anii '90…
+‎- Ridicol!
+
+528
+00:33:07,875 --> 00:33:10,833
+‎…intitulat ‎Nopti in Cearsafuri de Satin.
+
+529
+00:33:10,916 --> 00:33:13,750
+‎- Povestea asta nu se mai termina…
+‎- Doamne!
+
+530
+00:33:13,833 --> 00:33:15,125
+‎E Riley Bina?
+
+531
+00:33:15,208 --> 00:33:17,083
+‎- Da, e o…
+‎- Serios?
+
+532
+00:33:19,375 --> 00:33:22,208
+‎Pare mult mai mica in realitate, nu?
+
+533
+00:33:22,791 --> 00:33:23,958
+‎Pe ei, cowboy!
+
+534
+00:33:26,291 --> 00:33:27,333
+‎Bine.
+
+535
+00:33:27,416 --> 00:33:30,083
+‎Buna! Eu sunt Sean, de la emisiune.
+
+536
+00:33:30,166 --> 00:33:33,875
+‎Jack si Brie vor discuta zece minute
+‎despre candidatul de la Suprema.
+
+537
+00:33:33,958 --> 00:33:37,208
+‎- Urmezi tu, Riley Bina.
+‎- Vorbim despre single-ul meu, da?
+
+538
+00:33:37,291 --> 00:33:40,291
+‎O parte din profit merge
+‎la rezervatia de lamantini.
+
+539
+00:33:40,375 --> 00:33:42,375
+‎Da, dar intai despartirea.
+
+540
+00:33:42,458 --> 00:33:45,083
+‎Dle dr. Mindy si dra Dibiasky,
+
+541
+00:33:45,166 --> 00:33:47,583
+‎urmati dv. cu planeta descoperita.
+
+542
+00:33:47,666 --> 00:33:49,458
+‎Cometa. Am descoperit o cometa.
+
+543
+00:33:49,541 --> 00:33:51,625
+‎Știu despre ce vrem sa vorbim, nu?
+
+544
+00:33:51,708 --> 00:33:54,458
+‎Sigur. Jack si Brie adora
+‎intercalarile stiintifice.
+
+545
+00:33:54,541 --> 00:33:56,375
+‎Sa fie ceva lejer si simpatic.
+
+546
+00:33:56,458 --> 00:33:58,375
+‎Lor le place sa se distreze.
+
+547
+00:33:58,958 --> 00:34:00,500
+‎Nu e incurajator.
+
+548
+00:34:00,583 --> 00:34:03,708
+‎Ati descoperit o cometa? Bestial!
+
+549
+00:34:03,791 --> 00:34:05,916
+‎Eu am un tatuaj pe spate
+‎cu o stea cazatoare.
+
+550
+00:34:06,875 --> 00:34:08,125
+‎Incredibil!
+
+551
+00:34:13,375 --> 00:34:17,666
+‎Am auzit de despartirea ta.
+‎Voiam sa-ti spunem…
+
+552
+00:34:18,708 --> 00:34:20,333
+‎Ne pare foarte rau.
+
+553
+00:34:20,416 --> 00:34:23,291
+‎Ne pare rau. Pari o persoana… minunata.
+
+554
+00:34:24,208 --> 00:34:26,583
+‎Vezi-ti de treaba ta, bulangiu batran!
+
+555
+00:34:29,500 --> 00:34:30,625
+‎Bine.
+
+556
+00:34:33,125 --> 00:34:35,333
+‎N-o sa mint, prietenii mei
+
+557
+00:34:35,416 --> 00:34:38,750
+‎si Armata Vroom Vroom au fost minunati.
+
+558
+00:34:38,833 --> 00:34:42,500
+‎Le sunt recunoscatoare.
+‎Dar n-o sa mint, a fost greu.
+
+559
+00:34:42,583 --> 00:34:45,291
+‎- Esti o sursa de inspiratie. Incredibil.
+‎- Pentru multi.
+
+560
+00:34:45,375 --> 00:34:47,250
+‎Înfrunti durerea cu curaj.
+
+561
+00:34:47,333 --> 00:34:51,041
+‎Jack, am senzatia
+‎ca ar trebui sa avem o discutie
+
+562
+00:34:51,125 --> 00:34:54,500
+‎cu totii aici. E vreun mesaj
+
+563
+00:34:54,583 --> 00:34:58,750
+‎pe care ai vrea sa-l transmiti
+‎fostului iubit, DJ Chello?
+
+564
+00:34:59,666 --> 00:35:00,500
+‎Ei bine…
+
+565
+00:35:01,250 --> 00:35:02,625
+‎Daca vrei sa spui ceva…
+
+566
+00:35:02,708 --> 00:35:04,291
+‎- Da.
+‎- La camera asta.
+
+567
+00:35:04,375 --> 00:35:07,666
+‎Spune-i de parca ar fi acolo.
+‎Exact ce ai pe suflet.
+
+568
+00:35:07,750 --> 00:35:08,791
+‎Bine.
+
+569
+00:35:11,583 --> 00:35:12,666
+‎Chell.
+
+570
+00:35:14,208 --> 00:35:19,250
+‎Înca te mai iubesc
+‎si, dupa multe nopti nedormite,
+
+571
+00:35:20,750 --> 00:35:21,833
+‎trei,
+
+572
+00:35:22,666 --> 00:35:23,875
+‎te vreau inapoi.
+
+573
+00:35:23,958 --> 00:35:24,958
+‎Scuze…
+
+574
+00:35:25,791 --> 00:35:26,875
+‎- E in regula?
+‎- Da.
+
+575
+00:35:26,958 --> 00:35:29,875
+‎- Te-a inselat.
+‎- Hai, ma, baieti…
+
+576
+00:35:29,958 --> 00:35:31,666
+‎Da. Vreau.
+
+577
+00:35:31,750 --> 00:35:34,125
+‎Diddly a explodat. Și Vroom Vroom.
+
+578
+00:35:34,208 --> 00:35:36,208
+‎Știri BASH mi-a trimis
+‎opt notificari ‎push.
+
+579
+00:35:36,291 --> 00:35:38,166
+‎- Despre asta?
+‎- Da, uite.
+
+580
+00:35:38,250 --> 00:35:40,541
+‎Mobilul a cumparat
+‎single-ul lui DJ Chello.
+
+581
+00:35:40,625 --> 00:35:42,875
+‎Ce naiba… Nici nu m-a intrebat.
+
+582
+00:35:42,958 --> 00:35:45,791
+‎Mi se spune
+‎ca il avem pe DJ Chello pe un link Mugg.
+
+583
+00:35:45,875 --> 00:35:48,833
+‎- Ce are de zis in favoarea sa?
+‎- Îi ador pe producatori.
+
+584
+00:35:48,916 --> 00:35:50,125
+‎Buna, papusica!
+
+585
+00:35:50,208 --> 00:35:52,083
+‎- Buna, iubitule!
+‎- Plange.
+
+586
+00:35:52,166 --> 00:35:54,083
+‎- Baiatul tau a dat-o-n bara.
+‎- Știu.
+
+587
+00:35:54,166 --> 00:35:56,666
+‎Lady Baroque nu purta chiloti
+‎in club in seara aia.
+
+588
+00:35:56,750 --> 00:35:58,416
+‎- Nu-i nimic.
+‎- Am innebunit.
+
+589
+00:35:58,500 --> 00:36:00,416
+‎N-am gandit limpede. Am gresit.
+
+590
+00:36:00,500 --> 00:36:02,375
+‎Dar numai tu contezi…
+
+591
+00:36:03,166 --> 00:36:04,791
+‎Înteleg. Nu-i nimic.
+
+592
+00:36:04,875 --> 00:36:07,583
+‎M-am combinat si eu cu ea
+‎la Globurile Muzicale,
+
+593
+00:36:07,666 --> 00:36:10,000
+‎inainte sa fug
+‎cu extrema de forta de la Nuggets,
+
+594
+00:36:10,083 --> 00:36:12,250
+‎dar nu mai conteaza acum.
+
+595
+00:36:12,333 --> 00:36:15,916
+‎„Gata cu sexul de despartire.
+‎Ne despartim ca sa ne impacam”?
+
+596
+00:36:16,000 --> 00:36:17,166
+‎- Suna bine.
+‎- Haide!
+
+597
+00:36:17,250 --> 00:36:20,041
+‎„Zece sanse noi pentru impostori celebri.”
+
+598
+00:36:20,125 --> 00:36:21,166
+‎Mai bine de-atat…
+
+599
+00:36:21,250 --> 00:36:25,125
+‎Mi-a fost frica,
+‎dar, sincer, acum nu mai imi e.
+
+600
+00:36:25,208 --> 00:36:26,041
+‎Bine. Mersi.
+
+601
+00:36:26,125 --> 00:36:28,958
+‎Barzauna mea, te mariti cu mine?
+
+602
+00:36:29,875 --> 00:36:31,625
+‎Vai de mine! Cum sa nu!
+
+603
+00:36:31,708 --> 00:36:33,208
+‎- Chell, da.
+‎- Da!
+
+604
+00:36:33,291 --> 00:36:34,916
+‎- Da!
+‎- Bestial!
+
+605
+00:36:35,000 --> 00:36:36,333
+‎- Doamne!
+‎- Da!
+
+606
+00:36:36,416 --> 00:36:38,791
+‎Bine asa, DJ Chello.
+
+607
+00:36:39,458 --> 00:36:40,666
+‎Ce se intampla?
+
+608
+00:36:40,750 --> 00:36:41,916
+‎A mai cumparat unul.
+
+609
+00:36:42,000 --> 00:36:44,916
+‎- Cine-s oamenii astia?
+‎- Cele mai mari celebritati…
+
+610
+00:36:46,583 --> 00:36:49,625
+‎Azi avem focuri de artificii.
+
+611
+00:36:49,708 --> 00:36:50,875
+‎- Asa e.
+‎- Beton!
+
+612
+00:36:50,958 --> 00:36:52,458
+‎Da, asa e.
+
+613
+00:36:52,541 --> 00:36:55,250
+‎De la o cerere in casatorie
+‎la un experiment stiintific.
+
+614
+00:36:55,333 --> 00:36:57,250
+‎Apoi un masaj si un martini, va rog.
+
+615
+00:36:57,333 --> 00:37:02,041
+‎Oaspetii nostri de astazi
+‎au facut o descoperire mare in spatiu.
+
+616
+00:37:02,125 --> 00:37:04,041
+‎profesorul astronom Randall Mindy
+
+617
+00:37:04,125 --> 00:37:07,208
+‎si doctoranda Kate Dibiasky
+‎sunt alaturi de noi.
+
+618
+00:37:07,291 --> 00:37:08,333
+‎Bine ati venit!
+
+619
+00:37:08,416 --> 00:37:11,583
+‎Pot sa va intreb ceva mai intai?
+‎Trebuie sa stiu.
+
+620
+00:37:11,666 --> 00:37:13,833
+‎Exista viata in spatiu?
+
+621
+00:37:14,416 --> 00:37:15,958
+‎Ne puteti spune? Da sau nu.
+
+622
+00:37:16,041 --> 00:37:17,250
+‎N-avem date.
+
+623
+00:37:17,916 --> 00:37:20,000
+‎Dar, sigur, in vastitatea spatiului…
+
+624
+00:37:20,083 --> 00:37:21,333
+‎Da, extraterestrii exista.
+
+625
+00:37:21,833 --> 00:37:24,208
+‎Știam c-o sa-mi placa tipul.
+‎Îmi datorezi 50$.
+
+626
+00:37:24,291 --> 00:37:26,958
+‎Nu spun ca exista farfurii zburatoare.
+
+627
+00:37:27,041 --> 00:37:30,208
+‎- Nu-l incurajati, dle profesor.
+‎- Ba asta spune.
+
+628
+00:37:30,291 --> 00:37:31,708
+‎Nu mai plecam de aici.
+
+629
+00:37:31,791 --> 00:37:33,541
+‎Jack se amuza putin.
+
+630
+00:37:33,625 --> 00:37:35,333
+‎- Tata arata fantastic.
+‎- Ce a…
+
+631
+00:37:35,416 --> 00:37:37,583
+‎- N-arata bine?
+‎- I-au facut ceva la barba.
+
+632
+00:37:37,666 --> 00:37:39,583
+‎Cu extraterestrii…
+
+633
+00:37:39,666 --> 00:37:41,458
+‎Chiar arata bine.
+
+634
+00:37:41,541 --> 00:37:43,541
+‎- Foarte mult.
+‎- Dle Randall…
+
+635
+00:37:43,625 --> 00:37:45,541
+‎- O sa-ti para rau.
+‎- Nu ti-a placut.
+
+636
+00:37:45,625 --> 00:37:48,875
+‎Jack se amuza pe seama extraterestrilor,
+
+637
+00:37:48,958 --> 00:37:53,250
+‎dar e un articol in ‎New York Herald
+‎de azi, in care se vorbeste…
+
+638
+00:37:53,333 --> 00:37:55,375
+‎Hai ca te descurci.
+
+639
+00:37:55,458 --> 00:37:57,833
+‎- …ati facut-o voi doi.
+‎- Da, Brie.
+
+640
+00:37:57,916 --> 00:38:00,958
+‎Kate observa supernove…
+
+641
+00:38:01,041 --> 00:38:02,583
+‎E iubita ta?
+
+642
+00:38:02,666 --> 00:38:05,083
+‎- Da.
+‎- N-arata rau.
+
+643
+00:38:05,166 --> 00:38:09,625
+‎…o descoperire socanta,
+‎care se intampla o data in viata.
+
+644
+00:38:09,708 --> 00:38:13,000
+‎Nu stiam ca Subaru face si telescoape.
+
+645
+00:38:13,083 --> 00:38:16,166
+‎Interesant. Spuneti-ne ce-ati descoperit,
+‎dra Dibiasky.
+
+646
+00:38:16,250 --> 00:38:20,250
+‎Monitorizam stelele care explodau
+
+647
+00:38:20,333 --> 00:38:26,750
+‎pentru a ajuta la masurarea
+‎expansiunii universului si…
+
+648
+00:38:26,833 --> 00:38:29,000
+‎- Pentru doctorat, nu?
+‎- Da.
+
+649
+00:38:29,083 --> 00:38:33,250
+‎Am vazut ceva ce n-am recunoscut.
+
+650
+00:38:34,750 --> 00:38:36,041
+‎Era o cometa.
+
+651
+00:38:37,041 --> 00:38:38,166
+‎Una mare.
+
+652
+00:38:40,791 --> 00:38:44,583
+‎Se indreapta direct spre Pamant
+‎si sigur il va lovi.
+
+653
+00:38:45,916 --> 00:38:47,791
+‎Pare foarte palpitant.
+
+654
+00:38:47,875 --> 00:38:50,458
+‎Stele care explodeaza.
+‎Deci chiar explodeaza.
+
+655
+00:38:50,541 --> 00:38:51,708
+‎Cat e de grav?
+
+656
+00:38:51,791 --> 00:38:54,083
+‎Poate distruge casa cuiva? E posibil?
+
+657
+00:38:54,166 --> 00:38:57,333
+‎Cometa Dibiasky, cum se va numi oficial…
+
+658
+00:38:57,416 --> 00:38:58,833
+‎- Dupa ea?
+‎- Da, dupa ea.
+
+659
+00:38:58,916 --> 00:39:01,583
+‎- Felicitari!
+‎- Ce onoare! Da, felicitari!
+
+660
+00:39:01,666 --> 00:39:04,166
+‎Are un diametru
+‎intre sase si noua kilometri.
+
+661
+00:39:04,250 --> 00:39:05,583
+‎- Deci…
+‎- E mare.
+
+662
+00:39:05,666 --> 00:39:08,875
+‎Ar distruge intreaga planeta.
+
+663
+00:39:08,958 --> 00:39:10,583
+‎Nu doar o casa.
+
+664
+00:39:10,666 --> 00:39:11,708
+‎Întreaga planeta.
+
+665
+00:39:11,791 --> 00:39:14,708
+‎Fiind asa de distrugatoare,
+‎va lovi si casa
+
+666
+00:39:14,791 --> 00:39:17,875
+‎de pe coasta New Jersey?
+‎E casa fostei mele neveste.
+
+667
+00:39:17,958 --> 00:39:19,208
+‎Putem aranja?
+
+668
+00:39:19,291 --> 00:39:21,708
+‎Tu si Shelly aveti
+‎o relatie superba. Termina!
+
+669
+00:39:21,791 --> 00:39:23,125
+‎Trebuie sa incetezi.
+
+670
+00:39:23,208 --> 00:39:26,125
+‎Bine, dar, sincer sa fiu,
+‎eu am platit casa aia.
+
+671
+00:39:26,208 --> 00:39:27,500
+‎Îmi pare rau.
+
+672
+00:39:27,583 --> 00:39:30,666
+‎Scuze, nu e clar ce spunem?
+
+673
+00:39:31,916 --> 00:39:33,791
+‎Încercam sa va spunem
+
+674
+00:39:33,875 --> 00:39:37,291
+‎ca urmeaza sa fie distrusa
+‎intreaga planeta.
+
+675
+00:39:38,000 --> 00:39:40,291
+‎- Bine…
+‎- Pai…
+
+676
+00:39:40,375 --> 00:39:43,625
+‎Cu asta ne ocupam noi.
+‎Luam in gluma vestile proaste.
+
+677
+00:39:43,708 --> 00:39:45,625
+‎Exact, te ajuta sa inghiti galusca.
+
+678
+00:39:45,708 --> 00:39:47,666
+‎Apropo, maine avem…
+
+679
+00:39:47,750 --> 00:39:51,541
+‎Poate ca distrugerea intregii planete
+
+680
+00:39:52,458 --> 00:39:53,833
+‎n-ar trebui sa fie nostima.
+
+681
+00:39:54,625 --> 00:39:59,333
+‎Poate ca ar trebui sa va inspaimante
+‎si sa va tulbure.
+
+682
+00:39:59,416 --> 00:40:01,125
+‎Nu, te rog, n-o face.
+
+683
+00:40:01,208 --> 00:40:03,333
+‎- Ar trebui sa nu dormiti noaptea…
+‎- Te rog.
+
+684
+00:40:03,416 --> 00:40:05,250
+‎…si sa plangeti seara de seara,
+
+685
+00:40:05,333 --> 00:40:09,750
+‎stiind ca sigur o sa murim cu totii,
+‎futu-i mama ma-sii!
+
+686
+00:40:11,583 --> 00:40:12,416
+‎Hei!
+
+687
+00:40:12,500 --> 00:40:13,500
+‎Îmi pare rau.
+
+688
+00:40:14,875 --> 00:40:15,708
+‎Auzi?
+
+689
+00:40:16,375 --> 00:40:19,708
+‎Fratele meu sufera de tulburare bipolara.
+‎Daca vrei sa vorbim…
+
+690
+00:40:21,125 --> 00:40:22,041
+‎Bine.
+
+691
+00:40:22,666 --> 00:40:25,583
+‎E mereu asa?
+
+692
+00:40:26,833 --> 00:40:28,083
+‎Am zis eu ceva?
+
+693
+00:40:29,083 --> 00:40:30,083
+‎Da?
+
+694
+00:40:30,166 --> 00:40:33,833
+‎Ar fi trebuit sa-i dau si ei un Xanax.
+
+695
+00:40:34,666 --> 00:40:38,208
+‎Daca nu mai aveti dv.,
+‎avem noi si pentru ea.
+
+696
+00:40:38,291 --> 00:40:41,166
+‎O lingura de Xanax te ajuta
+‎sa inghiti galusca, nu?
+
+697
+00:40:41,250 --> 00:40:42,916
+‎Exact. A fost buna.
+
+698
+00:40:44,000 --> 00:40:47,166
+‎- O sa va mai invitam.
+‎- Știam c-o sa-mi placa tipul.
+
+699
+00:40:47,250 --> 00:40:48,541
+‎- A zis-o intentionat?
+‎- Știam eu!
+
+700
+00:40:49,416 --> 00:40:50,333
+‎Bine.
+
+701
+00:40:50,416 --> 00:40:52,791
+‎Frumosul astronom
+
+702
+00:40:52,875 --> 00:40:56,375
+‎se poate intoarce oricand,
+‎dar nu si femeia isterica.
+
+703
+00:40:56,458 --> 00:40:59,416
+‎Fiti alaturi de noi si maine,
+‎cand il vom avea invitat
+
+704
+00:40:59,500 --> 00:41:03,083
+‎pe contracandidatul presedintei Orlean
+‎peste doi ani.
+
+705
+00:41:03,166 --> 00:41:05,166
+‎Va veni senatorul Jeff Lerner.
+
+706
+00:41:05,250 --> 00:41:08,000
+‎Și Michelle Weems,
+‎criminala condamnata pe nedrept,
+
+707
+00:41:08,083 --> 00:41:12,375
+‎cu care vom vorbi despre nemeritatul
+‎loc trei la ‎Celebrity Dance Off.
+
+708
+00:41:12,458 --> 00:41:15,833
+‎- Eu credeam ca o sa castige.
+‎- Iar eu cred ca e vinovata.
+
+709
+00:41:15,916 --> 00:41:18,083
+‎- Ati urmarit ‎The Daily Rip.
+‎- O zi frumoasa!
+
+710
+00:41:18,916 --> 00:41:20,583
+‎- Am terminat!
+‎- Gata emisiunea?
+
+711
+00:41:20,666 --> 00:41:21,958
+‎- Nici n-am…
+‎- Da.
+
+712
+00:41:22,041 --> 00:41:24,500
+‎- Am transmis mesajul?
+‎- Nu, s-a terminat.
+
+713
+00:41:24,583 --> 00:41:28,500
+‎Ati fost super, dar tipa cu chica
+‎are nevoie de pregatire mediatica.
+
+714
+00:41:29,625 --> 00:41:31,708
+‎- Serios?
+‎- A fost groaznica.
+
+715
+00:41:32,541 --> 00:41:33,916
+‎Mersi, Billy.
+
+716
+00:41:34,500 --> 00:41:39,500
+‎De obicei, mergem sa bem ceva
+‎la Aundrine's, dupa sedinta de la cinci.
+
+717
+00:41:39,583 --> 00:41:42,041
+‎E distractiv. Veniti si dv.
+
+718
+00:41:42,125 --> 00:41:45,041
+‎O sa vad. Multumesc pentru invitatie.
+
+719
+00:41:47,916 --> 00:41:49,041
+‎Kate?
+
+720
+00:41:49,125 --> 00:41:51,541
+‎- Kate?
+‎- Hei! Ati fost grozav.
+
+721
+00:41:51,625 --> 00:41:52,458
+‎Multumesc.
+
+722
+00:41:52,541 --> 00:41:54,291
+‎Pot face o poza pentru portofoliu?
+
+723
+00:41:54,375 --> 00:41:57,083
+‎- Sigur.
+‎- Multumesc.
+
+724
+00:41:58,000 --> 00:42:01,375
+‎Punctul maxim al curbei e
+‎cand Riley Bina s-a impacat cu DJ Chello
+
+725
+00:42:01,458 --> 00:42:02,750
+‎inaintea voastra.
+
+726
+00:42:02,833 --> 00:42:06,041
+‎Au reactionat toate platformele sociale.
+
+727
+00:42:06,875 --> 00:42:08,916
+‎Și la stirea noastra?
+
+728
+00:42:09,000 --> 00:42:11,958
+‎Randall si Kate,
+
+729
+00:42:12,041 --> 00:42:15,750
+‎a fost un trafic bunicel
+‎cand a injurat dra Dibiasky.
+
+730
+00:42:15,833 --> 00:42:19,041
+‎Din pacate, reactia violenta, ulterioara,
+
+731
+00:42:19,125 --> 00:42:20,833
+‎a devenit rapid o mema.
+
+732
+00:42:20,916 --> 00:42:22,208
+‎Doamne!
+
+733
+00:42:22,291 --> 00:42:23,583
+‎NEBUNA - SE VEDE DUPA OCHI
+
+734
+00:42:23,666 --> 00:42:26,250
+‎- E groaznic.
+‎- Ei cred ca sunt nebuna.
+
+735
+00:42:26,333 --> 00:42:29,666
+‎Ia uite! Nu e nevoie de asa ceva.
+
+736
+00:42:30,708 --> 00:42:33,125
+‎- Poti continua, Erin.
+‎- Bine.
+
+737
+00:42:33,208 --> 00:42:36,416
+‎E atat de… E permis pe internet sau…
+
+738
+00:42:36,500 --> 00:42:37,625
+‎E facut in Photoshop.
+
+739
+00:42:37,708 --> 00:42:40,083
+‎Cel mai bine e sa nu pui la suflet…
+
+740
+00:42:40,166 --> 00:42:44,458
+‎Dl profesor Mindy, in schimb,
+‎a avut reactii pozitive.
+
+741
+00:42:44,541 --> 00:42:49,125
+‎Iubi*Vegan a scris:
+‎„Miau! Mie place Om al Stelelor voinic.”
+
+742
+00:42:49,208 --> 00:42:52,208
+‎Unii il numesc:
+‎„Profetul cu Ochi Dulci al Apocalipsei.”
+
+743
+00:42:52,291 --> 00:42:55,333
+‎Sau A-C-V-T,
+‎„astronomul caruia vreau sa i-o trag”.
+
+744
+00:42:56,125 --> 00:42:58,666
+‎Nu vad ce legatura are asta.
+
+745
+00:42:59,375 --> 00:43:01,333
+‎Și asta e tot.
+
+746
+00:43:01,416 --> 00:43:02,500
+‎O PREZENTARE
+‎THE NEW YORK HERALD
+
+747
+00:43:02,583 --> 00:43:05,666
+‎N-am impins stirea pe site-uri
+
+748
+00:43:05,750 --> 00:43:09,625
+‎si numarul de vizualizari a fost
+‎sub stiri meteo si din trafic.
+
+749
+00:43:10,500 --> 00:43:12,500
+‎Asta e tot?
+
+750
+00:43:12,583 --> 00:43:14,333
+‎- Știam eu!
+‎- Asta e.
+
+751
+00:43:15,250 --> 00:43:17,833
+‎- Multumesc, Erin.
+‎- Pentru putin.
+
+752
+00:43:18,708 --> 00:43:20,750
+‎Nu inteleg.
+
+753
+00:43:20,833 --> 00:43:22,666
+‎Nu intereseaza pe nimeni.
+
+754
+00:43:22,750 --> 00:43:27,375
+‎Nu e deloc… De ce nu e lumea ingrozita?
+
+755
+00:43:27,458 --> 00:43:29,458
+‎Ce trebuie sa spunem sau sa facem?
+
+756
+00:43:29,541 --> 00:43:32,916
+‎Oamenii de stiinta din Mexic
+‎si din Spania verifica datele,
+
+757
+00:43:33,000 --> 00:43:34,708
+‎iar Coreea de Sud a zis…
+
+758
+00:43:34,791 --> 00:43:36,500
+‎Fantastic! Coreea de Sud.
+
+759
+00:43:36,583 --> 00:43:39,041
+‎Hai sa nu ne mai aburim reciproc.
+
+760
+00:43:39,125 --> 00:43:42,791
+‎Ideea e ca ne-ati spus
+‎ca datele sunt 100% sigure.
+
+761
+00:43:42,875 --> 00:43:44,625
+‎Și nu e asa. Acum cadem de prosti.
+
+762
+00:43:44,708 --> 00:43:47,291
+‎- Cine a zis ca nu e asa?
+‎- Poftim?
+
+763
+00:43:47,375 --> 00:43:49,666
+‎Vreau sa vorbesc cu cine a zis…
+
+764
+00:43:49,750 --> 00:43:53,333
+‎Doamna Jocelyn Calder, sefa de la NASA,
+
+765
+00:43:53,416 --> 00:43:56,625
+‎a spus public
+‎ca e „o alta isterie evitata la mustata”.
+
+766
+00:43:56,708 --> 00:43:58,625
+‎Ea ne-a zis sa nu spunem nimic.
+
+767
+00:43:58,708 --> 00:44:00,083
+‎„Isterie evitata la mustata.”
+
+768
+00:44:00,166 --> 00:44:01,791
+‎E astronoma?
+
+769
+00:44:01,875 --> 00:44:04,458
+‎E sefa de la NASA,
+‎dar poate nu stie ce vorbeste.
+
+770
+00:44:04,541 --> 00:44:05,833
+‎O fi sefa de la NASA,
+
+771
+00:44:05,916 --> 00:44:09,875
+‎dar e „fosta anestezista
+‎si super sponsor a presedintei Orlean”.
+
+772
+00:44:09,958 --> 00:44:11,583
+‎Sa nu fim dramatici.
+
+773
+00:44:11,666 --> 00:44:12,666
+‎E numai coruptie.
+
+774
+00:44:12,750 --> 00:44:16,416
+‎Da, dar Adul are dreptate.
+‎Înca sunt dezbateri serioase.
+
+775
+00:44:16,500 --> 00:44:18,708
+‎Iar acum ‎Herald ‎si-a patat imaginea.
+
+776
+00:44:18,791 --> 00:44:20,916
+‎Am incheiat cu povestea asta.
+
+777
+00:44:21,666 --> 00:44:25,625
+‎Doamnelor si domnilor,
+‎va doresc un sfarsit al lumii placut.
+
+778
+00:44:25,708 --> 00:44:27,708
+‎Nu e o poveste, clar?
+
+779
+00:44:30,208 --> 00:44:32,916
+‎Mai avem exact sase luni, zece zile,
+
+780
+00:44:33,000 --> 00:44:36,250
+‎doua ore, 11 minute si 41 de secunde
+
+781
+00:44:36,333 --> 00:44:39,041
+‎pana cand o cometa
+‎de doua ori cat Chicxulub
+
+782
+00:44:39,125 --> 00:44:41,750
+‎ne crapa atmosfera si distruge Pamantul.
+
+783
+00:44:42,791 --> 00:44:44,833
+‎Cand ai facut calculele?
+
+784
+00:44:45,666 --> 00:44:48,250
+‎Am introdus momentul impactului
+‎pe o aplicatie de diete.
+
+785
+00:44:48,333 --> 00:44:51,958
+‎Impactul are loc
+‎cand se termina dieta mea.
+
+786
+00:44:52,041 --> 00:44:56,125
+‎Doar ca eu nu tin regim.
+‎Plang de cinci ori pe zi.
+
+787
+00:44:56,208 --> 00:44:58,125
+‎- Mi-e frica.
+‎- Haide…
+
+788
+00:44:58,833 --> 00:45:01,416
+‎Toti ar trebui sa intre in panica, da?
+
+789
+00:45:01,500 --> 00:45:03,416
+‎- Nu plange, hai.
+‎- Știu.
+
+790
+00:45:06,833 --> 00:45:08,291
+‎Împutitul naibii!
+
+791
+00:45:09,875 --> 00:45:12,750
+‎O ȘTIȚI PE ȚICNITA CARE CREDE
+‎CA O SA MURIM TOȚI?
+
+792
+00:45:12,833 --> 00:45:14,041
+‎M-AM CULCAT CU EA.
+
+793
+00:45:16,500 --> 00:45:17,666
+‎Ce s-a intamplat?
+
+794
+00:45:17,750 --> 00:45:20,083
+‎Iubitul meu s-a despartit de mine, cred.
+
+795
+00:45:20,166 --> 00:45:24,500
+‎Doamne, ce zi!
+
+796
+00:45:32,666 --> 00:45:35,958
+‎Tu o sa mori! Și tu o sa mori!
+
+797
+00:45:46,583 --> 00:45:49,708
+‎Totul a pornit de la o poza
+‎care parea o subsuoara
+
+798
+00:45:49,791 --> 00:45:52,458
+‎sau barbia unui barbat cu o barba ciudata.
+
+799
+00:45:52,541 --> 00:45:54,833
+‎Dar acum iese la iveala scandalul…
+
+800
+00:45:54,916 --> 00:45:57,833
+‎Presedinta Orlean a trimis unui candidat
+
+801
+00:45:57,916 --> 00:46:00,583
+‎o poza cu partile ei intime.
+
+802
+00:46:00,666 --> 00:46:02,708
+‎- Maiculita!
+‎- E o stire-momeala.
+
+803
+00:46:02,791 --> 00:46:05,250
+‎Ne dorim un astfel de lider?
+
+804
+00:46:05,333 --> 00:46:07,708
+‎E aceeasi persoana care le-a zis saracilor
+
+805
+00:46:07,791 --> 00:46:11,833
+‎ca, daca nu vor sa fie saraci,
+‎sa aleaga mai bine numerele la loterie?
+
+806
+00:46:11,916 --> 00:46:12,958
+‎Chiar a zis-o.
+
+807
+00:46:13,041 --> 00:46:14,541
+‎O sursa mi-a confirmat
+
+808
+00:46:14,625 --> 00:46:16,750
+‎ca cei doi au o relatie de ani de zile.
+
+809
+00:46:16,833 --> 00:46:18,416
+‎Și tocmai ieri…
+
+810
+00:46:18,500 --> 00:46:22,583
+‎Membri ai partidul meu
+‎pregatesc motiunea de cenzura
+
+811
+00:46:22,666 --> 00:46:23,625
+‎pentru presedinta
+
+812
+00:46:24,583 --> 00:46:25,500
+‎Janie Orlean…
+
+813
+00:46:25,583 --> 00:46:26,916
+‎Doamne, draga mea!
+
+814
+00:46:27,000 --> 00:46:29,791
+‎Asta nici nu stie
+‎ce e aia orbita heliocentrica
+
+815
+00:46:29,875 --> 00:46:31,791
+‎si-mi spune mie ca-s nataflet.
+
+816
+00:46:32,708 --> 00:46:33,708
+‎Zice
+
+817
+00:46:34,541 --> 00:46:38,166
+‎ca „miliardarii evrei au inventat
+‎amenintarea cometei,
+
+818
+00:46:38,250 --> 00:46:42,125
+‎ca guvernul
+‎sa ne priveze de libertate si de arme.
+
+819
+00:46:42,208 --> 00:46:45,500
+‎#NuVaTemeti.” Incredibil.
+
+820
+00:46:46,208 --> 00:46:47,083
+‎Doamne!
+
+821
+00:46:47,166 --> 00:46:49,041
+‎Stai mult pe site-ul ala.
+
+822
+00:46:49,625 --> 00:46:54,833
+‎Da. Am un sfert
+‎de milion de abonati, scumpo.
+
+823
+00:46:54,916 --> 00:46:57,875
+‎Îmi folosesc influenta
+‎ca sa spun adevarul.
+
+824
+00:46:58,833 --> 00:47:01,916
+‎Ma duc sa ma plimb, daca vrei sa vii.
+
+825
+00:47:05,291 --> 00:47:11,666
+‎Se numeste metoda stiintifica
+‎si e cea care a creat computerul
+
+826
+00:47:11,750 --> 00:47:16,666
+‎pe care scrii
+‎teoriile tale stupide ale conspiratiilor.
+
+827
+00:47:18,125 --> 00:47:19,708
+‎Ce zici de asta?
+
+828
+00:47:20,750 --> 00:47:21,958
+‎Randall?
+
+829
+00:47:22,750 --> 00:47:25,250
+‎- Da, scumpo?
+‎- Te cauta cineva.
+
+830
+00:47:25,916 --> 00:47:28,083
+‎Cine? Of…
+
+831
+00:47:31,416 --> 00:47:32,500
+‎Vai, Doamne!
+
+832
+00:47:33,541 --> 00:47:35,458
+‎Da. Bine.
+
+833
+00:47:36,416 --> 00:47:37,250
+‎Bine.
+
+834
+00:47:37,958 --> 00:47:39,166
+‎Sunteti dr. Randall Mindy?
+
+835
+00:47:39,250 --> 00:47:40,250
+‎Da, dle. Eu sunt.
+
+836
+00:47:41,708 --> 00:47:43,250
+‎„O sa murim cu totii.”
+
+837
+00:47:43,916 --> 00:47:45,708
+‎Du-te dracu'!
+
+838
+00:47:48,750 --> 00:47:51,958
+‎FBI! Nu misca! În genunchi!
+‎Treci in genunchi!
+
+839
+00:47:52,708 --> 00:47:55,500
+‎Esti arestata
+‎pentru divulgarea secretelor de stat.
+
+840
+00:47:55,583 --> 00:47:56,458
+‎Doamne!
+
+841
+00:47:56,541 --> 00:48:00,125
+‎Puteati sa ma sunati sau sa veniti acasa.
+
+842
+00:48:01,208 --> 00:48:03,208
+‎Esti deghizat in orb?
+
+843
+00:48:05,666 --> 00:48:08,583
+‎- La pamant!
+‎- Bine. Nu va agitati.
+
+844
+00:48:09,541 --> 00:48:12,083
+‎Am doar mai multi pigmenti decat voi.
+
+845
+00:48:12,166 --> 00:48:15,083
+‎Stramosii vostri au migrat
+‎catre nordul Europei
+
+846
+00:48:15,166 --> 00:48:17,250
+‎si li s-a albit pielea, ca sa nu…
+
+847
+00:48:19,500 --> 00:48:22,958
+‎Dobitocilor, daca nu ma duceti
+‎in pestera lui Batman,
+
+848
+00:48:23,041 --> 00:48:24,666
+‎de ce dracu' mi-ati pus sacul?
+
+849
+00:48:27,000 --> 00:48:29,416
+‎Aveti grija. Va cere bani sa va cacati.
+
+850
+00:48:30,250 --> 00:48:32,500
+‎Ce cauta aici? E cu noi?
+
+851
+00:48:33,250 --> 00:48:34,416
+‎Puteti intra.
+
+852
+00:48:39,333 --> 00:48:41,541
+‎Cred ca a fost Winston Churchill…
+
+853
+00:48:41,625 --> 00:48:47,500
+‎Sau poate a zis-o Bobby Knight:
+‎„Cel mai mare efort cand esti lider
+
+854
+00:48:47,583 --> 00:48:51,083
+‎e sa renunti la mandrie
+
+855
+00:48:51,833 --> 00:48:54,791
+‎si sa-ti recunosti greselile.”
+
+856
+00:48:54,875 --> 00:48:56,416
+‎Ai fost amagita, ca si mine,
+
+857
+00:48:56,500 --> 00:48:59,208
+‎dar ne-am consultat oamenii de stiinta,
+
+858
+00:48:59,291 --> 00:49:02,750
+‎care au absolvit facultati prestigioase,
+‎Harvard, Princeton etc.
+
+859
+00:49:03,625 --> 00:49:04,500
+‎Au confirmat datele.
+
+860
+00:49:04,583 --> 00:49:08,416
+‎Am dori sa va prezentam…
+
+861
+00:49:10,000 --> 00:49:12,000
+‎scuzele noastre prezidentiale.
+
+862
+00:49:12,083 --> 00:49:13,708
+‎- Serios?
+‎- Ai auzit?
+
+863
+00:49:13,791 --> 00:49:16,625
+‎Și suntem pregatiti sa ne mobilizam
+
+864
+00:49:16,708 --> 00:49:19,583
+‎ca pe vremuri, ca sa salvam planeta.
+
+865
+00:49:21,666 --> 00:49:23,750
+‎Cea mai buna veste din ultima vreme.
+
+866
+00:49:23,833 --> 00:49:30,375
+‎Practic, ne spuneti ca o sa pierdeti
+‎alegerile de la jumatatea mandatului,
+
+867
+00:49:30,458 --> 00:49:33,000
+‎caci v-au prins
+‎trimitand poze cu fofoloanca dv.
+
+868
+00:49:33,083 --> 00:49:35,708
+‎iubitului serif si actor de filme porno.
+
+869
+00:49:35,791 --> 00:49:39,791
+‎Și acum va convine sa faceti ceva
+‎in legatura cu cometa?
+
+870
+00:49:41,500 --> 00:49:42,541
+‎Da.
+
+871
+00:49:42,625 --> 00:49:44,000
+‎Bine.
+
+872
+00:49:44,708 --> 00:49:46,000
+‎Bine…
+
+873
+00:49:47,791 --> 00:49:51,041
+‎Doamne, ma simt usurata ca faceti ceva.
+
+874
+00:49:51,125 --> 00:49:54,708
+‎- Haide!
+‎- A fost nespus de…
+
+875
+00:49:54,791 --> 00:49:56,958
+‎- Nespus de greu.
+‎- Vino incoace.
+
+876
+00:49:57,041 --> 00:50:00,166
+‎A fost nespus de stresant pentru noi.
+
+877
+00:50:00,250 --> 00:50:01,291
+‎Da, sunt de acord.
+
+878
+00:50:01,375 --> 00:50:03,583
+‎O sa ne ia o povara de pe suflet…
+
+879
+00:50:03,666 --> 00:50:06,583
+‎Scuze, urata mai esti cand plangi!
+
+880
+00:50:06,666 --> 00:50:08,458
+‎Posibil.
+
+881
+00:50:08,541 --> 00:50:10,458
+‎O sa ne intrebe de ce n-am actionat.
+
+882
+00:50:10,541 --> 00:50:12,958
+‎Va trebui sa-ti asumi tu raspunderea.
+
+883
+00:50:13,041 --> 00:50:16,083
+‎Da, dar o sa fim alaturi de tine, Jocelyn.
+
+884
+00:50:16,750 --> 00:50:18,375
+‎- Corect.
+‎- Cum sa nu, Janie!
+
+885
+00:50:19,000 --> 00:50:21,500
+‎O sa-mi dau demisia maine, la prima ora.
+
+886
+00:50:21,583 --> 00:50:24,250
+‎- Bine.
+‎- Ce ciudat!
+
+887
+00:50:24,333 --> 00:50:26,458
+‎E anestezista.
+
+888
+00:50:26,541 --> 00:50:29,541
+‎Voi da o declaratie…
+
+889
+00:50:29,625 --> 00:50:32,166
+‎prezidentiala pentru poporul american.
+
+890
+00:50:32,250 --> 00:50:35,041
+‎Și n-o sa spunem din timp presei,
+
+891
+00:50:35,125 --> 00:50:37,916
+‎fiindca asa va da impresia
+
+892
+00:50:38,000 --> 00:50:39,666
+‎ca e o situatie de urgenta…
+
+893
+00:50:39,750 --> 00:50:41,583
+‎Lucruri bune celor care stiu sa astepte.
+
+894
+00:50:43,416 --> 00:50:44,416
+‎Vezi?
+
+895
+00:50:45,458 --> 00:50:47,125
+‎Vai, Doamne!
+
+896
+00:50:48,750 --> 00:50:50,041
+‎SISTEM DE TRANSMISIE DE URGENȚA
+
+897
+00:50:50,125 --> 00:50:53,166
+‎Întrerupem emisiunea ‎Logodnici cu noroc
+
+898
+00:50:53,250 --> 00:50:56,666
+‎pentru un mesaj urgent
+‎din partea presedintei Statelor Unite.
+
+899
+00:50:59,916 --> 00:51:02,875
+‎Cetateni ai Statelor Unite
+‎si oameni din toata lumea,
+
+900
+00:51:03,458 --> 00:51:04,791
+‎tocmai am primit
+
+901
+00:51:04,875 --> 00:51:09,000
+‎niste descoperiri stiintifice
+‎care confirma cel mai sumbru scenariu.
+
+902
+00:51:10,625 --> 00:51:14,833
+‎O cometa fara precedent,
+‎cu o circumferinta de noua kilometri,
+
+903
+00:51:14,916 --> 00:51:20,666
+‎urmeaza o traiectorie de coliziune directa
+‎cu indragita noastra planeta Pamant.
+
+904
+00:51:20,750 --> 00:51:24,666
+‎Momentul impactului va fi
+‎peste aproximativ cinci luni.
+
+905
+00:51:24,750 --> 00:51:25,666
+‎Deci avem…
+
+906
+00:51:25,750 --> 00:51:27,958
+‎Avem proiectul de lege pentru cheltuieli…
+
+907
+00:51:28,041 --> 00:51:31,791
+‎Am elaborat pachetul de cheltuieli
+‎de urgenta pentru Congres…
+
+908
+00:51:31,875 --> 00:51:34,083
+‎…aprobat de Senat si de Camera.
+
+909
+00:51:34,166 --> 00:51:35,000
+‎Bine.
+
+910
+00:51:35,083 --> 00:51:39,166
+‎Astfel, NASA si minunatele
+‎noastre forte armate vor putea
+
+911
+00:51:39,250 --> 00:51:41,083
+‎lansa anticipativ un atac,
+
+912
+00:51:42,541 --> 00:51:46,250
+‎folosind nave spatiale si sateliti
+‎scosi din uz,
+
+913
+00:51:46,333 --> 00:51:49,041
+‎incarcati cu bombe nucleare.
+
+914
+00:51:49,125 --> 00:51:53,333
+‎Vom devia cursul cometei Dibiasky…
+
+915
+00:51:53,416 --> 00:51:55,458
+‎Dar ne va trebui un erou.
+
+916
+00:51:55,541 --> 00:51:58,791
+‎Ne va trebui un pilot, arme adevarate si…
+
+917
+00:51:58,875 --> 00:52:02,250
+‎Misiunea n-ar trebui indeplinita
+‎cu tehnologie de la distanta?
+
+918
+00:52:02,333 --> 00:52:04,541
+‎Washington are mereu nevoie de un erou.
+
+919
+00:52:04,625 --> 00:52:06,125
+‎L-am rugat
+
+920
+00:52:07,041 --> 00:52:13,000
+‎pe patriotul nostru transant, detinator
+‎al Medaliei Libertatii, Benedict Drask,
+
+921
+00:52:13,083 --> 00:52:16,250
+‎sa indeplineasca aceasta dificila si…
+
+922
+00:52:16,333 --> 00:52:19,541
+‎Scuzati-ma. Nu e domnul mercenar
+
+923
+00:52:19,625 --> 00:52:22,416
+‎care tipa la copiii aceia
+‎din curtea Casei Albe?
+
+924
+00:52:22,500 --> 00:52:25,916
+‎Da. Primise onoarea
+
+925
+00:52:26,000 --> 00:52:29,333
+‎initiativei prezidentiale
+‎de a-i pune pe copii sa faca sport.
+
+926
+00:52:29,416 --> 00:52:31,250
+‎Sari mai sus, grasane…
+
+927
+00:52:32,000 --> 00:52:34,333
+‎Pareti niste fatalai.
+
+928
+00:52:34,416 --> 00:52:36,666
+‎- Scuzati-ma…
+‎- E din alta generatie.
+
+929
+00:52:36,750 --> 00:52:38,083
+‎Ieseam cu el la intalnire.
+
+930
+00:52:38,166 --> 00:52:40,500
+‎Știti ce-a patit ultimul fatalau
+‎din unitatea mea?
+
+931
+00:52:41,458 --> 00:52:43,250
+‎Ati vazut maruntaiele cuiva?
+
+932
+00:52:47,416 --> 00:52:49,541
+‎Benedict Drask, raportez la datorie!
+
+933
+00:52:51,708 --> 00:52:53,791
+‎- Multumesc pentru…
+‎- Va fi fantastic.
+
+934
+00:52:53,875 --> 00:52:55,458
+‎Are o voce extraordinara.
+
+935
+00:52:55,541 --> 00:52:58,166
+‎- Îl lasam sa dea o declaratie.
+‎- Unii spun…
+
+936
+00:52:58,250 --> 00:52:59,625
+‎Are si un corp frumos.
+
+937
+00:52:59,708 --> 00:53:01,041
+‎- Serios.
+‎- Da.
+
+938
+00:53:01,125 --> 00:53:02,083
+‎…misiune sinucigasa.
+
+939
+00:53:02,166 --> 00:53:04,458
+‎Va cer un singur lucru:
+
+940
+00:53:05,541 --> 00:53:06,875
+‎daca voi fi sfaramat,
+
+941
+00:53:08,041 --> 00:53:11,458
+‎sa meritati restul vietii
+‎datorate sacrificiului meu.
+
+942
+00:53:11,541 --> 00:53:14,000
+‎Restul vietii datorate sacrificiului meu.
+
+943
+00:53:14,625 --> 00:53:16,500
+‎- Nu?
+‎- Eu am scris-o.
+
+944
+00:53:16,583 --> 00:53:18,708
+‎Nu e din ‎Salvati soldatul Ryan?
+
+945
+00:53:18,791 --> 00:53:21,708
+‎- Da.
+‎- Nu, e cu totul altceva.
+
+946
+00:53:21,791 --> 00:53:25,541
+‎Multumiri speciale si echipei
+‎de oameni de stiinta din spate…
+
+947
+00:53:25,625 --> 00:53:28,250
+‎Vom avea nevoie de ajutorul tuturor.
+
+948
+00:53:28,333 --> 00:53:30,166
+‎- Al tuturor.
+‎- …amenintare iminenta.
+
+949
+00:53:30,250 --> 00:53:33,916
+‎Trebuie doar sa fim convingatori
+‎cand transmitem mesajul.
+
+950
+00:53:34,000 --> 00:53:35,458
+‎…om de stiinta afro-american.
+
+951
+00:53:35,541 --> 00:53:37,125
+‎Dra Dibiasky…
+
+952
+00:53:37,208 --> 00:53:40,583
+‎Și Kate Dibiasky,
+‎dupa care a fost numita cometa,
+
+953
+00:53:40,666 --> 00:53:42,458
+‎dar nu dati vina pe ea.
+
+954
+00:53:42,541 --> 00:53:46,166
+‎…are ecou la tinerii rebeli
+‎si bolnavi mintal
+
+955
+00:53:46,250 --> 00:53:48,125
+‎- …si alte grupari marginale.
+‎- Mersi.
+
+956
+00:53:48,208 --> 00:53:51,500
+‎- Vom face tot posibilul.
+‎- Numai sa faceti ce trebuie.
+
+957
+00:53:51,583 --> 00:53:52,916
+‎- Suntem alaturi de voi.
+‎- Da.
+
+958
+00:53:53,000 --> 00:53:56,250
+‎Mai ales dv., dle profesor,
+‎fiindca urcati in sondaje
+
+959
+00:53:56,333 --> 00:53:58,666
+‎mult mai mult
+‎decat colegii dv. Incredibil.
+
+960
+00:53:58,750 --> 00:54:04,250
+‎El ne va ajuta sa distrugem
+‎dusmanul nostru comun, Dibiasky.
+
+961
+00:54:04,875 --> 00:54:07,041
+‎Minunat. Cred ca am terminat.
+
+962
+00:54:07,125 --> 00:54:08,666
+‎Bine. Hai sa mergem.
+
+963
+00:54:08,750 --> 00:54:10,291
+‎- Pot sa spun ceva?
+‎- Kate…
+
+964
+00:54:10,375 --> 00:54:12,000
+‎Murim de curiozitate.
+
+965
+00:54:13,250 --> 00:54:14,375
+‎Nu v-am votat.
+
+966
+00:54:16,541 --> 00:54:22,708
+‎Dar ne confruntam cu o situatie
+‎dincolo de indoielile mele.
+
+967
+00:54:22,791 --> 00:54:27,125
+‎Asa ca voi sprijini
+‎in totalitate aceasta initiativa.
+
+968
+00:54:28,000 --> 00:54:31,791
+‎Oricat m-ati dezgusta.
+
+969
+00:54:32,458 --> 00:54:34,375
+‎Fantastic!
+
+970
+00:54:34,458 --> 00:54:36,291
+‎Da. Frumos.
+
+971
+00:54:36,375 --> 00:54:39,125
+‎Eu am spus FBI-ului
+‎sa-ti puna sacul in cap.
+
+972
+00:54:39,208 --> 00:54:42,250
+‎Ei nu fac asa ceva, CIA-ul o face.
+‎Dar le-am zis eu.
+
+973
+00:54:42,333 --> 00:54:45,083
+‎Banuiam ca tu ai fost.
+
+974
+00:54:45,958 --> 00:54:48,416
+‎Nu te-ai inselat, caci eu am facut-o.
+
+975
+00:54:48,500 --> 00:54:51,291
+‎- A fost amuzant si tare.
+‎- Bine.
+
+976
+00:54:51,375 --> 00:54:55,458
+‎Iisus Hristos sa va binecuvanteze pe toti,
+
+977
+00:54:56,208 --> 00:54:59,333
+‎mai ales pe membrii onorabili
+‎ai partidului meu.
+
+978
+00:55:00,000 --> 00:55:01,125
+‎Vom reusi.
+
+979
+00:55:31,708 --> 00:55:34,125
+‎O sa murim toti!
+
+980
+00:55:35,291 --> 00:55:38,083
+‎Gasca, cometa asta ma streseaza.
+
+981
+00:55:38,166 --> 00:55:40,250
+‎Vine. Lumea ar trebui sa sape transee.
+
+982
+00:55:40,333 --> 00:55:42,708
+‎Eu am deja cumparatori online
+‎pentru lopeti.
+
+983
+00:55:42,791 --> 00:55:45,666
+‎Victorie clara a presedintei Orlean
+‎la alegeri.
+
+984
+00:55:45,750 --> 00:55:46,833
+‎RATA DE ÎNCREDERE - 99,1%
+
+985
+00:55:46,916 --> 00:55:49,208
+‎- Ce sexy e!
+‎- O mie de dolari bucata.
+
+986
+00:55:49,291 --> 00:55:50,916
+‎#VRAJITOAREASTRONOMA
+‎#EVINALUIKATE
+
+987
+00:55:51,000 --> 00:55:52,125
+‎E COMETA O FARSA?
+
+988
+00:55:52,833 --> 00:55:56,916
+‎- Hai sa ne-o tragem!
+‎- „…cu care voi fi investit.”
+
+989
+00:55:57,000 --> 00:55:58,083
+‎„Asa sa ma ajute Dumnezeu.”
+
+990
+00:55:58,166 --> 00:56:00,416
+‎- Asa sa ma ajute Dumnezeu.
+‎- Felicitari!
+
+991
+00:56:00,500 --> 00:56:01,625
+‎CRESC COTAȚIILE LA BURSA!
+
+992
+00:56:01,708 --> 00:56:05,458
+‎Se vorbeste
+‎despre Premiul Nobel pentru Pace.
+
+993
+00:56:08,916 --> 00:56:10,500
+‎RECORD SCADERE COTAȚII LA BURSA!
+
+994
+00:56:16,916 --> 00:56:18,625
+‎SE APROPIE SFÂRȘITUL
+‎SE MAI JOACA SUPER BOWL?
+
+995
+00:56:23,750 --> 00:56:25,041
+‎Buna, Sammy!
+
+996
+00:56:25,750 --> 00:56:28,416
+‎Chiar esti doctor?
+
+997
+00:56:28,500 --> 00:56:31,666
+‎Oarecum. Sunt astronom.
+
+998
+00:56:32,750 --> 00:56:35,833
+‎Ce e un astronom?
+
+999
+00:56:35,916 --> 00:56:38,708
+‎Dle profesor Mindy, sunt multe temeri
+
+1000
+00:56:38,791 --> 00:56:40,541
+‎in America si in toata lumea.
+
+1001
+00:56:40,625 --> 00:56:42,708
+‎Parintii nu stiu ce sa le spuna copiilor.
+
+1002
+00:56:42,791 --> 00:56:45,208
+‎Ce le-ati spune
+‎ca sa-i ajutati sa inteleaga?
+
+1003
+00:56:45,750 --> 00:56:48,791
+‎Sunt sigur ca multi dintre noi
+‎sunt speriati acum,
+
+1004
+00:56:49,458 --> 00:56:55,708
+‎dar va asigur ca se ocupa de aceasta
+‎problema cele mai stralucite minti.
+
+1005
+00:56:56,250 --> 00:57:00,458
+‎Am vazut planurile oamenilor de stiinta
+‎si sunt solide.
+
+1006
+00:57:00,541 --> 00:57:05,208
+‎Știu ca vorbele dv.
+‎sunt foarte linistitoare, dle Randall,
+
+1007
+00:57:05,291 --> 00:57:09,416
+‎si va multumim pentru curajul si munca dv.
+
+1008
+00:57:09,500 --> 00:57:11,166
+‎As dori sa spun
+
+1009
+00:57:11,958 --> 00:57:16,291
+‎ca, de cate ori mi-e frica
+‎sau ma simt singura…
+
+1010
+00:57:17,833 --> 00:57:22,250
+‎Ma gandesc la tine si ma simt mai bine.
+‎Îti multumesc.
+
+1011
+00:57:23,000 --> 00:57:24,375
+‎E datoria mea.
+
+1012
+00:57:35,458 --> 00:57:37,583
+‎- Spune-mi ca o sa murim toti.
+‎- Ce?
+
+1013
+00:57:40,000 --> 00:57:42,791
+‎- Spune-mi ca o sa murim toti.
+‎- O sa murim toti.
+
+1014
+00:57:42,875 --> 00:57:43,708
+‎Valeu!
+
+1015
+00:57:43,791 --> 00:57:47,375
+‎Acesti doi marxisti
+‎o tin una si buna ca „stiinta” lor,
+
+1016
+00:57:47,458 --> 00:57:49,583
+‎iar noi ar trebui sa facem ce zic ei?
+
+1017
+00:57:49,666 --> 00:57:52,291
+‎De unde stim ca exista cometa asta?
+
+1018
+00:57:52,375 --> 00:57:56,125
+‎Dle Pawketty si dle congresman,
+‎datele au fost demonstrate
+
+1019
+00:57:56,208 --> 00:58:00,458
+‎si verificate de sute de oameni de stiinta
+‎renumiti pe plan mondial.
+
+1020
+00:58:00,541 --> 00:58:04,541
+‎Ar trebui sa avem incredere in dv.?
+‎Cometa va poarta numele.
+
+1021
+00:58:05,958 --> 00:58:08,000
+‎Nu vad legatura.
+
+1022
+00:58:08,083 --> 00:58:09,791
+‎Atunci, de ce nu raspundeti?
+
+1023
+00:58:09,875 --> 00:58:11,916
+‎- Raspundeti.
+‎- Care e intrebarea?
+
+1024
+00:58:12,000 --> 00:58:13,125
+‎Maturizati-va, da?
+
+1025
+00:58:13,208 --> 00:58:14,666
+‎E ridicol.
+
+1026
+00:58:16,416 --> 00:58:20,416
+‎Tocmai imi dau seama ca nu stim nimic
+‎unul despre celalalt, nu-i asa?
+
+1027
+00:58:22,125 --> 00:58:23,083
+‎E adevarat.
+
+1028
+00:58:24,291 --> 00:58:27,666
+‎De cate ori incerc
+‎sa te intreb ceva despre viata ta,
+
+1029
+00:58:27,750 --> 00:58:31,416
+‎imi spui doar
+‎despre restaurantele tale preferate.
+
+1030
+00:58:32,375 --> 00:58:33,541
+‎Pai… Știi cum e…
+
+1031
+00:58:34,250 --> 00:58:36,041
+‎Nu sufar partea aia
+
+1032
+00:58:36,125 --> 00:58:38,291
+‎a unei relatii in care te prezinti.
+
+1033
+00:58:39,375 --> 00:58:41,000
+‎Am inteles.
+
+1034
+00:58:43,000 --> 00:58:45,208
+‎Bine, hai s-o facem si pe-asta.
+
+1035
+00:58:47,708 --> 00:58:48,791
+‎Bine.
+
+1036
+00:58:49,958 --> 00:58:50,916
+‎Asadar…
+
+1037
+00:58:52,375 --> 00:58:56,833
+‎Bunicul meu a inventat
+‎procesul de congelare rapida,
+
+1038
+00:58:56,916 --> 00:58:59,166
+‎asa ca provin
+‎dintr-o familie grotesc de bogata,
+
+1039
+00:58:59,250 --> 00:59:03,500
+‎dar mi-am luat trei masterate
+‎ca sa scap de ea.
+
+1040
+00:59:04,666 --> 00:59:07,333
+‎Am divortat de doua ori.
+
+1041
+00:59:07,416 --> 00:59:13,750
+‎Unul era secretar de stat,
+‎celalalt era pescar sportiv.
+
+1042
+00:59:15,083 --> 00:59:19,666
+‎M-am culcat cu doi fosti presedinti.
+
+1043
+00:59:19,750 --> 00:59:24,583
+‎Vorbesc patru limbi
+‎si am doua tablouri Monet.
+
+1044
+00:59:27,750 --> 00:59:29,958
+‎Doi fosti presedinti.
+
+1045
+00:59:31,958 --> 00:59:33,875
+‎- E randul meu?
+‎- Da.
+
+1046
+00:59:34,583 --> 00:59:40,250
+‎Bine. Tata a fost profesor de geografie
+‎la scoala generala.
+
+1047
+00:59:40,333 --> 00:59:43,583
+‎Mama tundea lumea in bucatarie.
+
+1048
+00:59:44,500 --> 00:59:47,500
+‎Acum doi ani,
+‎a murit cainele familiei, JoJo,
+
+1049
+00:59:47,583 --> 00:59:49,583
+‎ceea ce m-a dat peste cap.
+
+1050
+00:59:49,666 --> 00:59:53,041
+‎N-am mai plans niciodata atat de mult.
+
+1051
+00:59:54,583 --> 00:59:55,541
+‎Și…
+
+1052
+00:59:57,333 --> 01:00:02,541
+‎in sfarsit, am primit afisul cu
+‎Razboiul stelelor,‎ semnat de Mark Hamill.
+
+1053
+01:00:02,625 --> 01:00:04,708
+‎E in garaj. Da.
+
+1054
+01:00:05,583 --> 01:00:07,666
+‎Bine.
+
+1055
+01:00:09,833 --> 01:00:11,125
+‎Gata.
+
+1056
+01:00:15,541 --> 01:00:17,958
+‎Unde mergem sa mancam diseara?
+
+1057
+01:00:22,916 --> 01:00:26,250
+‎ZIUA LANSARII
+
+1058
+01:00:26,333 --> 01:00:28,916
+‎Domnul este Pastorul meu.
+‎Nu voi duce lipsa de nimic.
+
+1059
+01:00:29,000 --> 01:00:31,125
+‎El ma paste in pasuni verzi.
+
+1060
+01:00:32,250 --> 01:00:36,083
+‎Și ma duce la ape de odihna.
+‎Îmi invioreaza sufletul.
+
+1061
+01:00:36,166 --> 01:00:39,458
+‎Din Ziua Z n-am mai vazut
+‎o asemenea mobilizare
+
+1062
+01:00:39,541 --> 01:00:43,416
+‎de unitati si de resurse
+‎pentru o misiune nobila.
+
+1063
+01:00:44,041 --> 01:00:46,916
+‎Nu putem sa nu fim impresionati
+‎de curajul, ingeniozitatea
+
+1064
+01:00:47,000 --> 01:00:49,833
+‎si sacrificiile afisate aici.
+
+1065
+01:01:09,541 --> 01:01:12,125
+‎Bine, incepem. Atentie maxima!
+
+1066
+01:01:14,041 --> 01:01:17,416
+‎Vreau sa stii ca e cea mai tare propulsie
+
+1067
+01:01:17,500 --> 01:01:20,041
+‎pe care am simtit-o vreodata. Multumesc.
+
+1068
+01:01:33,333 --> 01:01:36,541
+‎Ce va retine, baieti? Ce mai asteptati?
+
+1069
+01:01:37,500 --> 01:01:40,625
+‎Hai, tampitilor, sa aprindem
+‎pocnitoarea asta nenorocita!
+
+1070
+01:01:41,166 --> 01:01:42,541
+‎N-am toata ziua la dispozitie.
+
+1071
+01:01:42,625 --> 01:01:47,208
+‎Dle comandant Drask,
+‎va vorbeste presedinta.
+
+1072
+01:01:48,458 --> 01:01:50,333
+‎Natiunea va multumeste.
+
+1073
+01:01:51,083 --> 01:01:52,708
+‎Planeta va multumeste.
+
+1074
+01:01:53,416 --> 01:01:55,875
+‎Eu si Dumnezeu iti multumim.
+
+1075
+01:01:56,583 --> 01:01:59,208
+‎M-as multumi cu un pahar de Jack Daniels
+
+1076
+01:02:00,083 --> 01:02:03,708
+‎si cu anularea amenzilor
+‎pentru conducere sub influenta alcoolului.
+
+1077
+01:02:05,083 --> 01:02:08,916
+‎Aici centrul de control.
+‎Indicatorii sunt verzi.
+
+1078
+01:02:09,000 --> 01:02:11,416
+‎Control final al platformei de lansare.
+
+1079
+01:02:11,500 --> 01:02:17,208
+‎Descoperirea dv. a dus la aceasta
+‎misiune si la sansa de a salva Pamantul.
+
+1080
+01:02:18,375 --> 01:02:19,666
+‎Aveti…
+
+1081
+01:02:22,041 --> 01:02:22,875
+‎onoarea.
+
+1082
+01:02:28,458 --> 01:02:29,458
+‎Multumesc.
+
+1083
+01:02:32,250 --> 01:02:35,125
+‎Multumesc, doamna presedinta.
+
+1084
+01:02:36,375 --> 01:02:38,833
+‎Cetateni ai planetei Pamant,
+
+1085
+01:02:40,375 --> 01:02:43,041
+‎totul este teoretic imposibil
+
+1086
+01:02:43,708 --> 01:02:45,125
+‎pana cand nu e realizat.
+
+1087
+01:02:46,250 --> 01:02:49,750
+‎Astea fiind spuse, suntem gata de lansare.
+
+1088
+01:02:49,833 --> 01:02:50,708
+‎Da.
+
+1089
+01:02:50,791 --> 01:02:52,541
+‎- A fost beton.
+‎- Multumesc.
+
+1090
+01:02:52,625 --> 01:02:53,541
+‎Impecabil.
+
+1091
+01:02:55,833 --> 01:02:57,708
+‎Pot sa vin si eu?
+
+1092
+01:02:59,125 --> 01:03:01,000
+‎- Buna ziua!
+‎- Buna, Peter!
+
+1093
+01:03:01,083 --> 01:03:05,708
+‎Brie, arati minunat ca de obicei.
+
+1094
+01:03:06,958 --> 01:03:08,250
+‎Are voie aici?
+
+1095
+01:03:08,333 --> 01:03:12,291
+‎Da, e Sponsor Vultur Platinum
+‎al campaniilor electorale. Acces deplin.
+
+1096
+01:03:12,375 --> 01:03:14,000
+‎Faza de lansare.
+
+1097
+01:03:14,750 --> 01:03:17,625
+‎Ecstasy tocmai isi face efectul.
+‎Ce sincronizare!
+
+1098
+01:03:17,708 --> 01:03:24,125
+‎Zece, noua, opt, sapte,
+‎sase, cinci, patru…
+
+1099
+01:03:24,875 --> 01:03:26,125
+‎Trei…
+
+1100
+01:03:40,541 --> 01:03:41,750
+‎Slava Domnului!
+
+1101
+01:04:09,625 --> 01:04:11,583
+‎N-am pierdut niciun satelit.
+
+1102
+01:04:11,666 --> 01:04:14,916
+‎Marja de eroare era
+‎ca doi sa nu functioneze.
+
+1103
+01:04:15,000 --> 01:04:19,166
+‎Dna presedinta, putem discuta putin afara?
+
+1104
+01:04:19,791 --> 01:04:20,916
+‎Vai, Doamne!
+
+1105
+01:04:21,000 --> 01:04:23,791
+‎Probabilitatea de succes a crescut la 81%.
+
+1106
+01:04:23,875 --> 01:04:25,875
+‎Incredibil!
+
+1107
+01:04:26,583 --> 01:04:27,750
+‎Janie, acum!
+
+1108
+01:04:27,833 --> 01:04:30,583
+‎Mii de scuze!
+
+1109
+01:04:30,666 --> 01:04:32,250
+‎Peter, n-am vrut sa…
+
+1110
+01:04:36,500 --> 01:04:41,750
+‎Ma uit in jos, la mingea albastra
+‎pe care o numim toti casa.
+
+1111
+01:04:42,250 --> 01:04:45,458
+‎Toti albii care muncesc din greu…
+
+1112
+01:04:46,125 --> 01:04:47,083
+‎Domnul sa va binecuvanteze!
+
+1113
+01:04:47,875 --> 01:04:50,125
+‎E alta generatie. Da.
+
+1114
+01:04:50,791 --> 01:04:53,666
+‎Voiam sa-i salut si pe indienii de acolo.
+
+1115
+01:04:53,750 --> 01:04:59,041
+‎Pe ambele tipuri, pe cei cu elefanti
+‎si pe cei cu arcuri si sageti.
+
+1116
+01:04:59,708 --> 01:05:02,958
+‎De ce n-ati lucrat niciodata in echipa?
+‎N-ar fi misto?
+
+1117
+01:05:03,625 --> 01:05:05,458
+‎As vrea sa-i salut si pe homosexuali.
+
+1118
+01:05:05,541 --> 01:05:07,875
+‎Dle comandant,
+‎urmeaza ejectarea propulsoarelor.
+
+1119
+01:05:07,958 --> 01:05:09,083
+‎Comunicati la subiect.
+
+1120
+01:05:09,166 --> 01:05:10,625
+‎Receptionat.
+
+1121
+01:05:20,750 --> 01:05:23,416
+‎Desprindere confirmata.
+
+1122
+01:05:23,500 --> 01:05:24,500
+‎Frumos!
+
+1123
+01:05:29,083 --> 01:05:30,166
+‎Era in franceza?
+
+1124
+01:05:31,458 --> 01:05:37,000
+‎Da. Înseamna
+‎„ingerii se inalta spre ceruri”.
+
+1125
+01:05:38,333 --> 01:05:42,458
+‎Dintr-o poezie din secolul al XIV-lea.
+‎Am studiat-o la Dartmouth.
+
+1126
+01:05:42,541 --> 01:05:45,875
+‎Urmarind toate astea,
+‎m-a facut sa ma gandesc la ea
+
+1127
+01:05:47,000 --> 01:05:48,416
+‎si la tine.
+
+1128
+01:05:49,500 --> 01:05:50,500
+‎Doamne, nu pot…
+
+1129
+01:05:51,375 --> 01:05:52,333
+‎Nu pot…
+
+1130
+01:06:02,083 --> 01:06:04,750
+‎#PROVOCAREALANSARII
+
+1131
+01:06:05,791 --> 01:06:08,666
+‎Cred ca ar trebui sa ma duc la spital…
+
+1132
+01:06:08,750 --> 01:06:10,708
+‎Hai s-o facem!
+
+1133
+01:06:10,791 --> 01:06:13,666
+‎Hai!
+
+1134
+01:06:17,458 --> 01:06:19,583
+‎Tocmai am primit
+
+1135
+01:06:19,666 --> 01:06:23,416
+‎informatii grave
+‎in legatura cu misiunea noastra.
+
+1136
+01:06:32,625 --> 01:06:34,291
+‎Pare sa se intoarca.
+
+1137
+01:06:37,125 --> 01:06:40,250
+‎Nu se intoarce.
+‎E o corectie a traiectoriei.
+
+1138
+01:06:40,333 --> 01:06:41,875
+‎E procedura standard.
+
+1139
+01:06:41,958 --> 01:06:43,416
+‎Am fost in Marina.
+
+1140
+01:06:45,083 --> 01:06:47,375
+‎Nu. Se intoarce.
+
+1141
+01:06:47,458 --> 01:06:51,166
+‎Multimea pare dezorientata
+
+1142
+01:06:51,250 --> 01:06:52,875
+‎si, n-am sa va mint,
+
+1143
+01:06:52,958 --> 01:06:55,916
+‎reporterul a ramas fara cuvinte.
+
+1144
+01:06:56,000 --> 01:06:59,208
+‎E clar ca se intoarce.
+
+1145
+01:06:59,291 --> 01:07:01,666
+‎Ma uit direct la ea.
+
+1146
+01:07:01,750 --> 01:07:05,500
+‎Nava lui Drask se intoarce sigur.
+
+1147
+01:07:07,916 --> 01:07:10,291
+‎Știe cineva ce dracu' s-a intamplat?
+
+1148
+01:07:16,208 --> 01:07:17,583
+‎E tot incuiat.
+
+1149
+01:07:17,666 --> 01:07:20,416
+‎Nu inteleg ce s-a intamplat.
+
+1150
+01:07:20,500 --> 01:07:23,250
+‎Misiunea mergea bine, nu?
+‎Se derula perfect.
+
+1151
+01:07:23,333 --> 01:07:25,541
+‎Da. Dar putea fi orice.
+
+1152
+01:07:26,250 --> 01:07:31,958
+‎S-o fi defectat sistemul de directie,
+‎s-o fi destabilizat bomba, mii de chestii.
+
+1153
+01:07:32,583 --> 01:07:34,708
+‎Cine era cel care a intrat
+‎in camera de criza?
+
+1154
+01:07:34,791 --> 01:07:35,625
+‎Parea cunoscut.
+
+1155
+01:07:35,708 --> 01:07:42,083
+‎Peter Isherwell, presedintele de la BASH,
+‎al treilea cel mai bogat om din lume.
+
+1156
+01:07:42,166 --> 01:07:46,125
+‎E tipul care a cumparat Biblia Gutenberg
+‎si a pierdut-o.
+
+1157
+01:07:47,416 --> 01:07:48,916
+‎Scuze ca ati asteptat.
+
+1158
+01:07:49,000 --> 01:07:51,833
+‎Situatia e foarte fluida.
+
+1159
+01:07:53,291 --> 01:07:54,541
+‎Dle dr. Randall,
+
+1160
+01:07:54,625 --> 01:07:56,916
+‎sunteti consilier-sef
+‎pe probleme stiintifice.
+
+1161
+01:07:57,000 --> 01:07:57,833
+‎Poftim?
+
+1162
+01:07:57,916 --> 01:08:00,666
+‎Participati la intrunirea de urgenta
+‎a cabinetului,
+
+1163
+01:08:00,750 --> 01:08:02,000
+‎unde veti fi pus la curent.
+
+1164
+01:08:02,083 --> 01:08:02,916
+‎Și noi?
+
+1165
+01:08:03,666 --> 01:08:06,166
+‎Tu n-ai autorizatie, scumpo. Nu te ambala.
+
+1166
+01:08:06,250 --> 01:08:09,000
+‎Ți-am adus biscuiti uscati, apa.
+
+1167
+01:08:09,083 --> 01:08:10,750
+‎Nu trebuie sa le arunci pe jos.
+
+1168
+01:08:10,833 --> 01:08:12,375
+‎Va dura cel mult patru ore.
+
+1169
+01:08:12,458 --> 01:08:15,583
+‎Poftim, Kate.
+‎Nu stiu de ce le-a aruncat pe jos.
+
+1170
+01:08:15,666 --> 01:08:17,750
+‎Și daca vrem sa mergem la toaleta?
+
+1171
+01:08:17,833 --> 01:08:19,750
+‎Va punem niste ziare pe jos.
+
+1172
+01:08:19,833 --> 01:08:21,583
+‎Aducem si un odorizant.
+
+1173
+01:08:21,666 --> 01:08:24,000
+‎- Pasi mici si simpli. Da.
+‎- Vin repede.
+
+1174
+01:08:24,083 --> 01:08:24,958
+‎Bine. Hai!
+
+1175
+01:08:25,041 --> 01:08:27,083
+‎Știinta spune adevarul, Randall.
+
+1176
+01:08:28,875 --> 01:08:30,500
+‎Drace! Vrei sa vii?
+
+1177
+01:08:30,583 --> 01:08:31,500
+‎Da.
+
+1178
+01:08:33,625 --> 01:08:35,625
+‎Doamnelor si domnilor, ce credeam,
+
+1179
+01:08:35,708 --> 01:08:40,708
+‎ce credea lumea
+‎a fi un pericol iminent si ingrozitor,
+
+1180
+01:08:41,916 --> 01:08:44,625
+‎pare sa fie o ocazie formidabila.
+
+1181
+01:08:44,708 --> 01:08:47,166
+‎Aliatii nostri sunt derutati
+‎si cer raspunsuri…
+
+1182
+01:08:47,250 --> 01:08:48,541
+‎Spuneti-le sa astepte.
+
+1183
+01:08:49,583 --> 01:08:54,833
+‎Potrivit ultimelor date spectrometrice
+‎de analiza a cometei Dibiasky,
+
+1184
+01:08:54,916 --> 01:08:57,833
+‎efectuate de astrogeologii
+‎de la BASH Cellular,
+
+1185
+01:08:59,583 --> 01:09:01,291
+‎am descoperit ceva.
+
+1186
+01:09:02,250 --> 01:09:05,000
+‎Ceva cu adevarat miraculos.
+
+1187
+01:09:06,458 --> 01:09:08,125
+‎Peter?
+
+1188
+01:09:08,791 --> 01:09:10,000
+‎Multumesc, Janie.
+
+1189
+01:09:12,208 --> 01:09:14,708
+‎Dupa cum stiu unii dintre voi,
+
+1190
+01:09:14,791 --> 01:09:17,541
+‎cele mai valoroase minerale din lume
+
+1191
+01:09:17,625 --> 01:09:19,750
+‎devin rapid cele folosite
+
+1192
+01:09:19,833 --> 01:09:24,000
+‎la fabricarea telefoanelor mobile
+‎si a computerelor.
+
+1193
+01:09:24,083 --> 01:09:27,583
+‎Ytriu, terbiu, osmiu,
+‎disprosiu si asa mai departe.
+
+1194
+01:09:27,666 --> 01:09:29,000
+‎Începem sa ducem lipsa.
+
+1195
+01:09:29,083 --> 01:09:31,916
+‎Iar problema e exacerbata, desigur,
+
+1196
+01:09:32,000 --> 01:09:37,916
+‎de faptul ca China a pus labuta ei
+‎de panda pe toate minele
+
+1197
+01:09:38,000 --> 01:09:41,500
+‎care extrag aceste valoroase
+‎minereuri rare de pe Pamant.
+
+1198
+01:09:41,583 --> 01:09:43,000
+‎Va dati seama…
+
+1199
+01:09:44,750 --> 01:09:48,541
+‎Ce fericiti am fost noi, cei de la BASH,
+
+1200
+01:09:48,625 --> 01:09:52,250
+‎cand astrogeologii nostri au descoperit
+
+1201
+01:09:52,333 --> 01:09:57,000
+‎si au constatat ca aceasta cometa
+‎care se indreapta spre noi din spatiu
+
+1202
+01:09:57,083 --> 01:10:02,833
+‎contine minereuri esentiale in valoare
+‎de cel putin 32 de trilioane de dolari.
+
+1203
+01:10:02,916 --> 01:10:04,666
+‎Esentiale pentru tehnologie.
+
+1204
+01:10:04,750 --> 01:10:05,958
+‎- Daca am…
+‎- Scuzati-ma!
+
+1205
+01:10:06,041 --> 01:10:08,541
+‎De-aia ati anulat intreaga misiune,
+
+1206
+01:10:08,625 --> 01:10:11,541
+‎ca sa extrageti minereuri rare din cometa?
+
+1207
+01:10:11,625 --> 01:10:16,458
+‎Sa lasam toate intrebarile
+‎pentru sfarsitul prezentarii.
+
+1208
+01:10:16,541 --> 01:10:20,125
+‎S-ar putea sa ne raspunda pe parcurs.
+
+1209
+01:10:20,666 --> 01:10:21,750
+‎Bine.
+
+1210
+01:10:22,958 --> 01:10:27,333
+‎Daca luam in calcul si alte metale
+‎din compozitia cometei,
+
+1211
+01:10:27,416 --> 01:10:31,541
+‎ajungem la o valoare
+‎de 140 de trilioane de dolari.
+
+1212
+01:10:31,625 --> 01:10:32,875
+‎140 de trili de parai!
+
+1213
+01:10:33,416 --> 01:10:34,416
+‎Da…
+
+1214
+01:10:35,375 --> 01:10:40,000
+‎Ce mai conteaza trilioanele de dolari
+‎daca o sa murim cu totii…
+
+1215
+01:10:40,083 --> 01:10:42,458
+‎Asta voiam sa intreb si eu, Janie.
+
+1216
+01:10:42,541 --> 01:10:43,666
+‎De ce n-am fost consultati?
+
+1217
+01:10:43,750 --> 01:10:45,500
+‎- Cu tot respectul…
+‎- Vai, nu!
+
+1218
+01:10:45,583 --> 01:10:47,833
+‎- …e periculos.
+‎- Dar bogati si teferi?
+
+1219
+01:10:49,000 --> 01:10:53,125
+‎Am intors-o pe toate partile
+
+1220
+01:10:54,875 --> 01:10:56,791
+‎si tot n-am reusit sa inteleg.
+
+1221
+01:10:58,750 --> 01:11:03,791
+‎E un general cu trei stele.
+‎Lucreaza la Pentagon.
+
+1222
+01:11:05,916 --> 01:11:09,000
+‎De ce ne-a cerut bani
+‎pentru snackurile gratis?
+
+1223
+01:11:09,083 --> 01:11:12,750
+‎Odata l-am cunoscut pe Sting
+
+1224
+01:11:13,708 --> 01:11:18,291
+‎si jur pe Dumnezeu
+‎ca s-a basit in fata mea,
+
+1225
+01:11:19,333 --> 01:11:24,458
+‎dar m-a privit drept in ochi
+‎si nici nu si-a cerut macar scuze.
+
+1226
+01:11:27,500 --> 01:11:30,125
+‎Chestia e ca a avut si succes.
+
+1227
+01:11:32,375 --> 01:11:34,875
+‎Iar mie continua sa mi se para fermecator.
+
+1228
+01:11:35,916 --> 01:11:40,333
+‎Trebuie sa vorbim. Hai, veniti! Acum.
+
+1229
+01:11:41,416 --> 01:11:44,625
+‎E dementa curata.
+
+1230
+01:11:44,708 --> 01:11:46,041
+‎N-o sa mearga.
+
+1231
+01:11:46,125 --> 01:11:48,291
+‎Am avut aceeasi reactie.
+
+1232
+01:11:48,375 --> 01:11:51,375
+‎E un ucigas de planete
+‎cu un diametru de noua kilometri,
+
+1233
+01:11:51,458 --> 01:11:53,041
+‎nu vorbim de tarife de roaming.
+
+1234
+01:11:53,125 --> 01:11:59,041
+‎Și eu am fost derutat si scandalizat
+‎ca au anulat misiunea,
+
+1235
+01:11:59,125 --> 01:12:01,708
+‎dar ii au pe Gary Talcamont de la Stanford
+
+1236
+01:12:01,791 --> 01:12:03,958
+‎si pe Lisa Inez de la Princeton in echipa.
+
+1237
+01:12:04,041 --> 01:12:07,750
+‎E tehnologie avansata de noua generatie.
+
+1238
+01:12:07,833 --> 01:12:14,625
+‎Evident, o cometa uriasa ameninta
+‎semnificativ existenta planetei noastre,
+
+1239
+01:12:14,708 --> 01:12:20,000
+‎dar ne putem descurca
+‎cu 30 de meteoriti mai mici.
+
+1240
+01:12:20,916 --> 01:12:26,625
+‎DEAB-urile noastre,
+‎Drone de Explorare si Acaparare BASH,
+
+1241
+01:12:26,708 --> 01:12:28,083
+‎pe care le vedeti aici
+
+1242
+01:12:28,166 --> 01:12:30,833
+‎se fixeaza pe cometa
+
+1243
+01:12:30,916 --> 01:12:33,375
+‎si o scaneaza cu ajutorul nanotehnologiei
+
+1244
+01:12:33,458 --> 01:12:36,583
+‎dezvoltate de savantul premiat cu Nobel
+
+1245
+01:12:36,666 --> 01:12:37,666
+‎dr. Gary Talcamont.
+
+1246
+01:12:37,750 --> 01:12:40,500
+‎Apoi vom lansa imediat
+
+1247
+01:12:40,583 --> 01:12:42,833
+‎explozivii cu fisiune micro-orientabili
+
+1248
+01:12:42,916 --> 01:12:48,250
+‎ai savantei Inez,
+‎castigatoarea Premiilor Nobel si Polonsky.
+
+1249
+01:12:48,333 --> 01:12:51,708
+‎Direct in profunzimea obiectului…
+
+1250
+01:12:51,791 --> 01:12:53,958
+‎Dr. Inez, explicati dv., va rog?
+
+1251
+01:12:54,041 --> 01:12:55,416
+‎Multumesc, Peter.
+
+1252
+01:12:55,500 --> 01:12:58,250
+‎Am dezvoltat reactii de fisiune in lant
+
+1253
+01:12:58,333 --> 01:13:00,375
+‎in acceleratorul de particule CERN,
+
+1254
+01:13:00,458 --> 01:13:03,125
+‎care pot sparge cometa in bucati mai mici
+
+1255
+01:13:03,208 --> 01:13:05,333
+‎cu o precizie absolut remarcabila.
+
+1256
+01:13:05,416 --> 01:13:08,791
+‎Segmentele sunt decelerate si dirijate
+‎de DEAB-uri
+
+1257
+01:13:08,875 --> 01:13:13,625
+‎in Oceanul Pacific, unde vor fi preluate
+‎de navele marinei americane.
+
+1258
+01:13:13,708 --> 01:13:15,666
+‎Cand aceste… Multumesc.
+
+1259
+01:13:15,750 --> 01:13:19,875
+‎Cand vom pune mana
+‎pe aceste comori din cer,
+
+1260
+01:13:19,958 --> 01:13:24,000
+‎saracia, asa cum o stim, nedreptatea
+‎sociala, pierderea biodiversitatii,
+
+1261
+01:13:24,083 --> 01:13:26,708
+‎toata aceasta multitudine de probleme
+
+1262
+01:13:26,791 --> 01:13:30,125
+‎va deveni de domeniul trecutului,
+
+1263
+01:13:30,208 --> 01:13:35,625
+‎iar omenirea va pasi goala
+‎printre coloanele lui Boaz si Iachin,
+
+1264
+01:13:35,708 --> 01:13:38,250
+‎in gloria epocii de aur…
+
+1265
+01:13:38,333 --> 01:13:41,500
+‎S-a facut o evaluare colegiala
+‎a acestei nanotehnologii?
+
+1266
+01:13:41,583 --> 01:13:45,166
+‎N-am verificat datele,
+‎dar au fost modelate.
+
+1267
+01:13:45,250 --> 01:13:47,125
+‎N-au facut nicio evaluare colegiala?
+
+1268
+01:13:48,000 --> 01:13:48,833
+‎Nu.
+
+1269
+01:13:48,916 --> 01:13:51,250
+‎Existenta interplanetara, interstelara,
+
+1270
+01:13:51,333 --> 01:13:56,125
+‎intergalactica a rasei umane.
+
+1271
+01:13:59,125 --> 01:14:01,375
+‎- Doamne ajuta!
+‎- Ma bag.
+
+1272
+01:14:01,458 --> 01:14:05,041
+‎Mineralele si bogatiile extrase
+‎din cometa asta
+
+1273
+01:14:05,125 --> 01:14:06,458
+‎pot pune capat foametei.
+
+1274
+01:14:06,541 --> 01:14:08,166
+‎Am inteles.
+
+1275
+01:14:08,250 --> 01:14:10,833
+‎- De ce radeti?
+‎- Corect, am inteles.
+
+1276
+01:14:10,916 --> 01:14:15,333
+‎Deci impacheteaza cu fundita rosie
+‎un pachet plin cu rahat.
+
+1277
+01:14:15,416 --> 01:14:17,250
+‎Da, libertate si catelusi.
+
+1278
+01:14:17,333 --> 01:14:18,166
+‎- Da.
+‎- Bine.
+
+1279
+01:14:18,250 --> 01:14:21,916
+‎Vreti sa renunt la misiune?
+‎Renunt. Nicio problema.
+
+1280
+01:14:22,416 --> 01:14:25,750
+‎Dar trebuie sa intelegeti
+‎ca acum nu mai depinde de noi.
+
+1281
+01:14:25,833 --> 01:14:27,208
+‎Toata puterea o au ei.
+
+1282
+01:14:27,291 --> 01:14:29,958
+‎Cine vreti sa fie in sala aia
+‎ca sa se asigure
+
+1283
+01:14:30,041 --> 01:14:33,000
+‎ca, pana la urma,
+‎nu se alege praful de tot?
+
+1284
+01:14:33,083 --> 01:14:35,708
+‎Jason Orlean?
+‎Vreti sa fie Jason Orlean acolo?
+
+1285
+01:14:35,791 --> 01:14:40,125
+‎Sa-ti spun ceva.
+‎S-a ales deja praful de tot!
+
+1286
+01:14:40,208 --> 01:14:43,750
+‎Vor sa lase o cometa cat un munte
+‎sa loveasca planeta,
+
+1287
+01:14:43,833 --> 01:14:46,625
+‎ca sa creasca vertiginos
+‎actiunile unei firme de telefonie!
+
+1288
+01:14:46,708 --> 01:14:49,916
+‎Coboara tonul
+‎cu patru, cinci trepte, Roscato.
+
+1289
+01:14:50,000 --> 01:14:52,125
+‎Ce zbierati asa? Despre anularea misiunii?
+
+1290
+01:14:52,208 --> 01:14:53,625
+‎Ce treaba au mobilele?
+
+1291
+01:14:53,708 --> 01:14:56,750
+‎Prietena mea isi dadea cu parerea.
+
+1292
+01:14:56,833 --> 01:14:58,291
+‎Și noi suntem derutati.
+
+1293
+01:14:58,375 --> 01:15:01,458
+‎Pari sa ai o legitimatie oficiala
+‎de la Casa Alba.
+
+1294
+01:15:01,541 --> 01:15:03,291
+‎Nu stiu de ce o port.
+
+1295
+01:15:03,375 --> 01:15:05,125
+‎Spuneti-ne ce se intampla.
+
+1296
+01:15:05,208 --> 01:15:07,625
+‎Am trei copii speriati acasa.
+‎Spuneti-ne ceva.
+
+1297
+01:15:07,708 --> 01:15:10,333
+‎Înteleg. As vrea
+‎sa va pot da informatiile…
+
+1298
+01:15:10,416 --> 01:15:12,958
+‎Suntem oameni ca voi. Meritam sa stim!
+
+1299
+01:15:13,041 --> 01:15:16,000
+‎Au dreptate. Merita sa stie.
+
+1300
+01:15:17,041 --> 01:15:18,833
+‎Vreti sa stiti ce se intampla?
+
+1301
+01:15:18,916 --> 01:15:19,750
+‎- Da.
+‎- Te rugam.
+
+1302
+01:15:19,833 --> 01:15:22,291
+‎- Kate, nu! N-o face!
+‎- Kate.
+
+1303
+01:15:23,583 --> 01:15:29,375
+‎Au gasit niste aur,
+‎diamante si alte rahaturi rare pe cometa.
+
+1304
+01:15:29,958 --> 01:15:32,166
+‎Asa ca o lasa sa loveasca planeta,
+
+1305
+01:15:32,250 --> 01:15:36,416
+‎ca o mana de oameni bogati
+‎sa devina si mai scarbos de bogati!
+
+1306
+01:15:54,708 --> 01:15:55,958
+‎Fara camera de filmat!
+
+1307
+01:15:56,583 --> 01:15:58,625
+‎…tot posibilul, dar nu m-asculta.
+
+1308
+01:15:58,708 --> 01:15:59,958
+‎Ce surpriza!
+
+1309
+01:16:00,041 --> 01:16:02,875
+‎Încep sa cred ca-ti place
+‎sa calci lumea pe nervi.
+
+1310
+01:16:02,958 --> 01:16:04,958
+‎Îmi pare foarte rau, Kate. Serios.
+
+1311
+01:16:05,041 --> 01:16:07,041
+‎Randall, ce Dumnezeu!
+
+1312
+01:16:07,833 --> 01:16:09,958
+‎Unde e Brie Evantee?
+
+1313
+01:16:10,041 --> 01:16:11,666
+‎N-ar trebui sa flirtati pe sub masa
+
+1314
+01:16:11,750 --> 01:16:14,750
+‎la un restaurant
+‎care serveste doar cuburi si spume?
+
+1315
+01:16:14,833 --> 01:16:18,083
+‎Aici are dreptate.
+‎Ai luat-o razna de-a binelea.
+
+1316
+01:16:18,166 --> 01:16:21,375
+‎Și ce vreti sa facem? O petitie online?
+
+1317
+01:16:21,458 --> 01:16:24,416
+‎Sa mobilizati masele
+‎si sa protestati cu pancarte?
+
+1318
+01:16:24,500 --> 01:16:26,958
+‎Vreti sa rasturnati guvernul?
+‎Uitati-va si voi!
+
+1319
+01:16:27,041 --> 01:16:28,875
+‎Nu pot! Am un sac in cap!
+
+1320
+01:16:28,958 --> 01:16:31,583
+‎Scuzati! Casa Alba
+‎o vrea scoasa din schema.
+
+1321
+01:16:31,666 --> 01:16:33,166
+‎- Haideti… Asculta…
+‎- Acum!
+
+1322
+01:16:33,250 --> 01:16:35,958
+‎Stati! Ce naiba inseamna asta?
+
+1323
+01:16:36,041 --> 01:16:37,833
+‎- Cum adica „scoasa din schema”?
+‎- Kate!
+
+1324
+01:16:39,375 --> 01:16:42,208
+‎Doamne, Kate! Esti teafara?
+
+1325
+01:16:45,541 --> 01:16:48,833
+‎Hai, Teddy! N-aveam de ales!
+
+1326
+01:16:51,166 --> 01:16:53,541
+‎Întotdeauna ai de ales, Randall!
+
+1327
+01:16:53,625 --> 01:16:56,458
+‎Uneori trebuie doar sa alegi bine!
+
+1328
+01:17:03,083 --> 01:17:04,500
+‎Dra Katelyn Dibiasky,
+
+1329
+01:17:04,583 --> 01:17:08,208
+‎sunteti acuzata de divulgarea
+‎secretelor de siguranta nationala,
+
+1330
+01:17:08,291 --> 01:17:11,083
+‎instigarea la revolta
+‎si distrugerea proprietatii private
+
+1331
+01:17:11,166 --> 01:17:13,666
+‎detinute de Bojo Mambo's Shrimp LLC.
+
+1332
+01:17:13,750 --> 01:17:14,583
+‎Poftim? N-am…
+
+1333
+01:17:14,666 --> 01:17:17,583
+‎Dar procurorul general
+‎nu va continua urmarirea penala
+
+1334
+01:17:17,666 --> 01:17:19,208
+‎daca sunteti de acord cu:
+
+1335
+01:17:19,291 --> 01:17:21,958
+‎„Suspendarea tuturor aparitiilor
+‎in mass-media
+
+1336
+01:17:22,041 --> 01:17:26,708
+‎si a limbajului incendiar legat
+‎de cometa Dibiasky si BASH Cellular.”
+
+1337
+01:17:28,916 --> 01:17:32,333
+‎Bine, dati-mi-o. Ma doare-n cur.
+
+1338
+01:17:47,875 --> 01:17:52,166
+‎Mama, tata,
+‎cat ma bucur sa ma intorc acasa!
+
+1339
+01:17:54,875 --> 01:17:55,875
+‎Descuiati usa.
+
+1340
+01:17:55,958 --> 01:17:57,750
+‎Fara politica. Deloc.
+
+1341
+01:17:58,250 --> 01:17:59,458
+‎Ce vreti sa spuneti?
+
+1342
+01:18:00,041 --> 01:18:02,750
+‎Noi suntem de acord
+‎cu slujbele create de cometa.
+
+1343
+01:18:05,708 --> 01:18:07,916
+‎Sunt destule disensiuni in tara.
+
+1344
+01:18:08,666 --> 01:18:10,291
+‎Nu le vrem si in casa.
+
+1345
+01:18:14,291 --> 01:18:16,125
+‎- Mai incet, copii!
+‎- Scuze, mama.
+
+1346
+01:18:17,291 --> 01:18:19,333
+‎Ma ingrijoreaza viitorul copiilor.
+
+1347
+01:18:19,875 --> 01:18:22,500
+‎Sigur, e fantastic
+‎cate slujbe poate crea cometa.
+
+1348
+01:18:23,083 --> 01:18:24,291
+‎Dar daca nu e sigur?
+
+1349
+01:18:24,875 --> 01:18:29,250
+‎Milioane de oameni
+‎au aceleasi indoieli si intrebari
+
+1350
+01:18:29,416 --> 01:18:31,208
+‎despre cometa care se apropie.
+
+1351
+01:18:31,291 --> 01:18:32,708
+‎De aceea BASH Cellular
+
+1352
+01:18:32,791 --> 01:18:35,125
+‎impreuna cu guvernul Statelor Unite
+
+1353
+01:18:35,208 --> 01:18:40,041
+‎creeaza o linie telefonica de asistenta
+‎gratuita, pentru a raspunde la intrebari.
+
+1354
+01:18:40,750 --> 01:18:46,125
+‎Și cine stie? Poate unul
+‎dintre oamenii nostri de stiinta…
+
+1355
+01:18:46,208 --> 01:18:49,541
+‎Multumesc, Sharon. Ma simt mult mai bine.
+
+1356
+01:18:49,625 --> 01:18:53,833
+‎…va fi prietenul pe umarul caruia
+‎sa ne sprijinim in vremuri de restriste.
+
+1357
+01:18:54,708 --> 01:18:59,875
+‎Sunati la 1-800-532-4500
+‎pentru liniste sufleteasca.
+
+1358
+01:18:59,958 --> 01:19:01,291
+‎Oferta doar pentru clientii BASH.
+
+1359
+01:19:01,375 --> 01:19:03,250
+‎Detaliile apelului pot fi transmise
+‎altor filiale
+
+1360
+01:19:03,333 --> 01:19:04,666
+‎pentru o experienta viitoare mai buna.
+
+1361
+01:19:04,750 --> 01:19:05,916
+‎Se aplica tarife de roaming.
+
+1362
+01:19:06,000 --> 01:19:09,208
+‎Credeam ca e ambasadorul. Îl maguleam.
+
+1363
+01:19:09,291 --> 01:19:13,541
+‎Era chelnerul care acum se umfla in pene.
+
+1364
+01:19:16,916 --> 01:19:18,125
+‎Vai, Doamne!
+
+1365
+01:19:19,250 --> 01:19:22,875
+‎June, ce cauti aici, scumpo?
+
+1366
+01:19:24,708 --> 01:19:27,458
+‎Aveam eu o presimtire…
+
+1367
+01:19:28,333 --> 01:19:31,958
+‎Discutam chestiuni importante.
+
+1368
+01:19:32,041 --> 01:19:35,458
+‎- Asta facem.
+‎- Da, e foarte important.
+
+1369
+01:19:35,541 --> 01:19:39,500
+‎Putem sari peste partea asta, te rog,
+‎in care te simti ofuscata,
+
+1370
+01:19:39,583 --> 01:19:43,041
+‎iar noi stam cu coada intre picioare?
+‎E plictisitor.
+
+1371
+01:19:43,750 --> 01:19:44,791
+‎„Plictisitor”?
+
+1372
+01:19:44,875 --> 01:19:49,291
+‎Vrei sa sari peste partea in care te simti
+‎prost ca ti-o tragi cu barbatu-meu?
+
+1373
+01:19:50,916 --> 01:19:52,583
+‎Nu, nu ma simt prost.
+
+1374
+01:19:52,666 --> 01:19:56,416
+‎Eu si Randall ne distram de minune.
+‎Cred ca intrebarea e:
+
+1375
+01:19:56,500 --> 01:20:01,791
+‎continuam sa ne distram de minune
+‎sau se intoarce cu tine in Wisconsin?
+
+1376
+01:20:01,875 --> 01:20:02,750
+‎Sau in Montana.
+
+1377
+01:20:02,833 --> 01:20:04,875
+‎- Michigan?
+‎- Michigan.
+
+1378
+01:20:08,250 --> 01:20:12,500
+‎Auzi? De fapt, are dreptate.
+
+1379
+01:20:13,291 --> 01:20:16,333
+‎E singura intrebare.
+
+1380
+01:20:19,000 --> 01:20:19,958
+‎June, scumpa mea,
+
+1381
+01:20:21,250 --> 01:20:26,458
+‎uneori, in viata,
+‎lucrurile sunt mai complicate si…
+
+1382
+01:20:26,541 --> 01:20:27,541
+‎Bine.
+
+1383
+01:20:30,000 --> 01:20:31,208
+‎A fost rapid.
+
+1384
+01:20:35,250 --> 01:20:37,458
+‎Înainte sa plec,
+
+1385
+01:20:38,458 --> 01:20:41,375
+‎o sa-ti dau niste instructiuni
+
+1386
+01:20:42,333 --> 01:20:45,458
+‎- …despre cum sa ai grija de Randall.
+‎- Îmi pare rau.
+
+1387
+01:20:47,125 --> 01:20:50,541
+‎Da, asta e Xanax
+‎pentru atacurile lui de panica.
+
+1388
+01:20:50,625 --> 01:20:51,458
+‎Aoleu!
+
+1389
+01:20:51,541 --> 01:20:54,458
+‎Zoloft pentru crizele de depresie.
+
+1390
+01:20:54,541 --> 01:20:57,083
+‎N-am prea avut in ultima vreme, sa stii.
+
+1391
+01:20:57,166 --> 01:20:58,250
+‎Bravo tie! Grozav.
+
+1392
+01:20:58,333 --> 01:21:01,208
+‎Asta e pentru tensiune.
+
+1393
+01:21:02,083 --> 01:21:04,708
+‎- Sindromul picioarelor nelinistite.
+‎- Doamne!
+
+1394
+01:21:07,250 --> 01:21:10,875
+‎Inhibitor de apetit
+‎pentru contracararea luarii in greutate.
+
+1395
+01:21:10,958 --> 01:21:16,291
+‎Și pentru cel mai sexy savant al Americii,
+‎un flacon de Cialis pentru erectie!
+
+1396
+01:21:16,375 --> 01:21:17,375
+‎Mama!
+
+1397
+01:21:26,583 --> 01:21:28,041
+‎La revedere, Randall!
+
+1398
+01:21:28,125 --> 01:21:29,916
+‎O sa le spun fiilor tai
+
+1399
+01:21:30,000 --> 01:21:32,375
+‎ca tati si-o trage
+‎cu doamna de la televizor.
+
+1400
+01:21:33,416 --> 01:21:34,791
+‎June…
+
+1401
+01:21:36,250 --> 01:21:38,458
+‎O clipa am crezut ca o sa tina.
+
+1402
+01:21:40,333 --> 01:21:43,666
+‎Lumea vrea sa folosim cometa
+‎pentru crearea locurilor de munca.
+
+1403
+01:21:43,750 --> 01:21:45,791
+‎Un procent de 37% nu vrea s-o facem.
+
+1404
+01:21:45,875 --> 01:21:47,583
+‎Cu trei procente mai putin.
+
+1405
+01:21:47,666 --> 01:21:50,791
+‎Iar 23% nu cred ca exista o cometa,
+
+1406
+01:21:50,875 --> 01:21:52,666
+‎iar procentul creste tot mai mult.
+
+1407
+01:21:53,500 --> 01:21:55,458
+‎De ce nu Bitcoin? Ratcoin?
+
+1408
+01:21:56,041 --> 01:21:56,916
+‎Ratcoin.
+
+1409
+01:21:57,000 --> 01:21:59,541
+‎Da, daca analizam cifrele acelea…
+
+1410
+01:21:59,625 --> 01:22:01,833
+‎As vrea sa cumpar ochelarii de soare.
+
+1411
+01:22:10,250 --> 01:22:12,208
+‎Esti tipa care a zis c-o sa murim?
+
+1412
+01:22:13,041 --> 01:22:14,958
+‎Nu. Ce-ai cumparat?
+
+1413
+01:22:19,291 --> 01:22:20,250
+‎Baga-mi-as!
+
+1414
+01:22:20,333 --> 01:22:23,041
+‎- Ba tu esti. Clar.
+‎- Da, eu sunt.
+
+1415
+01:22:23,125 --> 01:22:26,833
+‎Esti o legenda in toata regula.
+‎Ce spui tu e litera de lege.
+
+1416
+01:22:28,125 --> 01:22:29,583
+‎Am o poza cu tine pe placa.
+
+1417
+01:22:29,666 --> 01:22:31,041
+‎Are o poza pe placa.
+
+1418
+01:22:31,125 --> 01:22:33,125
+‎Super. Ce ati cumparat?
+
+1419
+01:22:33,208 --> 01:22:35,083
+‎Daca n-ati cumparat nimic, faceti loc
+
+1420
+01:22:35,166 --> 01:22:36,416
+‎celorlalti clienti.
+
+1421
+01:22:36,500 --> 01:22:38,791
+‎Pot sa-ti ating parul in mod platonic?
+
+1422
+01:22:38,875 --> 01:22:40,958
+‎- Sa nu dea dracu'!
+‎- Amice…
+
+1423
+01:22:42,583 --> 01:22:45,041
+‎Suna-l pe Diogo, il bagam in boala.
+‎Îl saluti rapid?
+
+1424
+01:22:45,125 --> 01:22:47,750
+‎E obsedat de tine. Te iubim. Nu ne place…
+
+1425
+01:22:47,833 --> 01:22:49,250
+‎Nici noi n-o suferim pe Orlean.
+
+1426
+01:22:53,500 --> 01:22:54,583
+‎Frate, fii atent…
+
+1427
+01:22:54,666 --> 01:22:57,083
+‎Taci dracului! Ia uite cu cine suntem!
+
+1428
+01:22:57,166 --> 01:22:59,833
+‎- Fratica! Ia de-aici!
+‎- Ia de-aici!
+
+1429
+01:23:01,250 --> 01:23:03,958
+‎Am achizitionat ceva, dar n-avem malai.
+
+1430
+01:23:04,041 --> 01:23:05,583
+‎E o metafora pentru…
+
+1431
+01:23:07,208 --> 01:23:09,291
+‎- Cash?
+‎- Phillip, am auzit
+
+1432
+01:23:09,375 --> 01:23:10,666
+‎ca ai scris o carte
+
+1433
+01:23:10,750 --> 01:23:13,458
+‎despre relatia
+‎pe care ai avut-o cu Kate Dibiasky.
+
+1434
+01:23:13,541 --> 01:23:15,958
+‎Ciudat ca ai adus vorba,
+‎lucrez la ea acum.
+
+1435
+01:23:16,041 --> 01:23:18,583
+‎O sa se numeasca‎ Contact cu Diavolul ‎si e…
+
+1436
+01:23:18,666 --> 01:23:20,791
+‎Chemi paza din ochi acum?
+
+1437
+01:23:20,875 --> 01:23:22,125
+‎Nu, puteti pleca.
+
+1438
+01:23:22,208 --> 01:23:24,333
+‎- Suna groaznic.
+‎- Pur si simplu?
+
+1439
+01:23:25,625 --> 01:23:27,125
+‎Te doare-n cur, nu?
+
+1440
+01:23:28,958 --> 01:23:29,958
+‎Nu.
+
+1441
+01:23:30,041 --> 01:23:33,041
+‎Oferim un serviciu de calitate
+‎la DrinkMo's.
+
+1442
+01:23:33,666 --> 01:23:35,500
+‎Și pe noi ne doare-n cur.
+
+1443
+01:23:35,583 --> 01:23:37,208
+‎Direct in cur.
+
+1444
+01:23:37,291 --> 01:23:39,333
+‎Ne dam cu placa in spate la Burger Crown
+
+1445
+01:23:39,416 --> 01:23:40,291
+‎dupa ora sapte.
+
+1446
+01:23:40,375 --> 01:23:41,208
+‎Asa e.
+
+1447
+01:23:41,291 --> 01:23:43,750
+‎Vino si tu, daca ai tupeu.
+
+1448
+01:23:46,875 --> 01:23:48,333
+‎Știi, sunt eu…
+
+1449
+01:23:48,416 --> 01:23:50,958
+‎- Bun. Mersi.
+‎- …si o sticla de whisky.
+
+1450
+01:23:51,958 --> 01:23:54,500
+‎E o gluma. De asemenea…
+
+1451
+01:24:06,291 --> 01:24:07,500
+‎Bine.
+
+1452
+01:24:07,583 --> 01:24:09,083
+‎Sa va prezint
+
+1453
+01:24:10,500 --> 01:24:16,333
+‎salvatoarea omenirii,
+‎Drona de Explorare si Acaparare BASH.
+
+1454
+01:24:16,416 --> 01:24:17,500
+‎E incredibila.
+
+1455
+01:24:17,583 --> 01:24:19,125
+‎E incredibila, nu?
+
+1456
+01:24:19,208 --> 01:24:21,625
+‎Am numit-o Primo, fiind prima.
+
+1457
+01:24:22,916 --> 01:24:24,416
+‎E primul meu copil.
+
+1458
+01:24:25,083 --> 01:24:30,166
+‎Primo, baiete. Sunt tatal tau, Cronos.
+
+1459
+01:24:31,375 --> 01:24:35,166
+‎Nu fi timid. Hai!
+‎O sa fii un zeu in ceruri.
+
+1460
+01:24:41,416 --> 01:24:46,583
+‎Nu va ingrijoreaza
+‎sincronizarea exploziilor?
+
+1461
+01:24:46,666 --> 01:24:50,583
+‎Dle profesor,
+‎sunt mereu intrebari si temeri…
+
+1462
+01:24:51,250 --> 01:24:54,500
+‎Am un raport al dnei dr. Inez.
+
+1463
+01:24:54,583 --> 01:24:57,041
+‎- Daca vreti sa va uitati pe studiu.
+‎- Mersi.
+
+1464
+01:24:57,125 --> 01:24:59,333
+‎Muti colegi ai mei
+
+1465
+01:24:59,416 --> 01:25:01,875
+‎au fost demisi
+‎sau s-au retras din proiect,
+
+1466
+01:25:01,958 --> 01:25:06,083
+‎pentru ca se pare ca au pus
+‎prea multe intrebari despre misiunea asta.
+
+1467
+01:25:06,166 --> 01:25:08,750
+‎Vreau sa ma asigur ca sunteti…
+
+1468
+01:25:09,416 --> 01:25:11,958
+‎de acord cu evaluarea
+‎colegiala stiintifica
+
+1469
+01:25:12,041 --> 01:25:14,583
+‎si ca nu abordati misiunea
+‎ca un om de afaceri.
+
+1470
+01:25:14,666 --> 01:25:16,333
+‎- Întelegeti?
+‎- Ce ati spus?
+
+1471
+01:25:16,916 --> 01:25:20,208
+‎- Vreau sa stiu daca…
+‎- M-ati numit om de afaceri?
+
+1472
+01:25:20,958 --> 01:25:23,916
+‎- Aveti o corporatie…
+‎- Credeti ca-s doar afacerist?
+
+1473
+01:25:25,500 --> 01:25:27,791
+‎Credeti ca ma cunoasteti?
+
+1474
+01:25:29,375 --> 01:25:30,291
+‎Afaceri?
+
+1475
+01:25:31,250 --> 01:25:35,125
+‎E vorba de evolutie.
+‎E evolutia speciei omenesti.
+
+1476
+01:25:36,125 --> 01:25:38,125
+‎- De ce l-ai adus pe asta…
+‎- Pai…
+
+1477
+01:25:38,208 --> 01:25:41,375
+‎Știati ca BASH are peste 40 de milioane
+‎de puncte de date
+
+1478
+01:25:41,458 --> 01:25:45,458
+‎despre fiecare decizie
+‎pe care ati luat-o din 1994?
+
+1479
+01:25:45,541 --> 01:25:51,833
+‎Știu cand aveti polipi pe colon
+‎cu cateva luni inaintea medicului dv.
+
+1480
+01:25:51,916 --> 01:25:53,750
+‎Aveti patru sau cinci si acum.
+
+1481
+01:25:53,833 --> 01:25:57,375
+‎N-aveti de ce sa va ingrijorati,
+‎dar eu mi-as face un control.
+
+1482
+01:25:57,458 --> 01:26:01,916
+‎Iar cel mai important e
+‎ca stiu ce sunteti, stiu cine sunteti.
+
+1483
+01:26:02,000 --> 01:26:07,083
+‎Algoritmii mei au identificat
+‎opt profiluri fundamentale de consumatori.
+
+1484
+01:26:07,166 --> 01:26:10,791
+‎Dv. sunteti un idealist al vietii moderne.
+
+1485
+01:26:10,875 --> 01:26:15,125
+‎Credeti ca va motiveaza
+‎convingerile etice, inalte.
+
+1486
+01:26:15,208 --> 01:26:20,125
+‎Dar, de fapt, alergati dupa placere
+‎si fugiti de suferinta.
+
+1487
+01:26:22,375 --> 01:26:25,000
+‎Ca un soarece de camp.
+
+1488
+01:26:27,125 --> 01:26:28,500
+‎Încercam sa…
+
+1489
+01:26:29,916 --> 01:26:32,875
+‎Vreau sa fiu sigur
+‎ca proiectul e validat stiintific.
+
+1490
+01:26:32,958 --> 01:26:34,041
+‎Sper ca intelegeti.
+
+1491
+01:26:34,125 --> 01:26:38,250
+‎Algoritmii nostri pot sa prezica
+‎si cum o sa muriti.
+
+1492
+01:26:39,125 --> 01:26:44,375
+‎Cu o precizie de 96,5%.
+
+1493
+01:26:44,458 --> 01:26:46,333
+‎V-am verificat cand ne-am cunoscut.
+
+1494
+01:26:47,541 --> 01:26:52,000
+‎Va asteapta
+‎o moarte anosta si plictisitoare.
+
+1495
+01:26:52,666 --> 01:26:56,750
+‎Nu-mi amintesc detaliile,
+‎cu exceptia unui lucru:
+
+1496
+01:26:59,000 --> 01:27:00,750
+‎o sa muriti singur.
+
+1497
+01:27:03,750 --> 01:27:04,791
+‎Singur.
+
+1498
+01:27:05,291 --> 01:27:09,958
+‎Scuze, dna presedinta,
+‎am mult de lucru, n-am timp de taclale.
+
+1499
+01:27:10,041 --> 01:27:12,708
+‎Ce dracu' faci? Doamne!
+
+1500
+01:27:13,416 --> 01:27:14,333
+‎Încercam sa-mi fac treaba.
+
+1501
+01:27:14,416 --> 01:27:17,708
+‎Ai mare noroc ca Peter te adora.
+
+1502
+01:27:20,958 --> 01:27:25,000
+‎INFLAMABIL
+
+1503
+01:27:25,083 --> 01:27:26,916
+‎Esti cu adultii acum, Randall.
+
+1504
+01:27:27,458 --> 01:27:29,083
+‎Nu mai pot urmari asta!
+
+1505
+01:27:30,375 --> 01:27:33,666
+‎- Grasane!
+‎- Grasule!
+
+1506
+01:27:33,750 --> 01:27:35,083
+‎Da, l-am vazut trecand.
+
+1507
+01:27:35,166 --> 01:27:40,375
+‎BASH au pus-o pe Orlean sa plateasca
+‎guvernului chilian, daca nu ma insel,
+
+1508
+01:27:40,458 --> 01:27:44,708
+‎90 de miliarde de dolari, sa accepte
+‎ca tsunami-ul sa loveasca coasta lor.
+
+1509
+01:27:44,791 --> 01:27:45,666
+‎Vi se pare corect?
+
+1510
+01:27:45,750 --> 01:27:46,750
+‎O SA MURIM CU TOȚII
+
+1511
+01:27:46,833 --> 01:27:49,333
+‎Isherwell a construit un buncar
+‎pentru el si directori.
+
+1512
+01:27:49,416 --> 01:27:51,791
+‎Am auzit ca si-au facut o nava ca sa fuga.
+
+1513
+01:27:51,875 --> 01:27:55,250
+‎Oameni buni,
+‎adevarul e mult mai deprimant.
+
+1514
+01:27:56,291 --> 01:27:57,833
+‎Nu sunt nici macar asa destepti
+
+1515
+01:27:57,916 --> 01:28:00,208
+‎ca sa fie atat de vicleni
+‎pe cat ii credeti.
+
+1516
+01:28:06,916 --> 01:28:08,541
+‎- Ce?
+‎- Nu!
+
+1517
+01:28:13,416 --> 01:28:15,541
+‎Baga-mi-as! Ma scoti din minti, Kate.
+
+1518
+01:28:16,208 --> 01:28:17,833
+‎Îmi bag picioarele, tot murim.
+
+1519
+01:28:30,250 --> 01:28:34,083
+‎ZILE RAMASE DIETA - 25
+
+1520
+01:28:35,333 --> 01:28:36,583
+‎…filmul va fi lansat
+
+1521
+01:28:36,666 --> 01:28:40,166
+‎in ziua in care unii cred
+‎ca Dibiasky va lovi planeta.
+
+1522
+01:28:40,250 --> 01:28:42,750
+‎Și se pare ca e deja un film clasic, Brie.
+
+1523
+01:28:42,833 --> 01:28:45,500
+‎Da, o distributie stelara.
+
+1524
+01:28:45,583 --> 01:28:48,041
+‎- Devin.
+‎- Îl ador pe Devin Peters.
+
+1525
+01:28:48,125 --> 01:28:49,791
+‎- Da.
+‎- Tot ce face e super.
+
+1526
+01:28:49,875 --> 01:28:52,166
+‎- Cum se numeste?
+‎- Devastare totala.
+
+1527
+01:28:52,250 --> 01:28:56,208
+‎A costat 300 de milioane de dolari.
+
+1528
+01:28:56,291 --> 01:28:59,333
+‎- Filmele astea…
+‎- Mai mult decat castigi tu.
+
+1529
+01:28:59,416 --> 01:29:01,791
+‎Mie imi spui?
+‎L-a vazut si amicul meu, Farley.
+
+1530
+01:29:01,875 --> 01:29:04,625
+‎- Cica e super tare.
+‎- I-a placut lui Farley.
+
+1531
+01:29:04,708 --> 01:29:07,250
+‎Daca i-a placut lui…
+
+1532
+01:29:07,333 --> 01:29:08,583
+‎Mai intai,
+
+1533
+01:29:09,416 --> 01:29:12,458
+‎si da, se vede dupa zambetul meu…
+
+1534
+01:29:12,541 --> 01:29:13,833
+‎Termina!
+
+1535
+01:29:13,916 --> 01:29:18,916
+‎Îl avem aici pe cel mai sexy savant
+‎al Americii, dr. Randall. Bun venit!
+
+1536
+01:29:19,666 --> 01:29:21,375
+‎Ce mai faceti, dle?
+
+1537
+01:29:21,458 --> 01:29:24,208
+‎Sunt bine. Chiar mai bine de-atat.
+
+1538
+01:29:25,666 --> 01:29:30,958
+‎Bine. Auzim ca nu exista nicio cometa
+
+1539
+01:29:31,041 --> 01:29:34,375
+‎sau ca exista o cometa,
+‎dar e un lucru bun sau rau.
+
+1540
+01:29:34,458 --> 01:29:36,750
+‎Nu mai intelegem nimic.
+
+1541
+01:29:36,833 --> 01:29:41,166
+‎Ne ajuti, te rugam,
+‎om de stiinta intelept?
+
+1542
+01:29:42,583 --> 01:29:47,666
+‎Înainte de toate, Brie,
+‎exista cu siguranta o cometa.
+
+1543
+01:29:47,750 --> 01:29:48,791
+‎Bine.
+
+1544
+01:29:48,875 --> 01:29:52,125
+‎Și stim ca exista o cometa
+‎pentru ca avem datele.
+
+1545
+01:29:54,458 --> 01:29:58,666
+‎A crescut ingrijorarea in cadrul
+‎comunitatii stiintifice in ultima vreme.
+
+1546
+01:29:59,333 --> 01:30:02,875
+‎Procesul de evaluare colegiala
+‎este fundamental…
+
+1547
+01:30:02,958 --> 01:30:05,708
+‎- Daca actiunile BASH…
+‎- Da?
+
+1548
+01:30:05,791 --> 01:30:07,458
+‎…reprezinta un indicator,
+
+1549
+01:30:07,541 --> 01:30:09,083
+‎nu conteaza evaluarea colegiala,
+
+1550
+01:30:09,166 --> 01:30:10,583
+‎caci merg beton.
+
+1551
+01:30:10,666 --> 01:30:13,125
+‎Și va spun sincer,
+‎am cumparat cate am putut
+
+1552
+01:30:13,208 --> 01:30:14,500
+‎si va sfatuiesc si pe voi.
+
+1553
+01:30:14,583 --> 01:30:16,333
+‎Ce capitalist nerusinat!
+
+1554
+01:30:16,416 --> 01:30:19,458
+‎Zise femeia care o sa stea
+‎in jacuzzi-ul meu de pe terasa,
+
+1555
+01:30:19,541 --> 01:30:22,083
+‎- …luat cu banii de pe actiuni.
+‎- Ma cunosti.
+
+1556
+01:30:22,166 --> 01:30:23,375
+‎Exact.
+
+1557
+01:30:23,458 --> 01:30:25,875
+‎Dr. Randall, te simti bine?
+‎Vrei putina apa?
+
+1558
+01:30:25,958 --> 01:30:27,166
+‎Nu ma simt prea bine.
+
+1559
+01:30:27,250 --> 01:30:29,625
+‎Eu zic sa luam o pauza publicitara…
+
+1560
+01:30:29,708 --> 01:30:33,291
+‎Nu, te rog, Brie. Nu taia.
+‎Lasa-ma sa spun ceva.
+
+1561
+01:30:33,375 --> 01:30:34,916
+‎- Bine.
+‎- Sunteti la emisiunea potrivita,
+
+1562
+01:30:35,000 --> 01:30:36,333
+‎unde spunem lucrurilor pe nume.
+
+1563
+01:30:36,416 --> 01:30:40,416
+‎Vrei sa incetezi cu amabilitatea asta de…
+
+1564
+01:30:41,833 --> 01:30:44,791
+‎Scuze, dar nu trebuie
+‎sa sune totul inteligent,
+
+1565
+01:30:44,875 --> 01:30:47,083
+‎fermecator sau placut.
+
+1566
+01:30:47,166 --> 01:30:50,583
+‎Uneori trebuie sa fim in stare
+‎sa ne spunem lucruri unii altora,
+
+1567
+01:30:50,666 --> 01:30:52,083
+‎sa fim in stare sa le auzim.
+
+1568
+01:30:53,833 --> 01:30:57,125
+‎Hai sa lamurim inca o data
+
+1569
+01:30:57,791 --> 01:31:01,916
+‎ca o cometa uriasa
+‎se indreapta spre Pamant.
+
+1570
+01:31:02,666 --> 01:31:05,291
+‎Și stim ca e vorba despre o cometa
+
+1571
+01:31:05,375 --> 01:31:06,833
+‎pentru ca am vazut-o.
+
+1572
+01:31:06,916 --> 01:31:10,208
+‎Am vazut-o cu ochii nostri,
+‎cu un telescop.
+
+1573
+01:31:10,291 --> 01:31:13,500
+‎Pentru Dumnezeu, i-am facut o poza!
+
+1574
+01:31:13,583 --> 01:31:15,291
+‎Ce alte dovezi mai vreti?
+
+1575
+01:31:15,791 --> 01:31:18,375
+‎Și daca nu acceptam nici macar atat,
+
+1576
+01:31:18,458 --> 01:31:22,875
+‎ca nu e de bine ca o cometa uriasa,
+
+1577
+01:31:22,958 --> 01:31:29,041
+‎de dimensiunea Everestului,
+‎goneste spre planeta Pamant,
+
+1578
+01:31:29,833 --> 01:31:32,125
+‎atunci, ce dracu' am patit cu totii?
+
+1579
+01:31:33,000 --> 01:31:37,333
+‎Dumnezeule, cum mai vorbim unii cu altii?
+
+1580
+01:31:37,416 --> 01:31:41,208
+‎Ce-am patit toti? Cum o rezolvam?
+
+1581
+01:31:41,291 --> 01:31:44,791
+‎Ar fi trebuit sa deviem cometa
+‎cand am avut ocazia,
+
+1582
+01:31:44,875 --> 01:31:48,083
+‎dar n-am facut-o.
+‎Și nu stiu de ce n-am facut-o.
+
+1583
+01:31:48,166 --> 01:31:52,041
+‎Iar acum ii concediaza
+‎pe oamenii de stiinta ca mine
+
+1584
+01:31:52,125 --> 01:31:54,666
+‎pentru ca deschid gura, ca li se opun.
+
+1585
+01:31:55,416 --> 01:31:57,875
+‎Și sunt convins ca multa lume
+
+1586
+01:31:57,958 --> 01:31:59,958
+‎nici n-o sa asculte ce-am zis,
+
+1587
+01:32:00,041 --> 01:32:02,833
+‎fiindca are propria ideologie politica,
+
+1588
+01:32:03,500 --> 01:32:05,916
+‎dar… va asigur
+
+1589
+01:32:06,583 --> 01:32:08,583
+‎ca nu sunt de nicio parte.
+
+1590
+01:32:08,666 --> 01:32:10,916
+‎Va spun adevarul, baga-mi-as!
+
+1591
+01:32:11,000 --> 01:32:12,625
+‎Ar fi cazul sa specificam
+
+1592
+01:32:12,708 --> 01:32:15,250
+‎ca Isherwell si presedinta au spus
+
+1593
+01:32:15,333 --> 01:32:16,958
+‎ca exista beneficii…
+
+1594
+01:32:17,041 --> 01:32:21,750
+‎Ei bine, presedinta Statelor Unite
+‎minte cu nerusinare!
+
+1595
+01:32:23,208 --> 01:32:24,708
+‎Eu sunt ca voi toti.
+
+1596
+01:32:24,791 --> 01:32:29,833
+‎Sper din suflet
+‎ca presedinta sa stie ce face.
+
+1597
+01:32:29,916 --> 01:32:33,750
+‎Sper sa aiba grija de noi toti,
+‎dar adevarul e
+
+1598
+01:32:33,833 --> 01:32:36,875
+‎ca intreaga administratie
+
+1599
+01:32:36,958 --> 01:32:41,500
+‎si-a pierdut complet mintile!
+
+1600
+01:32:41,583 --> 01:32:45,125
+‎Și cred ca o sa murim cu totii!
+
+1601
+01:32:49,375 --> 01:32:51,000
+‎Vreau doar sa ma duc acasa.
+
+1602
+01:32:52,500 --> 01:32:56,125
+‎Îmi doresc din suflet sa ma duc acasa.
+
+1603
+01:33:00,875 --> 01:33:02,583
+‎Dar exista un singur lucru
+
+1604
+01:33:03,208 --> 01:33:09,666
+‎pe care ma rog sa-l auziti cu totii,
+‎din ce am spus pana acum,
+
+1605
+01:33:10,666 --> 01:33:13,583
+‎si anume ca absolut toata lumea…
+
+1606
+01:33:22,083 --> 01:33:23,625
+‎De ce ai facut-o?
+
+1607
+01:33:24,750 --> 01:33:28,250
+‎Pe tine chiar te placeam,
+‎iar eu ii dispretuiesc mai pe toti.
+
+1608
+01:33:29,791 --> 01:33:33,000
+‎Credeam ca te iubesc.
+
+1609
+01:33:35,791 --> 01:33:36,958
+‎Pe bune?
+
+1610
+01:33:40,625 --> 01:33:41,833
+‎Ce nebunie!
+
+1611
+01:33:43,000 --> 01:33:43,833
+‎Da.
+
+1612
+01:33:44,708 --> 01:33:47,250
+‎Va rog sa plecati.
+‎Trebuie sa-l scoatem din schema.
+
+1613
+01:33:49,541 --> 01:33:50,500
+‎Mai esti?
+
+1614
+01:33:53,750 --> 01:33:54,791
+‎Nu.
+
+1615
+01:33:57,291 --> 01:34:01,041
+‎Poate ca-l atata puterea,
+
+1616
+01:34:01,125 --> 01:34:02,791
+‎orice fel de putere.
+
+1617
+01:34:02,875 --> 01:34:07,791
+‎Parca stia ca o sa aflu pana la urma
+‎ca snackurile erau gratis.
+
+1618
+01:34:07,875 --> 01:34:08,708
+‎Aha.
+
+1619
+01:34:08,791 --> 01:34:09,958
+‎- Ma-ntelegi?
+‎- Da.
+
+1620
+01:34:10,041 --> 01:34:11,833
+‎A vrut sa-si arate muschii.
+
+1621
+01:34:12,625 --> 01:34:13,625
+‎Tipii sunt ciudati.
+
+1622
+01:34:16,250 --> 01:34:20,000
+‎Încep sa cred ca chestia asta
+‎cu sfarsitul lumii e o abureala.
+
+1623
+01:34:21,625 --> 01:34:22,833
+‎Nu e.
+
+1624
+01:34:22,916 --> 01:34:26,833
+‎Se va intampla sigur. Am vazut.
+
+1625
+01:34:27,500 --> 01:34:29,958
+‎Daca Dumnezeu ar vrea
+‎sa distruga Pamantul,
+
+1626
+01:34:30,041 --> 01:34:31,041
+‎ar distruge Pamantul.
+
+1627
+01:34:33,333 --> 01:34:34,583
+‎Crezi in Dumnezeu?
+
+1628
+01:34:36,541 --> 01:34:39,166
+‎Da, parintii m-au crescut evanghelist
+
+1629
+01:34:39,250 --> 01:34:41,583
+‎si ii urasc,
+‎dar am gasit calea mea spirituala.
+
+1630
+01:34:41,666 --> 01:34:42,916
+‎Legatura mea.
+
+1631
+01:34:46,416 --> 01:34:48,500
+‎M-as bucura daca ai tine-o pentru tine.
+
+1632
+01:34:52,041 --> 01:34:55,166
+‎N-o sa spun nimanui.
+‎Mi se pare o chestie draguta.
+
+1633
+01:34:58,750 --> 01:35:01,333
+‎- Vrei sa ne sarutam?
+‎- Da, de ce nu?
+
+1634
+01:35:02,458 --> 01:35:05,458
+‎Nu spune „de ce nu”.
+‎Am senzatia ca nu vrei.
+
+1635
+01:35:06,375 --> 01:35:07,375
+‎E aiurea.
+
+1636
+01:35:09,541 --> 01:35:12,166
+‎- Sigur, cum vrei.
+‎- Mai bine asa.
+
+1637
+01:35:42,708 --> 01:35:44,833
+‎- Vai de mine, uite-o!
+‎- Ce?
+
+1638
+01:35:44,916 --> 01:35:47,375
+‎- Uite cometa!
+‎- Ce? Unde?
+
+1639
+01:35:49,000 --> 01:35:51,416
+‎- Unde?
+‎- Ala e Carul Mare.
+
+1640
+01:35:52,000 --> 01:35:54,916
+‎Aia e Venus. Aia e Steaua Polara.
+
+1641
+01:35:55,500 --> 01:35:57,958
+‎- Deci ce e aia?
+‎- Drace!
+
+1642
+01:36:06,458 --> 01:36:07,666
+‎Ce naiba?
+
+1643
+01:36:10,500 --> 01:36:11,500
+‎Ce?
+
+1644
+01:36:22,208 --> 01:36:23,208
+‎Uite-o!
+
+1645
+01:36:26,041 --> 01:36:27,125
+‎Iata-te!
+
+1646
+01:36:30,166 --> 01:36:31,166
+‎Iata-te.
+
+1647
+01:36:32,083 --> 01:36:34,250
+‎O mai vede cineva? Aia e.
+
+1648
+01:36:35,041 --> 01:36:38,833
+‎Aia e cometa. Uitati! E acolo.
+
+1649
+01:37:16,333 --> 01:37:19,291
+‎- Mi s-a facut frica.
+‎- Exact.
+
+1650
+01:37:23,791 --> 01:37:25,625
+‎- Dle profesor Mindy.
+‎- Kate.
+
+1651
+01:37:25,708 --> 01:37:27,875
+‎O putem vedea.
+
+1652
+01:37:27,958 --> 01:37:32,166
+‎Ma uit la ea acum. E incredibil.
+
+1653
+01:37:32,666 --> 01:37:36,250
+‎E teribil si superb in acelasi timp.
+
+1654
+01:37:36,333 --> 01:37:37,458
+‎Vai, Doamne!
+
+1655
+01:37:43,208 --> 01:37:45,125
+‎Am incercat sa va spunem.
+
+1656
+01:37:45,750 --> 01:37:49,041
+‎Am tot incercat sa va spunem.
+‎Uitati-o acolo!
+
+1657
+01:37:49,875 --> 01:37:51,458
+‎E acolo, Kate.
+
+1658
+01:37:54,291 --> 01:37:55,375
+‎Unde esti?
+
+1659
+01:37:55,458 --> 01:37:56,875
+‎În Lansing, Michigan.
+
+1660
+01:37:56,958 --> 01:38:00,125
+‎Încerc sa ma impac cu June,
+‎dar nu vrea sa-mi vorbeasca.
+
+1661
+01:38:00,208 --> 01:38:01,916
+‎- Tu unde esti?
+‎- Ce dracu'?
+
+1662
+01:38:03,041 --> 01:38:04,166
+‎Sunt…
+
+1663
+01:38:04,750 --> 01:38:06,250
+‎O sa vin la tine, da?
+
+1664
+01:38:07,375 --> 01:38:10,708
+‎Sunt in Illinois. Pana maine sunt gata.
+
+1665
+01:38:12,083 --> 01:38:13,375
+‎- Tatal nostru…
+‎- Da.
+
+1666
+01:38:13,458 --> 01:38:15,958
+‎…indura-Te de noi si indruma-ne.
+
+1667
+01:38:16,041 --> 01:38:17,458
+‎În sfarsit, o vad.
+
+1668
+01:38:18,708 --> 01:38:20,041
+‎În sfarsit, o vad.
+
+1669
+01:38:26,083 --> 01:38:27,583
+‎Uitati-o!
+
+1670
+01:38:41,625 --> 01:38:45,208
+‎Duceti-va in curte,
+‎pe acoperis sau pe alee
+
+1671
+01:38:45,291 --> 01:38:46,708
+‎si uitati-va pe cer.
+
+1672
+01:38:46,791 --> 01:38:48,333
+‎Steaua poate parea neclara,
+
+1673
+01:38:48,416 --> 01:38:50,125
+‎dar are o dunga lunga in spate.
+
+1674
+01:38:50,208 --> 01:38:51,708
+‎E coada cometei.
+
+1675
+01:38:51,791 --> 01:38:53,375
+‎E reala si se apropie.
+
+1676
+01:38:53,458 --> 01:38:56,041
+‎Daca cineva va spune altceva,
+‎mananca rahat.
+
+1677
+01:38:56,125 --> 01:38:57,625
+‎Uitati-va pe cer!
+
+1678
+01:38:59,250 --> 01:39:00,708
+‎- Avem dovezi.
+‎- Priviti in sus!
+
+1679
+01:39:00,791 --> 01:39:04,416
+‎Gasca, priviti in sus!
+‎Lasati-i dracu' de lamantini!
+
+1680
+01:39:04,500 --> 01:39:05,458
+‎Priviti in sus!
+
+1681
+01:39:05,541 --> 01:39:07,625
+‎- Priviti in sus!
+‎- Priviti in sus!
+
+1682
+01:39:07,708 --> 01:39:08,708
+‎Priviti in sus!
+
+1683
+01:39:08,791 --> 01:39:13,083
+‎Dle dr. Mindy, planul presedintei
+‎de a salva Pamantul,
+
+1684
+01:39:13,166 --> 01:39:18,125
+‎ca sa avem un camin cu totii,
+‎o sa functioneze, nu-i asa?
+
+1685
+01:39:18,208 --> 01:39:22,416
+‎Vor muri toti barbatii, toate femeile
+‎si toti copiii de pe planeta asta.
+
+1686
+01:39:22,500 --> 01:39:25,708
+‎- Nu-mi place tipul. Ma intristeaza.
+‎- Îmi pare rau.
+
+1687
+01:39:25,791 --> 01:39:27,625
+‎- N-a fost asa la repetitii.
+‎- Copii,
+
+1688
+01:39:27,708 --> 01:39:30,875
+‎spuneti-le parintilor
+‎ca presedinta Orlean si Isherwell
+
+1689
+01:39:30,958 --> 01:39:32,625
+‎sunt sociopati si fascisti!
+
+1690
+01:39:39,791 --> 01:39:42,708
+‎Știti de ce vor sa priviti in sus?
+
+1691
+01:39:43,791 --> 01:39:45,500
+‎Știi de ce?
+
+1692
+01:39:45,583 --> 01:39:48,041
+‎Caci vor sa va temeti.
+
+1693
+01:39:49,500 --> 01:39:51,958
+‎Vor sa priviti in sus
+
+1694
+01:39:52,041 --> 01:39:54,708
+‎fiindca ei va privesc pe voi de sus.
+
+1695
+01:39:56,041 --> 01:39:57,916
+‎Se cred mai buni decat voi.
+
+1696
+01:39:58,000 --> 01:40:00,500
+‎Copii, nu priviti in sus!
+
+1697
+01:40:00,583 --> 01:40:02,833
+‎O sa va fure libertatea, asta e clar!
+
+1698
+01:40:02,916 --> 01:40:05,000
+‎Nu priviti in sus!
+
+1699
+01:40:05,083 --> 01:40:06,833
+‎Orlean, presedinta Statelor Unite…
+
+1700
+01:40:06,916 --> 01:40:08,416
+‎Atentie!
+
+1701
+01:40:09,333 --> 01:40:12,625
+‎…n-a inclus nici India,
+‎nici alta natiune din lume
+
+1702
+01:40:12,708 --> 01:40:14,041
+‎in aceasta misiune.
+
+1703
+01:40:14,750 --> 01:40:17,375
+‎Tipul e un pornograf celebru, pe nume Kip…
+
+1704
+01:40:17,458 --> 01:40:18,708
+‎Nu-l ascultati pe cretin!
+
+1705
+01:40:18,791 --> 01:40:24,791
+‎Natiunile Unite au luat in calcul
+‎propria misiune devianta.
+
+1706
+01:40:25,500 --> 01:40:27,125
+‎Priviti in sus, la dracu'!
+
+1707
+01:40:27,208 --> 01:40:30,958
+‎Știu ca Hollywoodul sustine
+‎miscarea Priviti in Sus,
+
+1708
+01:40:31,041 --> 01:40:32,875
+‎dar n-am mai vazut insigna aia.
+
+1709
+01:40:32,958 --> 01:40:34,416
+‎DEVIN PETERS
+‎DEVASTARE TOTALA
+
+1710
+01:40:34,500 --> 01:40:37,708
+‎Insigna asta e indreptata
+‎in sus si in jos.
+
+1711
+01:40:38,291 --> 01:40:42,916
+‎Cred ca in tara asta ar trebui
+‎sa nu ne mai certam
+
+1712
+01:40:43,000 --> 01:40:45,500
+‎si sa n-o mai facem pe virtuosii.
+‎Hai sa ne intelegem.
+
+1713
+01:40:46,125 --> 01:40:48,500
+‎Ce chestie inovatoare!
+
+1714
+01:40:48,583 --> 01:40:51,208
+‎Cred ca ne-am saturat toti de politica.
+
+1715
+01:40:51,291 --> 01:40:53,458
+‎Da.
+
+1716
+01:40:54,458 --> 01:40:56,083
+‎De-aia am facut ‎Devastare totala.
+
+1717
+01:40:56,166 --> 01:40:58,291
+‎E un film pentru toata lumea.
+
+1718
+01:40:58,375 --> 01:41:02,083
+‎Fiti cu ochii inainte la drum
+‎si tineti capul la cutie!
+
+1719
+01:41:02,166 --> 01:41:04,583
+‎Puneti un picior in fata celuilalt,
+
+1720
+01:41:04,666 --> 01:41:05,708
+‎pas dupa pas.
+
+1721
+01:41:07,000 --> 01:41:08,083
+‎Zi dupa zi.
+
+1722
+01:41:08,166 --> 01:41:11,375
+‎- Nu!
+‎- Nu!
+
+1723
+01:41:11,458 --> 01:41:12,541
+‎ÎN SUS - CUMPARA ACUM
+
+1724
+01:41:12,625 --> 01:41:13,458
+‎CUMPARAT
+
+1725
+01:41:13,541 --> 01:41:14,500
+‎DIFUZARE ÎNTÂRZIATA
+
+1726
+01:41:16,291 --> 01:41:18,083
+‎ULTIMUL CONCERT PE BUNE
+‎PENTRU A SALVA LUMEA
+
+1727
+01:41:18,166 --> 01:41:20,500
+‎Vrem sa spunem ceva clar.
+
+1728
+01:41:20,583 --> 01:41:24,208
+‎Nu exista o cale sigura
+‎de a aduce cometa pe Pamant
+
+1729
+01:41:24,291 --> 01:41:27,000
+‎si de a o exploata pentru profit.
+‎Nu se poate!
+
+1730
+01:41:27,583 --> 01:41:31,458
+‎Natiuni mondiale,
+‎sfidati-i pe Orlean si BASH!
+
+1731
+01:41:31,541 --> 01:41:34,458
+‎Lansati acum rachetele voastre de deviere,
+
+1732
+01:41:34,541 --> 01:41:36,083
+‎ca sa salvati planeta!
+
+1733
+01:41:37,541 --> 01:41:43,375
+‎Iar acum,
+‎Riley Bina cu un oaspete special.
+
+1734
+01:41:44,000 --> 01:41:45,708
+‎I-am uitat numele. Multumim.
+
+1735
+01:41:48,791 --> 01:41:51,125
+‎EȘTI INCENDIARA!
+‎TE IUBIM RILEY!
+
+1736
+01:41:51,208 --> 01:41:54,000
+‎DAU 5.000$ PE O LOPATA!
+‎COMETA NE VA LICHEFIA?
+
+1737
+01:41:54,083 --> 01:41:56,083
+‎NU PRIVI ÎN SUS, BOU MARXIST!
+‎RILEY E O EROINA
+
+1738
+01:41:56,166 --> 01:41:59,416
+‎MA UIT LA RILEY ÎNAINTE SA MOR!
+‎IUBITA MEA CÂNTA MAI BINE
+
+1739
+01:41:59,500 --> 01:42:02,041
+‎SUNT SINGURA ȘI EXCITATA
+‎3,99$ USFANS
+
+1740
+01:42:02,125 --> 01:42:08,416
+‎Am trait fara limite
+‎Viata ne-a invins
+
+1741
+01:42:08,500 --> 01:42:14,416
+‎S-a intors impotriva vietilor noastre
+‎Împotriva noastra
+
+1742
+01:42:16,375 --> 01:42:20,333
+‎Ai rascolit toate amintirile
+
+1743
+01:42:20,416 --> 01:42:24,125
+‎Fara sa-ti iei nici macar ramas-bun
+
+1744
+01:42:24,208 --> 01:42:30,208
+‎Mandria ta a stins focul
+‎Din flacarile noastre
+
+1745
+01:42:31,250 --> 01:42:34,750
+‎Și-apoi ajunge o privire
+
+1746
+01:42:34,833 --> 01:42:40,458
+‎Îti simt ochii
+‎Pironiti pe al meu trup
+
+1747
+01:42:40,541 --> 01:42:45,291
+‎Și-apoi inima mea fraiera spune
+
+1748
+01:42:45,375 --> 01:42:49,458
+‎Priveste in sus
+
+1749
+01:42:49,541 --> 01:42:53,166
+‎N-ai unde sa te ascunzi
+
+1750
+01:42:53,250 --> 01:42:55,083
+‎Iubirea adevarata nu moare
+
+1751
+01:42:55,166 --> 01:42:59,916
+‎Te tine strans
+‎Și nu-ti da drumul niciodata…
+
+1752
+01:43:00,000 --> 01:43:03,666
+‎Nu e un spectacol beton al presedintei?
+
+1753
+01:43:04,750 --> 01:43:06,583
+‎Daca nu era mama…
+
+1754
+01:43:08,291 --> 01:43:10,041
+‎Exista trei tipuri de americani.
+
+1755
+01:43:11,000 --> 01:43:13,166
+‎Voi, clasa muncitoare.
+
+1756
+01:43:13,250 --> 01:43:17,083
+‎Noi, cei tari si bogati, si ei.
+
+1757
+01:43:19,583 --> 01:43:21,625
+‎Îmi pare rau, dar avem nevoie de ei.
+
+1758
+01:43:22,166 --> 01:43:26,291
+‎Avem nevoie de ei, fiindca voi
+‎ne-ati ridicat ca sa ne luptam cu ei.
+
+1759
+01:43:26,375 --> 01:43:28,541
+‎Clasa muncitoare, cea mai de jos.
+
+1760
+01:43:28,625 --> 01:43:30,750
+‎- Întelegeti?
+‎- Nu, eu n-am inteles.
+
+1761
+01:43:30,833 --> 01:43:35,000
+‎Întelegeti? Ma refer la nutritionisti.
+
+1762
+01:43:35,541 --> 01:43:37,666
+‎Ma refer la antrenori personali,
+
+1763
+01:43:38,500 --> 01:43:40,125
+‎oameni din centre spa,
+
+1764
+01:43:40,208 --> 01:43:43,125
+‎dar nu cei de la receptie sau maseuzele,
+
+1765
+01:43:43,208 --> 01:43:45,750
+‎ci cei care te conduc pe coridoare.
+
+1766
+01:43:45,833 --> 01:43:46,750
+‎Sunt acolo…
+
+1767
+01:43:46,833 --> 01:43:49,333
+‎Știu ca te-am dezamagit
+‎N-o sa neg
+
+1768
+01:43:50,541 --> 01:43:53,166
+‎Și pierdem atat de multe chestii
+‎Da, care conteaza
+
+1769
+01:43:53,250 --> 01:43:56,541
+‎M-a luat valul nebuniei
+‎N-am fost omul de care aveai nevoie
+
+1770
+01:43:57,250 --> 01:44:00,500
+‎Pe tine te-a luat valul tristetii
+‎Sincer, e numai vina mea…
+
+1771
+01:44:01,291 --> 01:44:04,083
+‎- Scapati de BASH! Cand?
+‎- Acum!
+
+1772
+01:44:04,166 --> 01:44:05,833
+‎Scapati de BASH! Cand?
+
+1773
+01:44:07,791 --> 01:44:08,875
+‎Timpul e pretios…
+
+1774
+01:44:08,958 --> 01:44:10,541
+‎Nu vom tacea!
+
+1775
+01:44:11,583 --> 01:44:14,958
+‎Ia-mi mana, iubito
+‎N-o sa te parasesc niciodata, Riley
+
+1776
+01:44:15,041 --> 01:44:19,375
+‎Fata, ceea ce vrea sa spuna
+
+1777
+01:44:19,458 --> 01:44:23,083
+‎E sa-ti scoti capul dintre picioare
+
+1778
+01:44:23,166 --> 01:44:29,916
+‎Asculta-i pe oamenii de stiinta calificati
+
+1779
+01:44:30,000 --> 01:44:33,416
+‎Am dat-o rau in bara
+‎Am dat-o in bara de data asta
+
+1780
+01:44:33,500 --> 01:44:37,333
+‎E asa aproape
+‎Simt deja caldura
+
+1781
+01:44:37,416 --> 01:44:41,000
+‎Și poti sa te faci
+‎Ca totul e in regula
+
+1782
+01:44:41,083 --> 01:44:44,791
+‎Dar probabil
+‎Se intampla in timp real
+
+1783
+01:44:44,875 --> 01:44:47,791
+‎Sarbatoreste, plangi sau roaga-te
+
+1784
+01:44:47,875 --> 01:44:53,166
+‎Orice e nevoie
+‎Ca sa dregi ce am creat cu totii
+
+1785
+01:44:53,250 --> 01:44:58,208
+‎Ziua de maine s-ar putea sa nu mai vina
+
+1786
+01:44:58,291 --> 01:45:02,625
+‎Priviti in sus
+
+1787
+01:45:02,708 --> 01:45:06,291
+‎Închideti stirile alea de rahat
+
+1788
+01:45:06,375 --> 01:45:09,333
+‎Caci o sa muriti curand
+
+1789
+01:45:13,291 --> 01:45:15,000
+‎Priviti in sus…
+
+1790
+01:45:20,583 --> 01:45:23,583
+‎Buna ziua, Adam!
+‎Carui fapt ii datorez placerea?
+
+1791
+01:45:30,041 --> 01:45:31,041
+‎La ce ora?
+
+1792
+01:45:38,791 --> 01:45:41,708
+‎Multumesc pentru telefon.
+
+1793
+01:45:44,125 --> 01:45:45,125
+‎Da.
+
+1794
+01:46:01,583 --> 01:46:02,541
+‎Ce e?
+
+1795
+01:46:05,958 --> 01:46:06,958
+‎Ce?
+
+1796
+01:46:09,916 --> 01:46:14,708
+‎Orlean si BASH au exclus Rusia,
+‎India si China de la drepturile
+
+1797
+01:46:15,958 --> 01:46:17,375
+‎asupra minereurilor.
+
+1798
+01:46:17,458 --> 01:46:20,916
+‎De-aia au incercat singuri devierea,
+
+1799
+01:46:21,000 --> 01:46:25,708
+‎dar… acum vreo 40 de minute,
+
+1800
+01:46:26,583 --> 01:46:33,000
+‎a avut loc o explozie uriasa
+‎la centrul rus de lansare Baikonur.
+
+1801
+01:46:35,458 --> 01:46:37,666
+‎Se pare ca misiunea a esuat.
+
+1802
+01:46:42,791 --> 01:46:44,000
+‎Asta a fost?
+
+1803
+01:46:47,166 --> 01:46:48,666
+‎Cum adica „asta a fost”?
+
+1804
+01:46:52,125 --> 01:46:53,125
+‎Teddy?
+
+1805
+01:46:56,458 --> 01:46:57,333
+‎Da?
+
+1806
+01:47:03,166 --> 01:47:06,916
+‎Mai e misiunea BASH.
+‎Doar asta ne-a mai ramas.
+
+1807
+01:47:14,083 --> 01:47:15,083
+‎Futu-i!
+
+1808
+01:47:27,291 --> 01:47:30,083
+‎Acesti Privitori in Sus
+
+1809
+01:47:30,166 --> 01:47:35,875
+‎vor ca milioane de chilieni
+‎sa traverseze granita.
+
+1810
+01:47:36,875 --> 01:47:40,291
+‎Nu priviti in sus!
+
+1811
+01:47:43,458 --> 01:47:44,458
+‎MINERIȚI COMETA
+
+1812
+01:47:44,541 --> 01:47:46,291
+‎Ce dracu' e aia?
+
+1813
+01:47:52,416 --> 01:47:54,583
+‎Ne minte pe fata!
+
+1814
+01:47:56,125 --> 01:48:02,583
+‎Doamna presedinta mi-a scris acum
+‎sa nu intram in panica, e totul in regula.
+
+1815
+01:48:02,666 --> 01:48:04,375
+‎NU PRIVIȚI ÎN SUS
+
+1816
+01:48:05,000 --> 01:48:06,000
+‎Hei!
+
+1817
+01:48:06,583 --> 01:48:09,250
+‎Mi-ati taiat fata, taranoi imputiti!
+
+1818
+01:48:22,041 --> 01:48:24,000
+‎N-am intalnit nicio masina de o ora.
+
+1819
+01:48:25,958 --> 01:48:28,541
+‎Da. Sunt toti la lansarea BASH.
+
+1820
+01:48:31,041 --> 01:48:32,333
+‎Și noi ce facem?
+
+1821
+01:48:35,000 --> 01:48:39,416
+‎Ți-am zis. Mergem sa cumparam alimente.
+
+1822
+01:48:48,041 --> 01:48:53,250
+‎The Mills Brothers. O trupa formidabila,
+‎fondata de Duke Ellington.
+
+1823
+01:48:55,958 --> 01:49:00,000
+‎Cred ca initial se numeau
+‎The Four Kings of Harmony.
+
+1824
+01:49:05,750 --> 01:49:07,166
+‎Cantecul e „Till Then”.
+
+1825
+01:49:07,250 --> 01:49:11,458
+‎E despre niste soldati care se duc
+‎in al Doilea Razboi Mondial
+
+1826
+01:49:11,541 --> 01:49:13,375
+‎si le e dor de casa.
+
+1827
+01:49:16,500 --> 01:49:17,708
+‎Asculta partea asta.
+
+1828
+01:49:21,041 --> 01:49:27,041
+‎„Desi trebuie sa traversam oceane
+‎si sa ne cataram pe munti…
+
+1829
+01:49:31,625 --> 01:49:34,708
+‎stiu ca orice castig are si-o pierdere.
+
+1830
+01:49:36,708 --> 01:49:40,708
+‎Roaga-te ca pierderea noastra
+‎sa fie doar timpul.”
+
+1831
+01:49:46,541 --> 01:49:49,083
+‎- Vreau sa te intreb ceva.
+‎- Ce?
+
+1832
+01:49:51,666 --> 01:49:53,666
+‎Dle Mindy, pot fi vulnerabil in masina?
+
+1833
+01:49:53,750 --> 01:49:54,916
+‎Da, te rog.
+
+1834
+01:49:57,166 --> 01:49:58,875
+‎N-am mai cunoscut pe cineva ca tine
+
+1835
+01:49:58,958 --> 01:50:01,166
+‎si simt ca avem o legatura…
+
+1836
+01:50:04,333 --> 01:50:06,250
+‎pe care n-am mai simtit-o cu altcineva.
+
+1837
+01:50:06,333 --> 01:50:08,375
+‎Și ti-o zic asa, la risc,
+
+1838
+01:50:08,458 --> 01:50:10,458
+‎ai vrea sa stam mai mult impreuna?
+
+1839
+01:50:11,041 --> 01:50:14,958
+‎Poate chiar sa ne logodim sau asa ceva?
+
+1840
+01:50:16,166 --> 01:50:18,000
+‎Razi?
+
+1841
+01:50:18,875 --> 01:50:20,125
+‎- Nu?
+‎- Zambesc.
+
+1842
+01:50:21,666 --> 01:50:23,541
+‎- Ba da.
+‎- Ce frumos!
+
+1843
+01:50:23,625 --> 01:50:26,875
+‎- De ce nu?
+‎- E foarte frumos.
+
+1844
+01:50:37,291 --> 01:50:41,791
+‎Și tu… I-ai citit in ceasca de cafea
+‎profesorului Mindy.
+
+1845
+01:50:41,875 --> 01:50:43,875
+‎- I-ai aratat algoritmul.
+‎- Da.
+
+1846
+01:50:43,958 --> 01:50:46,041
+‎L-ai tulburat cu informatia aia.
+
+1847
+01:50:46,125 --> 01:50:48,916
+‎- Credeam ca moare.
+‎- Da, e tulburatoare.
+
+1848
+01:50:49,625 --> 01:50:51,916
+‎Vreau sa stiu si eu despre moartea mea.
+
+1849
+01:50:54,583 --> 01:50:57,208
+‎Sau nu cred ca vreau sa stiu.
+‎Ba da, vreau.
+
+1850
+01:50:57,291 --> 01:51:01,541
+‎Vei fi mancata de un Brontoroc.
+‎Nu stim ce inseamna asta.
+
+1851
+01:51:01,625 --> 01:51:03,583
+‎- Un ce?
+‎- Un Brontoroc.
+
+1852
+01:51:05,625 --> 01:51:07,708
+‎Oameni buni, cerul e senin.
+
+1853
+01:51:09,541 --> 01:51:12,833
+‎Suntem gata pentru lansare.
+
+1854
+01:51:12,916 --> 01:51:13,958
+‎Doamna presedinta?
+
+1855
+01:51:14,041 --> 01:51:18,583
+‎Cetateni ai planetei Pamant. Acum…
+
+1856
+01:51:19,541 --> 01:51:23,250
+‎Ia uite, Kate! Au somon salbatic.
+
+1857
+01:51:23,333 --> 01:51:26,416
+‎Uite ce diferenta intre asta
+‎si cel de crescatorie.
+
+1858
+01:51:26,500 --> 01:51:29,708
+‎Uite cum arata asta…
+‎Parca n-ar fi adevarat, nu?
+
+1859
+01:51:30,833 --> 01:51:33,375
+‎De ce nu te duci sa iei…
+
+1860
+01:51:33,458 --> 01:51:35,958
+‎Cum se numesc cartofii aia micuti?
+
+1861
+01:51:36,041 --> 01:51:37,166
+‎- Cartofi alungiti?
+‎- Da.
+
+1862
+01:51:37,250 --> 01:51:39,750
+‎- Mor dupa cartofii alungiti.
+‎- Du-te sa iei…
+
+1863
+01:51:39,833 --> 01:51:41,333
+‎Vrei sa spui si tu ceva?
+
+1864
+01:51:41,416 --> 01:51:42,708
+‎A fost frumos. Da.
+
+1865
+01:51:43,666 --> 01:51:47,791
+‎Ce faceti, oameni buni? Aici Jason Orlean,
+‎seful cabinetului american.
+
+1866
+01:51:49,875 --> 01:51:53,458
+‎Am observat ca lumea se roaga mult
+‎in aceasta perioada,
+
+1867
+01:51:54,291 --> 01:51:55,750
+‎ceea ce e laudabil,
+
+1868
+01:51:55,833 --> 01:52:02,125
+‎dar as dori sa spun o rugaciune
+‎si pentru lucruri.
+
+1869
+01:52:03,625 --> 01:52:08,916
+‎Exista chestii materiale bestiale,
+‎apartamente si ceasuri bengoase…
+
+1870
+01:52:09,000 --> 01:52:10,833
+‎DEAB-URI GATA DE LANSARE
+
+1871
+01:52:10,916 --> 01:52:14,833
+‎…masini, haine si altele
+‎care ar putea disparea
+
+1872
+01:52:14,916 --> 01:52:16,500
+‎si nu vreau sa dispara.
+
+1873
+01:52:16,583 --> 01:52:18,625
+‎Asa ca o sa ma rog pentru ele. Amin.
+
+1874
+01:52:21,958 --> 01:52:25,291
+‎Doar o usoara trepidatie
+‎a acestei multimi reduse.
+
+1875
+01:52:25,375 --> 01:52:27,000
+‎Îi aud pe unii rugandu-se.
+
+1876
+01:52:27,083 --> 01:52:29,166
+‎Bine, Anderson, hai dupa ea!
+
+1877
+01:52:29,250 --> 01:52:34,125
+‎Da, dle. Fiti pregatiti! Zece…
+
+1878
+01:52:34,208 --> 01:52:41,125
+‎Zece, noua, opt, sapte, sase,
+
+1879
+01:52:41,833 --> 01:52:43,875
+‎cinci, patru…
+
+1880
+01:53:02,666 --> 01:53:03,500
+‎Buna!
+
+1881
+01:53:04,958 --> 01:53:05,791
+‎Buna!
+
+1882
+01:53:16,583 --> 01:53:19,541
+‎Am luat de mancare.
+
+1883
+01:53:28,916 --> 01:53:30,291
+‎Ce-a fost aia?
+
+1884
+01:53:30,375 --> 01:53:31,750
+‎Am pierdut DEAB-ul 12.
+
+1885
+01:53:32,375 --> 01:53:34,166
+‎AVERTIZARE
+
+1886
+01:53:35,208 --> 01:53:36,833
+‎Lansare esuata pentru DEAB 22.
+
+1887
+01:53:37,708 --> 01:53:38,708
+‎Nu-i nimic.
+
+1888
+01:53:38,791 --> 01:53:40,541
+‎TELEMETRIE DRONE D.E.A.B.
+
+1889
+01:53:40,625 --> 01:53:46,250
+‎Anticipaseram o marja de eroare.
+‎E totul in regula.
+
+1890
+01:53:46,333 --> 01:53:50,833
+‎Ma gandeam sa luam cina in familie.
+
+1891
+01:53:50,916 --> 01:53:52,166
+‎- Salut, tata!
+‎- Buna!
+
+1892
+01:53:52,250 --> 01:53:54,541
+‎- Salut, baieti!
+‎- Salut!
+
+1893
+01:54:00,833 --> 01:54:01,750
+‎Ce zici?
+
+1894
+01:54:04,166 --> 01:54:05,000
+‎Bine.
+
+1895
+01:54:05,916 --> 01:54:07,291
+‎- Multumesc.
+‎- Da.
+
+1896
+01:54:07,791 --> 01:54:10,000
+‎- Ea e Kate.
+‎- Buna!
+
+1897
+01:54:10,083 --> 01:54:11,916
+‎- Buna, Kate!
+‎- Iau eu sacosele.
+
+1898
+01:54:12,000 --> 01:54:13,750
+‎- Încantat! Sunt Yule.
+‎- Yule.
+
+1899
+01:54:13,833 --> 01:54:15,833
+‎Sunt FirePuma142. Joci jocuri video?
+
+1900
+01:54:16,625 --> 01:54:18,125
+‎Ma indoiesc foarte tare.
+
+1901
+01:54:18,208 --> 01:54:19,833
+‎Cine a zis ca joc?
+
+1902
+01:54:22,083 --> 01:54:23,291
+‎Ți-am luat astia.
+
+1903
+01:54:25,208 --> 01:54:27,041
+‎Multumesc. Dragut din partea ta.
+
+1904
+01:54:33,500 --> 01:54:35,375
+‎Nu stii cat de rau imi pare.
+
+1905
+01:54:37,208 --> 01:54:39,916
+‎- Nespus de rau.
+‎- Știu.
+
+1906
+01:54:40,750 --> 01:54:43,875
+‎- Mi-a fost dor de tine.
+‎- Și mie mi-a fost foarte dor.
+
+1907
+01:54:50,875 --> 01:54:53,625
+‎Cand ieseam la facultate,
+‎mi-am tras-o cu Aaron Tran.
+
+1908
+01:54:57,416 --> 01:54:58,458
+‎Da, asa ca…
+
+1909
+01:55:09,458 --> 01:55:10,291
+‎Gusta asta.
+
+1910
+01:55:12,208 --> 01:55:13,458
+‎Gusta.
+
+1911
+01:55:14,541 --> 01:55:15,541
+‎E foarte buna.
+
+1912
+01:55:15,625 --> 01:55:16,833
+‎E buna, nu?
+
+1913
+01:55:27,708 --> 01:55:29,791
+‎- Salutare!
+‎- Salut!
+
+1914
+01:55:29,875 --> 01:55:31,750
+‎Am intarziat, dar nu-s cu mana goala.
+
+1915
+01:55:33,875 --> 01:55:38,250
+‎Evan, Marshall, June,
+‎el e dr. Oglethorpe. Da?
+
+1916
+01:55:52,000 --> 01:55:54,875
+‎Dronele au atins viteza cosmica optima
+
+1917
+01:55:54,958 --> 01:55:59,625
+‎si se apropie de cometa Dibiasky,
+‎in modalitatea de agatare.
+
+1918
+01:56:15,500 --> 01:56:17,750
+‎Bine. În regula.
+
+1919
+01:56:17,833 --> 01:56:20,833
+‎Le-am pierdut pe opt si 27.
+‎S-a defectat controlul lateral.
+
+1920
+01:56:21,750 --> 01:56:24,750
+‎Bine, acum, Peter…
+
+1921
+01:56:24,833 --> 01:56:28,958
+‎Peter, am pierdut sase drone.
+‎O sa mai functioneze?
+
+1922
+01:56:29,041 --> 01:56:34,875
+‎Inginerii m-au asigurat
+‎ca 24 de drone sunt suficiente.
+
+1923
+01:56:35,958 --> 01:56:38,958
+‎Cate putem pierde?
+
+1924
+01:56:42,083 --> 01:56:43,083
+‎În afara de astea?
+
+1925
+01:56:46,625 --> 01:56:50,375
+‎Am fost informati ca mai multe drone
+‎au explodat la lansare.
+
+1926
+01:56:51,291 --> 01:56:53,208
+‎Ți-am pastrat locul din capul mesei.
+
+1927
+01:56:54,208 --> 01:56:56,791
+‎Esti mult prea amabil, Randall. Multumesc.
+
+1928
+01:56:56,875 --> 01:56:57,875
+‎Marele doctor.
+
+1929
+01:56:57,958 --> 01:56:59,166
+‎Îti mai torn vin?
+
+1930
+01:57:00,291 --> 01:57:02,291
+‎- Noroc!
+‎- Noroc!
+
+1931
+01:57:02,375 --> 01:57:03,416
+‎- Noroc!
+‎- Te iubesc.
+
+1932
+01:57:03,500 --> 01:57:05,250
+‎- Și eu.
+‎- Multumim pentru invitatie.
+
+1933
+01:57:05,333 --> 01:57:07,291
+‎Eu va multumesc. E special.
+
+1934
+01:57:07,375 --> 01:57:08,208
+‎Multumesc.
+
+1935
+01:57:20,958 --> 01:57:24,166
+‎Începeti separarea simultana
+‎prin explozie.
+
+1936
+01:57:28,833 --> 01:57:29,708
+‎Mama.
+
+1937
+01:57:39,833 --> 01:57:40,750
+‎Frumos!
+
+1938
+01:57:41,333 --> 01:57:43,250
+‎- Mersi.
+‎- Da.
+
+1939
+01:57:43,333 --> 01:57:48,083
+‎Da, asa e.
+‎Și sunt fericita ca te-ai intors acasa.
+
+1940
+01:57:49,791 --> 01:57:51,416
+‎Dl Mindy a devenit celebru.
+
+1941
+01:57:52,250 --> 01:57:55,791
+‎Da, uitasem. Ai dreptate.
+
+1942
+01:57:56,708 --> 01:58:00,625
+‎Am fost pe copertile revistelor. Știu.
+
+1943
+01:58:01,375 --> 01:58:03,291
+‎- Aratai grozav.
+‎- Hai, loviti.
+
+1944
+01:58:08,333 --> 01:58:09,458
+‎- Te iubesc.
+‎- Și eu.
+
+1945
+01:58:10,875 --> 01:58:11,916
+‎DEFECȚIUNE SISTEM
+
+1946
+01:58:12,000 --> 01:58:13,500
+‎Bun. Ne trebuie un raport.
+
+1947
+01:58:13,583 --> 01:58:16,166
+‎Un raport complet
+‎al dispozitivelor explozive.
+
+1948
+01:58:16,250 --> 01:58:19,416
+‎La treaba! Înca astept raportul complet.
+
+1949
+01:58:21,416 --> 01:58:22,458
+‎În regula.
+
+1950
+01:58:23,125 --> 01:58:27,625
+‎Presedintele Qi al Chinei zice
+‎ca inca e intreaga cometa.
+
+1951
+01:58:27,708 --> 01:58:29,791
+‎Avem patru rateuri si nicio sincronizare.
+
+1952
+01:58:30,625 --> 01:58:31,625
+‎E inca intacta.
+
+1953
+01:58:31,708 --> 01:58:32,875
+‎Ce-ai spus?
+
+1954
+01:58:33,541 --> 01:58:35,958
+‎Avem patru rateuri si nicio sincronizare.
+
+1955
+01:58:36,791 --> 01:58:40,958
+‎Bine. Suntem toti bine.
+
+1956
+01:58:41,708 --> 01:58:44,041
+‎Va fi bine. Va rog sa ma scuzati…
+
+1957
+01:58:44,875 --> 01:58:46,125
+‎Ma cheama natura.
+
+1958
+01:58:46,208 --> 01:58:49,208
+‎Ma duc o clipa pana la toaleta.
+
+1959
+01:58:52,666 --> 01:58:57,333
+‎Da, cred ca si eu o sa ma duc
+‎la toaleta o clipa.
+
+1960
+01:59:03,583 --> 01:59:05,583
+‎- Sa vin…
+‎- Nu, ma descurc.
+
+1961
+01:59:06,625 --> 01:59:08,125
+‎Doamna presedinta?
+
+1962
+01:59:08,875 --> 01:59:11,000
+‎Trebuie sa stim situatia misiunii.
+
+1963
+01:59:13,291 --> 01:59:14,750
+‎Se intoarce imediat.
+
+1964
+01:59:15,416 --> 01:59:18,041
+‎Îmi bag picioarele! Ma duc la sotul meu.
+
+1965
+01:59:21,333 --> 01:59:23,125
+‎Scuze, am o fiica de 20 de ani.
+
+1966
+01:59:23,208 --> 01:59:24,625
+‎Ma duc la ea.
+
+1967
+01:59:25,291 --> 01:59:26,375
+‎Eu trag un tun pe nas.
+
+1968
+01:59:27,791 --> 01:59:28,833
+‎Rahat!
+
+1969
+01:59:28,916 --> 01:59:30,625
+‎Vine. Se intoarce.
+
+1970
+01:59:37,041 --> 01:59:39,250
+‎Alo? E o nava spatiala.
+
+1971
+01:59:39,791 --> 01:59:43,916
+‎În caz ca ne-am fi inselat,
+‎si e clar ca ne-am inselat.
+
+1972
+01:59:44,000 --> 01:59:46,458
+‎Normal ca aveti o nava.
+
+1973
+01:59:46,541 --> 01:59:48,125
+‎Încap 2.000 de persoane.
+
+1974
+01:59:48,208 --> 01:59:51,458
+‎Are camere criogenice de ultima generatie.
+‎E setata sa gaseasca
+
+1975
+01:59:51,541 --> 01:59:54,666
+‎o planeta asemanatoare cu Pamantul,
+‎din zona Goldilocks…
+
+1976
+01:59:55,458 --> 02:00:00,541
+‎E loc si pentru tine cu inca o persoana.
+‎Brie, sotia ta, cine vrei.
+
+1977
+02:00:02,708 --> 02:00:09,500
+‎Nu e nevoie, dar multumesc pentru oferta.
+‎Distractie placuta cu Jason!
+
+1978
+02:00:11,541 --> 02:00:12,500
+‎Cu Jason?
+
+1979
+02:00:15,250 --> 02:00:16,375
+‎Drace!
+
+1980
+02:00:20,083 --> 02:00:21,083
+‎Se intoarce.
+
+1981
+02:00:30,125 --> 02:00:33,041
+‎Sunt recunoscator pentru noaptea
+‎cand am adormit in curte.
+
+1982
+02:00:33,791 --> 02:00:36,166
+‎- M-a trezit un pui de caprioara.
+‎- Îmi amintesc.
+
+1983
+02:00:36,250 --> 02:00:38,708
+‎- Da.
+‎- A fost cea mai frumoasa zi a mea.
+
+1984
+02:00:50,166 --> 02:00:51,375
+‎Sunt recunoscatoare…
+
+1985
+02:00:58,750 --> 02:01:00,500
+‎ca am incercat.
+
+1986
+02:01:03,541 --> 02:01:06,000
+‎Mama, si cat am incercat!
+
+1987
+02:01:08,458 --> 02:01:13,791
+‎Nu suntem foarte religiosi in casa Mindy,
+
+1988
+02:01:13,875 --> 02:01:17,833
+‎dar cred ca ar trebui sa spunem „amin”,
+‎nu-i asa?
+
+1989
+02:01:17,916 --> 02:01:19,041
+‎Nu te uita la mine.
+
+1990
+02:01:19,875 --> 02:01:23,833
+‎Nu stiu cum… Zici „amin” si atat?
+
+1991
+02:01:24,541 --> 02:01:25,750
+‎- O fac eu.
+‎- Gata?
+
+1992
+02:01:26,416 --> 02:01:27,250
+‎Bine.
+
+1993
+02:01:38,750 --> 02:01:41,000
+‎Tatal nostru si Atotputernic Creator,
+
+1994
+02:01:44,875 --> 02:01:48,708
+‎indura-Te de noi in seara asta,
+‎in ciuda trufiei noastre.
+
+1995
+02:01:50,416 --> 02:01:54,291
+‎Iarta-ne, in ciuda indoielilor noastre.
+
+1996
+02:01:57,625 --> 02:01:59,125
+‎Mai mult decat orice, Doamne,
+
+1997
+02:02:01,125 --> 02:02:05,791
+‎Îti cerem ca iubirea Ta sa ne aline
+‎durerea in aceste vremuri intunecate.
+
+1998
+02:02:08,291 --> 02:02:10,500
+‎Sa infruntam tot ce ne asteapta…
+
+1999
+02:02:12,791 --> 02:02:18,583
+‎intru vointa Ta divina,
+‎cu curajul si inima deschisa a acceptarii.
+
+2000
+02:02:21,833 --> 02:02:24,291
+‎- Amin.
+‎- Amin.
+
+2001
+02:02:25,541 --> 02:02:27,708
+‎Mama! Le ai cu biserica.
+
+2002
+02:02:29,625 --> 02:02:30,750
+‎A fost frumos.
+
+2003
+02:02:34,166 --> 02:02:36,125
+‎Cometa ramane intacta.
+
+2004
+02:02:36,208 --> 02:02:42,125
+‎ȘTIRI DE ULTIMA ORA
+‎COMETA INTACTA: MISIUNEA BASH EȘUEAZA
+
+2005
+02:02:42,875 --> 02:02:44,000
+‎Niciodata n-am…
+
+2006
+02:02:46,750 --> 02:02:50,208
+‎Toata lumea discuta
+‎despre un singur subiect in seara asta.
+
+2007
+02:02:50,791 --> 02:02:52,791
+‎Centre de ingrijire topless.
+
+2008
+02:03:03,500 --> 02:03:04,458
+‎Stam jos.
+
+2009
+02:03:06,458 --> 02:03:10,791
+‎Sau… ne-o tragem,
+
+2010
+02:03:12,833 --> 02:03:14,666
+‎ne rugam sau…
+
+2011
+02:03:18,791 --> 02:03:22,291
+‎Sincer, as prefera sa beau…
+
+2012
+02:03:24,250 --> 02:03:25,916
+‎si sa-i barfesc pe altii.
+
+2013
+02:03:32,208 --> 02:03:33,833
+‎N-o sa ma ai in viata!
+
+2014
+02:03:37,041 --> 02:03:37,958
+‎Atentie!
+
+2015
+02:04:30,083 --> 02:04:32,916
+‎O sa mai mananc placinta cu mere.
+‎E foarte buna.
+
+2016
+02:04:33,000 --> 02:04:35,791
+‎E cumparata, dar nici nu-ti dai seama.
+
+2017
+02:04:37,666 --> 02:04:42,208
+‎Daca pot sa fiu cat se poate de sincer,
+‎si de ce nu in acest moment,
+
+2018
+02:04:43,208 --> 02:04:46,916
+‎eu prefer gustul mancarurilor cumparate
+‎in locul celor de casa.
+
+2019
+02:04:47,666 --> 02:04:48,666
+‎Zi-mi ca glumesti.
+
+2020
+02:04:48,750 --> 02:04:52,166
+‎Nu, nu glumesc.
+
+2021
+02:04:53,458 --> 02:04:56,666
+‎Știu ce vrea sa zica.
+‎E o chestie nostalgica din copilarie.
+
+2022
+02:05:31,208 --> 02:05:33,583
+‎Ce poate fi mai bun
+‎decat ce e facut in casa?
+
+2023
+02:05:33,666 --> 02:05:37,208
+‎Cafeaua nu pare
+‎sa fie cumparata de la magazin.
+
+2024
+02:05:37,291 --> 02:05:39,666
+‎Îmi rasnesc singur boabele. Da.
+
+2025
+02:05:39,750 --> 02:05:41,375
+‎Da, tata e obsedat de cafea.
+
+2026
+02:05:41,458 --> 02:05:43,708
+‎De cate ori faci cafea, o rasnesti?
+
+2027
+02:05:44,708 --> 02:05:48,666
+‎Cand e vorba de cafea,
+‎Randall e foarte tipicar.
+
+2028
+02:05:48,750 --> 02:05:50,375
+‎Eu sunt asa cu ceaiul.
+
+2029
+02:05:53,208 --> 02:05:55,541
+‎Ideea e ca, intr-adevar…
+
+2030
+02:05:57,625 --> 02:05:59,833
+‎Chiar le aveam pe toate, nu-i asa?
+
+2031
+02:06:02,083 --> 02:06:04,500
+‎Daca ne gandim bine…
+
+2032
+02:06:47,541 --> 02:06:51,541
+‎FELICITARI! AI TERMINAT DIETA!
+
+2033
+02:08:20,250 --> 02:08:25,375
+‎22.740 DE ANI MAI TÂRZIU
+
+2034
+02:09:36,750 --> 02:09:39,916
+‎Nivelul oxigenului e mai ridicat
+‎decat pe Pamant
+
+2035
+02:09:40,000 --> 02:09:41,291
+‎cu noua la suta.
+
+2036
+02:09:41,375 --> 02:09:43,833
+‎S-ar putea sa va simtiti usor ametiti.
+
+2037
+02:09:44,666 --> 02:09:48,166
+‎Iar camerele criogenice au functionat
+‎in proportie de 58%,
+
+2038
+02:09:48,250 --> 02:09:50,583
+‎mult mai mult decat anticipaseram.
+
+2039
+02:09:50,666 --> 02:09:53,791
+‎Da, am avut doar 47 de decedati
+‎in sectiunea noastra.
+
+2040
+02:09:54,666 --> 02:09:59,000
+‎Cred ca o sa mearga bene.
+‎Chiar foarte bine.
+
+2041
+02:09:59,083 --> 02:09:59,916
+‎Vai de mine!
+
+2042
+02:10:00,875 --> 02:10:04,916
+‎Ce animal frumos!
+
+2043
+02:10:05,541 --> 02:10:09,916
+‎Oare alea sunt pene sau solzi…
+
+2044
+02:10:12,708 --> 02:10:14,958
+‎- Ce scarbos!
+‎- Ce e chestia aia?
+
+2045
+02:10:15,666 --> 02:10:18,125
+‎Cred ca se numeste Brontoroc.
+
+2046
+02:10:21,833 --> 02:10:24,125
+‎Aveti grija sa nu-i mangaiati.
+
+2047
+02:16:51,125 --> 02:16:54,125
+‎ÎN MEMORIA LUI HAL WILLNER
+‎1956-2020
+
+2048
+02:17:28,166 --> 02:17:29,166
+‎Drace!
+
+2049
+02:17:43,625 --> 02:17:44,666
+‎Mama?
+
+2050
+02:17:47,541 --> 02:17:48,708
+‎Mama!
+
+2051
+02:17:54,208 --> 02:17:55,458
+‎Ce faceti, gasca?
+
+2052
+02:17:56,000 --> 02:17:57,458
+‎Sunt ultimul om de pe Pamant.
+
+2053
+02:17:58,750 --> 02:18:00,125
+‎Situatia e imputita rau.
+
+2054
+02:18:00,958 --> 02:18:02,666
+‎Sa dati like si sa va abonati.
+
+2055
+02:18:03,458 --> 02:18:04,375
+‎Ma gasiti aici.
+
+2056
+02:18:07,250 --> 02:18:08,208
+‎Mama!
+
+2057
+02:18:08,291 --> 02:18:09,750
+‎Subtitrarea: Aurelia Costache
+
+
+

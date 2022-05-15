@@ -1,0 +1,22 @@
+The textwrap module can be used for wrapping and formatting of plain text. This module provides formatting of text by adjusting the line breaks in the input paragraph.
+
+The TextWrapper instance attributes (and keyword arguments to the constructor) are as follows:
+
+width: This refers to the maximum length allowed of the wrapped lines. It’s default value is set to 70.
+expand_tabs: It’s default value is set to TRUE. If the value is equal to true, then, all the tab characters in the sample input is expanded to spaces 
+using this method.
+tabsize: It’s default value is set to 8. This method expands all tab characters in text to zero or more spaces, depending on the current column and 
+the given tab size, if the value of expand_tabs is TRUE.
+replace_whitespace: It’s default value is set to TRUE. If the value is true, after tab expansion but before wrapping, the wrap() method replaces each 
+whitespace character with a single space.These whitespace characters are replaced : tab, newline, vertical tab, formfeed, and carriage return (‘\t\n\v\f\r’).
+drop_whitespace: It’s default value is set to TRUE. The whitespaces at the beginning and ending of every line (after wrapping but before indenting) is 
+dropped if the value is set to TRUE.
+initial_indent: It’s default value is set to’ ‘. This method prepends the given string to the first line of wrapped output.
+subsequent_indent: It’s default value is set to ‘ ‘. This method prepends the given string to all the lines of wrapped output except the first.
+placeholder: It’s default value is set to ‘ […]’. This method appends the string at the end of the output text if it has been truncated.
+max_lines: It’s default value is set to None. If the value is not None, then the output text contains at most max_lines lines, having placeholder at 
+the end of the output.
+break_long_words: It’s default value is set to True. If TRUE, then words longer than width are broken to fit every line in the given width. 
+If it is FALSE, long words will not be broken and will be put on a line by themselves, in order to minimize the amount by which width is exceeded.
+break_on_hyphens: It’s default value is set to True. If the value is equal to TRUE, wrapping occurs on whitespaces and right after hyphens in compound words. 
+If the value is equal to FALSE, line breaks occur only on whitespaces, but you need to set break_long_words to FALSE if you want truly insecable words.

@@ -1,0 +1,18 @@
+import requests
+from bs4 import BeautifulSoup
+
+
+# 1.
+PATH = "http://localhost:8000/my_file.html
+
+result = requests.get(PATH)
+source = result.text
+soup = BeautifulSoup(source, 'html.parser')
+
+
+
+# 2.
+PATH = r'C:\Users\Horace.000\eclipse-workspace\Python_Project_6_Online_Courses\00_ALL\Scraping\my_file.html'
+
+with open(PATH) as html_file:
+    soup = BeautifulSoup(html_file, 'html.parser')

@@ -1,0 +1,139 @@
+https://regexone.com/lesson/introduction_abcs
+
+https://pythex.org/ - for testing the regex
+
+https://realpython.com/lessons/plain-class-matching/
+
+https://regexr.com/
+
+
+
+
+abc…	Letters
+123…	Digits
+\d	Any Digit
+\D	Any Non-digit character
+.	Any Character
+\.	Period
+[abc]	Only a, b, or c
+[^abc]	Not a, not b, not c
+[a-z]	Characters a to z
+[0-9]	Numbers 0 to 9
+\w	Any Alphanumeric character
+\W	Any Non-alphanumeric character
+{m}	m Repetitions
+{m,n}	m to n Repetitions
+*	Zero or more repetitions
++	One or more repetitions
+?	Optional character
+\s	Any Whitespace
+\S	Any Non-whitespace character
+^…$	Starts and ends
+(…)	Capture Group
+(a(bc))	Capture Sub-group
+(.*)	Capture all
+(abc|def)	Matches abc or def
+
+\b  Matches the empty string, but only at the start or end of a word.
+\B  Matches the empty string, but not at the start or end of a word.
+\b and \B don't match a character. They match empty strings depending on their neighbourhood, i.e. what kind of a character the predecessor and the successor is. 
+
+\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b Matches any email address
+
+https://realpython.com/regex-python/
+
+Character(s)	Meaning
+.	Matches any single character except newline
+^	∙ Anchors a match at the start of a string
+∙ Complements a character class
+$	Anchors a match at the end of a string
+*	Matches zero or more repetitions
++	Matches one or more repetitions
+?	∙ Matches zero or one repetition
+∙ Specifies the non-greedy versions of *, +, and ?
+∙ Introduces a lookahead or lookbehind assertion
+∙ Creates a named group
+{}	Matches an explicitly specified number of repetitions
+\	∙ Escapes a metacharacter of its special meaning
+∙ Introduces a special character class
+∙ Introduces a grouping backreference
+[]	Specifies a character class
+|	Designates alternation
+()	Creates a group
+:
+#
+=
+!	Designate a specialized group
+<>	Creates a named group
+
+
+ANCHORS
+
+Regex	Matches
+^	The start of the string
+(?P<ch>\W)	A single non-word character, captured in a group named ch
+(?P<ch>\W)?	Zero or one occurrences of the above
+foo	The literal string 'foo'
+(?(ch)(?P=ch)|)	The contents of the group named ch if it exists, or the empty string if it doesn’t
+$	The end of the string
+
+
+FLAGS
+Short Name	Long Name	Effect
+re.I	re.IGNORECASE	Makes matching of alphabetic characters case-insensitive
+re.M	re.MULTILINE	Causes start-of-string and end-of-string anchors to match embedded newlines
+re.S	re.DOTALL	Causes the dot metacharacter to match a newline
+re.X	re.VERBOSE	Allows inclusion of whitespace and comments within a regular expression
+----	re.DEBUG	Causes the regex parser to display debugging information to the console
+re.A	re.ASCII	Specifies ASCII encoding for character classification
+re.U	re.UNICODE	Specifies Unicode encoding for character classification
+re.L                            	re.LOCALE	Specifies encoding for character classification based on the current locale
+
+
+
+https://www.boost.org/doc/libs/1_44_0/libs/regex/doc/html/boost_regex/format/perl_format.html
+
+Capitalize words
+Find: (\s)([a-z]) (\s also matches new lines, i.e. "venuS" => "VenuS")
+Replace: $1\u$2
+
+Uncapitalize words
+Find: (\s)([A-Z])
+Replace: $1\l$2
+
+Remove camel case (e.g. cAmelCAse => camelcAse => camelcase)
+Find: ([a-z])([A-Z])
+Replace: $1\l$2
+
+Lowercase letters within words (e.g. LowerCASe => Lowercase)
+Find: (\w)([A-Z]+)
+Replace: $1\L$2
+
+Alternate Replace: \L$0
+Uppercase letters within words (e.g. upperCASe => uPPERCASE)
+Find: (\w)([A-Z]+)
+Replace: $1\U$2
+
+Uppercase previous (e.g. upperCase => UPPERCase)
+Find: (\w+)([A-Z])
+Replace: \U$1$2
+
+Lowercase previous (e.g. LOWERCase => lowerCase)
+Find: (\w+)([A-Z])
+Replace: \L$1$2
+
+Uppercase the rest (e.g. upperCase => upperCASE)
+Find: ([A-Z])(\w+)
+Replace: $1\U$2
+
+Lowercase the rest (e.g. lOWERCASE => lOwercase)
+Find: ([A-Z])(\w+)
+Replace: $1\L$2
+
+Shift-right-uppercase (e.g. Case => cAse => caSe => casE)
+Find: ([a-z\s])([A-Z])(\w)
+Replace: $1\l$2\u$3
+
+Shift-left-uppercase (e.g. CasE => CaSe => CAse => Case)
+Find: (\w)([A-Z])([a-z\s])
+Replace: \u$1\l$2$3

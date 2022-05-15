@@ -1,0 +1,14 @@
+
+https://www.quora.com/What-are-the-top-10-algorithms-every-software-engineer-should-know-by-heart
+
+Binary search: https://en.wikipedia.org/wiki/Binary_search_algorithm
+Quicksort: https://en.wikipedia.org/wiki/Quicksort
+Backtracking
+Hash table
+Linear congruential generator and Mersenne Twister
+Linear least squares
+Karatsuba algorithm
+Divide and conquer for Matrix multiplication
+Dijkstra's algorithm
+Knuth–Morris–Pratt algorithm
+Memorizing them is pointless, but understanding the ideas is very useful.

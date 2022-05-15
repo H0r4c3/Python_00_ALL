@@ -1,0 +1,5 @@
+
+
+Run the following command in the folder with the py programm:
+
+python setup.py py2exe
