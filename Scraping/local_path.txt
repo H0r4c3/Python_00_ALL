@@ -16,3 +16,4 @@ PATH = r'C:\Users\Horace.000\eclipse-workspace\Python_Project_6_Online_Courses\0
 
 with open(PATH) as html_file:
     soup = BeautifulSoup(html_file, 'html.parser')
+    

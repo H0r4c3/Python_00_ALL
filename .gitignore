@@ -485,3 +485,5 @@ BACKUPs/Replace_Accents_In_Subtitle_Files/Dont.Look.Up.2021.1080p.WEBRip.x264.AA
 BACKUPs/Replace_Accents_In_Subtitle_Files/Dont.Look.Up.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].srt
 
 .gitignore
+Files/App/Check_Values_in_Two_Files_with_GUI_for_Selection/File1.txt
+Scraping/local_path.txt
