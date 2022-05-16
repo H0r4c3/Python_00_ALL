@@ -1,9 +1,0 @@
-thevariable1inline1=224424
-thevariable2inline2=F333D55D
-thevariable3inline3=13
-thevariable4inline4=ABC
-thevariable5inline5=DEF
-thevariable6inline6=3242342
-thevariable7inline7=444444
-thevariable8inline8=AA33
-thevariable9inline9=1
