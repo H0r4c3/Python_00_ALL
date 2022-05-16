@@ -1,9 +1,0 @@
-thevariable1inline1=value1
-thevariable2inline2=value2
-thevariable3inline3=value3
-thevariable4inline4=value4
-thevariable5inline5=value5
-thevariable6inline6=value6
-thevariable7inline7=value7
-thevariable8inline8=value8
-thevariable9inline9=value9
