@@ -12,7 +12,9 @@ While normal functions are defined using the def keyword in Python, anonymous fu
 Syntax:
 lambda arguments: expression
 
-Lambda functions can have any number of arguments but only one expression. The expression is evaluated and returned.
+name = lambda args: expression      <~~>        def name(args): return expression
+
+Lambda functions can have any number of arguments, but only one expression. The expression is evaluated and returned.
 '''
 
 # Program to show the use of lambda functions
