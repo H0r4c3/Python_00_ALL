@@ -27,4 +27,22 @@ print(result)
 
 result = eval("sum([2, 2, 2])")
 print(result)
+
+
+
+# Another example
+number = 9
+
+# eval performs the multiplication passed as argument
+square_number = eval('number * number')
+print(square_number)
+
+
+# Another example
+expression = 'x*(x+1)*(x+2)'
+ 
+x = 3
+ 
+result = eval(expression)
+print(result)
         
