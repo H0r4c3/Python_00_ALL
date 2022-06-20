@@ -21,3 +21,6 @@ print(B.issuperset(A))
 
 # Returns True
 print(C.issuperset(B))
+
+# Returns True
+print(B.issuperset(C))
