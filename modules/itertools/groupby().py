@@ -23,7 +23,7 @@ C. Specify how to group items with a key function *
 
 from itertools import groupby
 
-s = "aa1abb2bcc3ccd"
+s = "aa1abb2bcc3ccdaaa"
 x = groupby(s)
 for k, g in x:
     print(k, list(g))
@@ -50,6 +50,6 @@ print("After removing consecutive duplicates: ", remove_all_consecutive(str1))
 things = [("animal", "bear"), ("animal", "duck"), ("plant", "cactus"), ("vehicle", "speed boat"), ("vehicle", "school bus")]
 
 for key, group in groupby(things, lambda x: x[0]):
-	for thing in group:
-		print(key, thing[1])
+	for item in group:
+		print(key, item[1])
 	print("")

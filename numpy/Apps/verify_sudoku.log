@@ -1,0 +1,29 @@
+2022-11-07 23:19:36 INFO     [verify_sudoku.py:48] The grid for verification is: 
+[[3 7 1 6 8 4 9 5 2]
+ [8 4 9 7 2 5 3 6 1]
+ [5 6 2 9 3 1 4 7 8]
+ [6 8 7 2 1 9 5 3 4]
+ [9 1 4 3 5 7 2 8 6]
+ [2 5 3 8 4 6 1 9 7]
+ [1 3 6 5 7 2 8 4 9]
+ [4 9 8 1 6 3 7 2 5]
+ [7 2 5 4 9 8 6 1 5]]
+2022-11-07 23:19:36 INFO     [verify_sudoku.py:52] Verifying row nr. 0: [3 7 1 6 8 4 9 5 2]
+2022-11-07 23:19:36 DEBUG    [verify_sudoku.py:54] Row nr. 0 PASSED the verification!
+2022-11-07 23:19:36 INFO     [verify_sudoku.py:52] Verifying row nr. 1: [8 4 9 7 2 5 3 6 1]
+2022-11-07 23:19:36 DEBUG    [verify_sudoku.py:54] Row nr. 1 PASSED the verification!
+2022-11-07 23:19:36 INFO     [verify_sudoku.py:52] Verifying row nr. 2: [5 6 2 9 3 1 4 7 8]
+2022-11-07 23:19:36 DEBUG    [verify_sudoku.py:54] Row nr. 2 PASSED the verification!
+2022-11-07 23:19:36 INFO     [verify_sudoku.py:52] Verifying row nr. 3: [6 8 7 2 1 9 5 3 4]
+2022-11-07 23:19:36 DEBUG    [verify_sudoku.py:54] Row nr. 3 PASSED the verification!
+2022-11-07 23:19:36 INFO     [verify_sudoku.py:52] Verifying row nr. 4: [9 1 4 3 5 7 2 8 6]
+2022-11-07 23:19:36 DEBUG    [verify_sudoku.py:54] Row nr. 4 PASSED the verification!
+2022-11-07 23:19:36 INFO     [verify_sudoku.py:52] Verifying row nr. 5: [2 5 3 8 4 6 1 9 7]
+2022-11-07 23:19:36 DEBUG    [verify_sudoku.py:54] Row nr. 5 PASSED the verification!
+2022-11-07 23:19:36 INFO     [verify_sudoku.py:52] Verifying row nr. 6: [1 3 6 5 7 2 8 4 9]
+2022-11-07 23:19:36 DEBUG    [verify_sudoku.py:54] Row nr. 6 PASSED the verification!
+2022-11-07 23:19:36 INFO     [verify_sudoku.py:52] Verifying row nr. 7: [4 9 8 1 6 3 7 2 5]
+2022-11-07 23:19:36 DEBUG    [verify_sudoku.py:54] Row nr. 7 PASSED the verification!
+2022-11-07 23:19:36 INFO     [verify_sudoku.py:52] Verifying row nr. 8: [7 2 5 4 9 8 6 1 5]
+2022-11-07 23:19:36 DEBUG    [verify_sudoku.py:56] Row nr. 8 FAILED the verification!
+2022-11-07 23:19:36 DEBUG    [verify_sudoku.py:102] The result of the verification: FALSE, the grid is NOT SUDOKU!

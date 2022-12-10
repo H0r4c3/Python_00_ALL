@@ -1,7 +1,4 @@
 
-
-
-
 d = {1 : 20, 2 : 30, 3 : 16, 4 : 15}
 
 # sorting a dictionary after values
@@ -26,5 +23,5 @@ print(list(d))
 # obtaining a list with the values
 print(list(d.values()))
 
-# obtainint a list of tuples (key, value)
+# obtaining a list of tuples (key, value)
 print(list(d.items()))

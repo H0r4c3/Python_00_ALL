@@ -362,6 +362,9 @@ r = '\s'
 # Match non-white spaces
 r = '\S'
 
+# Match only brackets
+r = '[(){}[\]]'
+
 # Match word characters
 # Matches any word character (alphanumeric & underscore). Only matches low-ascii characters (no accented or non-roman characters). 
 # Equivalent to [A-Za-z0-9_]

@@ -12,7 +12,12 @@ sequence: sequence which needs to be filtered, it can be sets, lists, tuples, or
 
 Returns:
 returns an iterator that is already filtered.
+
+Note that filter(function, iterable) is equivalent 
+to [item for item in iterable if function(item)] if function is not None and 
+[item for item in iterable if item] if function is None.
 '''
+
 # 1. Example
 
 # a list contains both even and odd numbers. 

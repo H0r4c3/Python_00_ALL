@@ -65,3 +65,14 @@ a = np.array([[0, 1, 2],
 
 b = np.where(a < 4, a, 'NOK')  # 'NOK' is broadcast (does not fulfill the condition; these values are replaced by 'NOK')
 print(b)
+
+# 6. Find the row and column of the first element (in this case, it is 6)
+a = np.array([[1, 2, 3],
+              [4, 5, 6],
+              [7, 8, 9]])
+
+row, column = np.where(a==6)
+print(row, column)
+
+column1 = np.where(a==6)[1]
+print(column1)

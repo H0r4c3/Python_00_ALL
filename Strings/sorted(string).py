@@ -11,3 +11,12 @@ print(new_str_list)
 
 new_str = ''.join(new_str_list)
 print(new_str)
+
+
+my_string = 'aBCDefgH'
+new_str1 = sorted(my_string)
+print(new_str1)
+
+# Sort the string ignoring the case
+new_str2 = sorted(my_string, key=str.lower)
+print(new_str2)

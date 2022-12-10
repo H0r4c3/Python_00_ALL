@@ -7,7 +7,7 @@ That is, \n is converted to a single newline character, \r is converted to a car
 
 import re
 
-my_string1 = 'Horace'
+my_string1 = 'Horacerac'
 
 result1 = re.sub('rac', '', my_string1)           # Delete pattern rac (replace with '')
 print(result1)

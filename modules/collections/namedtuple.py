@@ -17,7 +17,7 @@ But on contrary, it supports both access from key value and iteration, the funct
 from collections import namedtuple
 
 # Declaring namedtuple()  
-Student = namedtuple('Student', ['name', 'age', 'DOB'])  
+Student = namedtuple('Student_x', ['name', 'age', 'DOB'])  
       
 # Adding values  
 S = Student('Nandini', '19', '2541997')  

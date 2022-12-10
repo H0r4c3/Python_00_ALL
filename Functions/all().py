@@ -1,12 +1,12 @@
 'https://www.geeksforgeeks.org/python-all-function/#:~:text=The%20all()%20function%20is,the%20iterable%20object%20is%20empty.'
 
 '''
-The all() function is an inbuilt function in Python which returns true if all the elements of a given iterable( List, Dictionary, Tuple, set, etc) are True 
+The all() function is an inbuilt function in Python which returns true if all the elements of a given iterable (List, Dictionary, Tuple, set, etc) are True, 
 else it returns False. It also returns True if the iterable object is empty.
 
 Syntax: all( iterable )
  
-Parameters: Iterable: It is an iterable object such as a dictionary,tuple,list,set,etc.   
+Parameters: Iterable: It is an iterable object such as a dictionary, tuple, list, set, etc.   
 '''
 
 # All elements of list are true

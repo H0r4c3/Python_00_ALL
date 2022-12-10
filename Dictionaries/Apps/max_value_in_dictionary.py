@@ -6,4 +6,3 @@ max_value = max(all_values)
 print("all_keys = ", all_keys)
 print ("all_values = ", all_values)
 print("max_value = ", max_value)
-
