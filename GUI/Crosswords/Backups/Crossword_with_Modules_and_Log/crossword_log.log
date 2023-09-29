@@ -1,0 +1,125 @@
+2023-04-15 18:45:59 INFO     [app.py:30] Starting "main" method
+2023-04-15 18:45:59 INFO     [app.py:35] crossword = ['.XXX.', '...X.', '.X.X.', '.....']
+2023-04-15 18:46:00 INFO     [app.py:48] crossword_arr = [['.' 'X' 'X' 'X' '.']
+ ['.' '.' '.' 'X' '.']
+ ['.' 'X' '.' 'X' '.']
+ ['.' '.' '.' '.' '.']]
+2023-04-15 18:46:00 INFO     [app.py:49] rows = 4
+2023-04-15 18:46:00 INFO     [app.py:50] columns = 5
+2023-04-15 18:46:03 INFO     [crossword_grid.py:110] Starting "fill_the_grid" method
+2023-04-15 18:46:03 INFO     [crossword_solver.py:106] Starting "solve" method
+2023-04-15 18:46:03 INFO     [crossword_solver.py:44] Starting "find_empty" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:116] Find empty or partially filled word with pattern = ... at position start = (1, 0) and end = (2, 3)
+2023-04-15 18:46:03 INFO     [crossword_solver.py:83] Starting "find_possible" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:119] Possible words for pattern ... = ['WAY', 'ART', 'MAP', 'TWO', 'LAW', 'MOM', 'LAB', 'MUD', 'PIE', 'SON', 'TEA', 'DAD', 'EAR', 'HAT', 'SIR', 'AIR', 'DAY', 'JOB', 'END', 'FAT', 'KEY', 'TOP', 'WEB', 'FUN', 'OIL', 'AGE', 'BAD', 'TAX', 'MAN', 'ACT', 'CAR', 'DOG', 'SUN', 'WAR', 'BUS', 'EYE', 'BOX', 'BIT', 'POT', 'EGG', 'ICE', 'GAS', 'SKY', 'FAN', 'RED', 'LOG', 'NET', 'SEA', 'DOT', 'FEE', 'BAT', 'KID', 'SEX', 'CAP', 'CUP', 'LIE', 'TIP', 'BAG', 'BED', 'GAP', 'ARM', 'BET', 'GOD', 'PIN', 'BAR', 'BOY', 'ROW', 'BID', 'BUG', 'CAT', 'COW', 'GUY', 'LEG', 'LIP', 'PEN', 'TOE', 'YOU', 'CAN', 'ONE', 'USE', 'FEW', 'SHE', 'PUT', 'SET', 'BIG', 'CUT', 'TRY', 'PAY', 'LET', 'ASK', 'BUY', 'LOW', 'RUN', 'DUE', 'MIX', 'FLY', 'HIT', 'CRY', 'EAT', 'FIX', 'TAP', 'WIN', 'RAW', 'DIG', 'TIE', 'SAD', 'LAY', 'POP', 'RIP', 'RUB']
+2023-04-15 18:46:03 INFO     [crossword_solver.py:92] Starting "insert_word" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:125] Insert the word = WAY at coordinates start (1, 0) and end (2, 3)
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:127] Used words = {'WAY'}
+2023-04-15 18:46:03 INFO     [crossword_solver.py:106] Starting "solve" method
+2023-04-15 18:46:03 INFO     [crossword_solver.py:44] Starting "find_empty" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:116] Find empty or partially filled word with pattern = .W.. at position start = (0, 0) and end = (4, 1)
+2023-04-15 18:46:03 INFO     [crossword_solver.py:83] Starting "find_possible" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:119] Possible words for pattern .W.. = ['SWIM']
+2023-04-15 18:46:03 INFO     [crossword_solver.py:92] Starting "insert_word" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:125] Insert the word = SWIM at coordinates start (0, 0) and end (4, 1)
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:127] Used words = {'WAY', 'SWIM'}
+2023-04-15 18:46:03 INFO     [crossword_solver.py:106] Starting "solve" method
+2023-04-15 18:46:03 INFO     [crossword_solver.py:44] Starting "find_empty" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:116] Find empty or partially filled word with pattern = M.... at position start = (3, 0) and end = (4, 5)
+2023-04-15 18:46:03 INFO     [crossword_solver.py:83] Starting "find_possible" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:119] Possible words for pattern M.... = ['MUSIC', 'MEDIA', 'MOVIE', 'MONTH', 'MATCH', 'MONEY', 'MOUSE', 'MODEL', 'METAL', 'MOUTH', 'MOTOR', 'MIGHT', 'MAJOR', 'MAYBE', 'MINOR', 'MARCH']
+2023-04-15 18:46:03 INFO     [crossword_solver.py:92] Starting "insert_word" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:125] Insert the word = MUSIC at coordinates start (3, 0) and end (4, 5)
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:127] Used words = {'MUSIC', 'WAY', 'SWIM'}
+2023-04-15 18:46:03 INFO     [crossword_solver.py:106] Starting "solve" method
+2023-04-15 18:46:03 INFO     [crossword_solver.py:44] Starting "find_empty" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:116] Find empty or partially filled word with pattern = Y.S at position start = (1, 2) and end = (4, 3)
+2023-04-15 18:46:03 INFO     [crossword_solver.py:83] Starting "find_possible" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:119] Possible words for pattern Y.S = []
+2023-04-15 18:46:03 INFO     [crossword_solver.py:134] Undo the word insertion because we cannot find a solution
+2023-04-15 18:46:03 INFO     [crossword_solver.py:92] Starting "insert_word" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:136] Undo the insertion of the word = MUSIC  at coordinates start (3, 0) and end (4, 5)
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:138] Used words after undo the insertion = {'WAY', 'SWIM'}
+2023-04-15 18:46:03 INFO     [crossword_solver.py:92] Starting "insert_word" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:125] Insert the word = MEDIA at coordinates start (3, 0) and end (4, 5)
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:127] Used words = {'WAY', 'MEDIA', 'SWIM'}
+2023-04-15 18:46:03 INFO     [crossword_solver.py:106] Starting "solve" method
+2023-04-15 18:46:03 INFO     [crossword_solver.py:44] Starting "find_empty" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:116] Find empty or partially filled word with pattern = Y.D at position start = (1, 2) and end = (4, 3)
+2023-04-15 18:46:03 INFO     [crossword_solver.py:83] Starting "find_possible" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:119] Possible words for pattern Y.D = []
+2023-04-15 18:46:03 INFO     [crossword_solver.py:134] Undo the word insertion because we cannot find a solution
+2023-04-15 18:46:03 INFO     [crossword_solver.py:92] Starting "insert_word" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:136] Undo the insertion of the word = MEDIA  at coordinates start (3, 0) and end (4, 5)
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:138] Used words after undo the insertion = {'WAY', 'SWIM'}
+2023-04-15 18:46:03 INFO     [crossword_solver.py:92] Starting "insert_word" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:125] Insert the word = MOVIE at coordinates start (3, 0) and end (4, 5)
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:127] Used words = {'WAY', 'MOVIE', 'SWIM'}
+2023-04-15 18:46:03 INFO     [crossword_solver.py:106] Starting "solve" method
+2023-04-15 18:46:03 INFO     [crossword_solver.py:44] Starting "find_empty" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:116] Find empty or partially filled word with pattern = Y.V at position start = (1, 2) and end = (4, 3)
+2023-04-15 18:46:03 INFO     [crossword_solver.py:83] Starting "find_possible" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:119] Possible words for pattern Y.V = []
+2023-04-15 18:46:03 INFO     [crossword_solver.py:134] Undo the word insertion because we cannot find a solution
+2023-04-15 18:46:03 INFO     [crossword_solver.py:92] Starting "insert_word" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:136] Undo the insertion of the word = MOVIE  at coordinates start (3, 0) and end (4, 5)
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:138] Used words after undo the insertion = {'WAY', 'SWIM'}
+2023-04-15 18:46:03 INFO     [crossword_solver.py:92] Starting "insert_word" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:125] Insert the word = MONTH at coordinates start (3, 0) and end (4, 5)
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:127] Used words = {'WAY', 'MONTH', 'SWIM'}
+2023-04-15 18:46:03 INFO     [crossword_solver.py:106] Starting "solve" method
+2023-04-15 18:46:03 INFO     [crossword_solver.py:44] Starting "find_empty" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:116] Find empty or partially filled word with pattern = Y.N at position start = (1, 2) and end = (4, 3)
+2023-04-15 18:46:03 INFO     [crossword_solver.py:83] Starting "find_possible" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:119] Possible words for pattern Y.N = []
+2023-04-15 18:46:03 INFO     [crossword_solver.py:134] Undo the word insertion because we cannot find a solution
+2023-04-15 18:46:03 INFO     [crossword_solver.py:92] Starting "insert_word" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:136] Undo the insertion of the word = MONTH  at coordinates start (3, 0) and end (4, 5)
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:138] Used words after undo the insertion = {'WAY', 'SWIM'}
+2023-04-15 18:46:03 INFO     [crossword_solver.py:92] Starting "insert_word" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:125] Insert the word = MATCH at coordinates start (3, 0) and end (4, 5)
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:127] Used words = {'WAY', 'MATCH', 'SWIM'}
+2023-04-15 18:46:03 INFO     [crossword_solver.py:106] Starting "solve" method
+2023-04-15 18:46:03 INFO     [crossword_solver.py:44] Starting "find_empty" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:116] Find empty or partially filled word with pattern = Y.T at position start = (1, 2) and end = (4, 3)
+2023-04-15 18:46:03 INFO     [crossword_solver.py:83] Starting "find_possible" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:119] Possible words for pattern Y.T = []
+2023-04-15 18:46:03 INFO     [crossword_solver.py:134] Undo the word insertion because we cannot find a solution
+2023-04-15 18:46:03 INFO     [crossword_solver.py:92] Starting "insert_word" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:136] Undo the insertion of the word = MATCH  at coordinates start (3, 0) and end (4, 5)
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:138] Used words after undo the insertion = {'WAY', 'SWIM'}
+2023-04-15 18:46:03 INFO     [crossword_solver.py:92] Starting "insert_word" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:125] Insert the word = MONEY at coordinates start (3, 0) and end (4, 5)
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:127] Used words = {'WAY', 'MONEY', 'SWIM'}
+2023-04-15 18:46:03 INFO     [crossword_solver.py:106] Starting "solve" method
+2023-04-15 18:46:03 INFO     [crossword_solver.py:44] Starting "find_empty" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:116] Find empty or partially filled word with pattern = Y.N at position start = (1, 2) and end = (4, 3)
+2023-04-15 18:46:03 INFO     [crossword_solver.py:83] Starting "find_possible" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:119] Possible words for pattern Y.N = []
+2023-04-15 18:46:03 INFO     [crossword_solver.py:134] Undo the word insertion because we cannot find a solution
+2023-04-15 18:46:03 INFO     [crossword_solver.py:92] Starting "insert_word" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:136] Undo the insertion of the word = MONEY  at coordinates start (3, 0) and end (4, 5)
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:138] Used words after undo the insertion = {'WAY', 'SWIM'}
+2023-04-15 18:46:03 INFO     [crossword_solver.py:92] Starting "insert_word" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:125] Insert the word = MOUSE at coordinates start (3, 0) and end (4, 5)
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:127] Used words = {'MOUSE', 'WAY', 'SWIM'}
+2023-04-15 18:46:03 INFO     [crossword_solver.py:106] Starting "solve" method
+2023-04-15 18:46:03 INFO     [crossword_solver.py:44] Starting "find_empty" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:116] Find empty or partially filled word with pattern = Y.U at position start = (1, 2) and end = (4, 3)
+2023-04-15 18:46:03 INFO     [crossword_solver.py:83] Starting "find_possible" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:119] Possible words for pattern Y.U = ['YOU']
+2023-04-15 18:46:03 INFO     [crossword_solver.py:92] Starting "insert_word" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:125] Insert the word = YOU at coordinates start (1, 2) and end (4, 3)
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:127] Used words = {'MOUSE', 'YOU', 'WAY', 'SWIM'}
+2023-04-15 18:46:03 INFO     [crossword_solver.py:106] Starting "solve" method
+2023-04-15 18:46:03 INFO     [crossword_solver.py:44] Starting "find_empty" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:116] Find empty or partially filled word with pattern = ...E at position start = (0, 4) and end = (4, 5)
+2023-04-15 18:46:03 INFO     [crossword_solver.py:83] Starting "find_possible" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:119] Possible words for pattern ...E = ['LOVE', 'ROLE', 'LAKE', 'MODE', 'WIFE', 'GATE', 'GENE', 'TALE', 'TIME', 'GAME', 'LIFE', 'TYPE', 'HOME', 'SIZE', 'LINE', 'CARE', 'NAME', 'PAGE', 'RATE', 'SITE', 'CASE', 'SIDE', 'RULE', 'NOTE', 'FIRE', 'FACE', 'HOPE', 'DATE', 'BASE', 'FILE', 'EDGE', 'SALE', 'TREE', 'WAVE', 'BLUE', 'PIPE', 'TONE', 'BONE', 'HOLE', 'NOSE', 'RICE', 'CAKE', 'CODE', 'EASE', 'RACE', 'WINE', 'SHOE', 'BAKE', 'BIKE', 'CLUE', 'PACE', 'BITE', 'KNEE', 'TUNE', 'ZONE', 'JOKE', 'MATE', 'ROPE', 'MAKE', 'GIVE', 'MOVE', 'SAFE', 'RISE', 'SAVE', 'RIDE', 'HIRE', 'HATE', 'HIDE', 'MALE', 'MINE', 'DARE', 'WAKE']
+2023-04-15 18:46:03 INFO     [crossword_solver.py:92] Starting "insert_word" method
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:125] Insert the word = LOVE at coordinates start (0, 4) and end (4, 5)
+2023-04-15 18:46:03 DEBUG    [crossword_solver.py:127] Used words = {'MOUSE', 'YOU', 'WAY', 'LOVE', 'SWIM'}
+2023-04-15 18:46:03 INFO     [crossword_solver.py:106] Starting "solve" method
+2023-04-15 18:46:03 INFO     [crossword_solver.py:44] Starting "find_empty" method
+2023-04-15 18:46:03 INFO     [crossword_solver.py:112] Find empty is none => We finished the crossword!!!
+2023-04-15 18:46:03 DEBUG    [crossword_grid.py:124] result = ['SXXXL', 'WAYXO', 'IXOXV', 'MOUSE']

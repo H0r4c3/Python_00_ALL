@@ -9,8 +9,8 @@ import re
 
 my_string1 = 'Horacerac'
 
-result1 = re.sub('rac', '', my_string1)           # Delete pattern rac (replace with '')
-print(result1)
+result1 = re.sub('rac', '', my_string1)           # Delete pattern rac (Replace pattern rac with '')
+print(f'result1 = {result1}')
 
 result2 = re.sub('rac', '123', my_string1)           # Replace pattern rac -> 123
 print(result2)

@@ -14,8 +14,8 @@ txt = Text(root)
 txt.pack() 
 
 class PrintToTXT(object): 
- def write(self, s): 
-     txt.insert(END, s)
+    def write(self, s): 
+        txt.insert(END, s)
 
 sys.stdout = PrintToTXT() 
 

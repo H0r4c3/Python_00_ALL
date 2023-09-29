@@ -624,3 +624,25 @@ text_between_h = re.findall(r'<h>(.*)</h>', my_text)
 print(text_between_h)
 
 
+# Extract chars between numbers
+'''
+Here's the breakdown of the regex:
+(?<=\d): Positive lookbehind to assert that the pattern is preceded by a digit (\d).
+[^\d]+: One or more non-digit characters, which is the actual pattern you want to match.
+(?=\d): Positive lookahead to assert that the pattern is followed by a digit (\d).
+'''
+my_text = '-=-+135-++--+-257=-'
+#result = re.findall(r'[\d]+(.*)[\d]+', my_text) -> works only for digits!!!
+pattern = r'(?<=\d)[^\d]+(?=\d)'
+result = re.findall(pattern, my_text)
+print(result)
+
+
+# Extract numbers with signs
+my_text = '-=-+135-++--+-257=-'
+result = re.findall(r'[+-]{1}[\d]+', my_text)
+result = re.findall(r'[+-]?[\d]+', my_text)
+print(f'result = {result}')
+
+
+

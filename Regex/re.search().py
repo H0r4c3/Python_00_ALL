@@ -28,8 +28,8 @@ else:
 print('\n2. Example:\n')
 
 s = 'sfsfs13-10-2021dfsfsad05-12-2021fsad'
-r = '[0-9]{2}-[0-9]{2}-[0-9]{4}'
-m = re.search(r, s)
+pattern = '[0-9]{2}-[0-9]{2}-[0-9]{4}'
+m = re.search(pattern, s)
 print(f'm = {m}')
 print(f'm.group() = {m.group()}')
 print(f'm.span() = {m.span()}')

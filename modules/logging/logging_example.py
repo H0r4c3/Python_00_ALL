@@ -2,7 +2,7 @@
 
 import logging
 
-path = r'C:\Users\Horace.000\eclipse-workspace\Python_Project_6_Online_Courses\00_ALL\modules\logging\logging_example.log'
+log_path = r'C:\Users\Horace.000\eclipse-workspace\Python_Project_6_Online_Courses\00_ALL\modules\logging\logging_example.log'
   
 #Create and configure logger
 #logging.basicConfig(filename=path, format='%(asctime)s %(message)s', filemode='w', level=logging.DEBUG)
@@ -10,7 +10,7 @@ path = r'C:\Users\Horace.000\eclipse-workspace\Python_Project_6_Online_Courses\0
 logging.basicConfig(format='%(asctime)s %(levelname)-8s [%(filename)s:%(lineno)d] %(message)s',
                     datefmt='%Y-%m-%d %H:%M:%S',
                     level=logging.DEBUG,
-                    filename=path, 
+                    filename=log_path, 
                     filemode='w')
 
 logger = logging.getLogger('main')

@@ -6,7 +6,7 @@ else it returns False. It also returns True if the iterable object is empty.
 
 Syntax: all( iterable )
  
-Parameters: Iterable: It is an iterable object such as a dictionary,tuple,list,set,etc.   
+Parameters: Iterable: It is an iterable object such as a dictionary, tuple, list, set, etc.   
 '''
 
 # All elements of list are true

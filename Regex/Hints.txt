@@ -6,6 +6,12 @@ https://realpython.com/lessons/plain-class-matching/
 
 https://regexr.com/
 
+https://www.regular-expressions.info/examples.html
+https://rubular.com/r/ptdPuz0qDV
+https://regex101.com/
+Tutorial: https://www.guru99.com/python-regular-expressions-complete-tutorial.html
+https://docs.python.org/3.7/howto/regex.html
+
 
 
 
@@ -16,7 +22,7 @@ abc…	Letters
 .	Any Character
 \.	Period
 [abc]	Only a, b, or c
-[^abc]	Not a, not b, not c
+[^abc]	Not a, not b, not c (everything, except a, b, c)
 [a-z]	Characters a to z
 [0-9]	Numbers 0 to 9
 \w	Any Alphanumeric character

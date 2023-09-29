@@ -31,3 +31,16 @@ print(lst)
 
 my_string = ''.join(lst)
 print(my_string)
+
+
+# 3. Method = Recursion
+
+def remove_consecutive_duplicates(str):
+    if len(str) < 2:
+        return str
+    
+    if str[0] != str[1]:
+        return str[0] + remove_consecutive_duplicates(str[1:])
+    return remove_consecutive_duplicates(str[1:])
+
+print(remove_consecutive_duplicates(s))

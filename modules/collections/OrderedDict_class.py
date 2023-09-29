@@ -39,8 +39,7 @@ for key, value in od.items():
     
     
 # Key value Change: If the value of a certain key is changed, the position of the key remains unchanged in OrderedDict.
-# A Python program to demonstrate working of key
-# value change in OrderedDict
+# A Python program to demonstrate working of key value change in OrderedDict
 from collections import OrderedDict
  
 print("Before:\n")
