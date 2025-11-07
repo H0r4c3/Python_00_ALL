@@ -1,0 +1,42 @@
+Problem:
+Importing: I need to learn, again, the best method for using imports from another folder. 
+We have a folder A, in this folder there is a folder B and a folder C. 
+In A there is a script a, in B there is a script b, and in C the script c. 
+How can I import a and b in script c? Thank you.
+
+A/
+├── a.py
+├── B/
+│   └── b.py
+└── C/
+    └── c.py
+
+
+
+Solution:
+Step 1: Make A a proper Python package: Add __init__.py in each folder.
+These files tell Python “this is a package” — without them, relative imports won’t work right.
+
+A/
+├── __init__.py
+├── a.py
+├── B/
+│   ├── __init__.py
+│   └── b.py
+└── C/
+    ├── __init__.py
+    └── c.py
+
+
+
+Best Method: Use Relative Imports
+
+From c.py, you can import using relative imports.
+
+Key points:
+
+.. means "go up one level (to parent directory)"
+..a means "parent directory, file a"
+..B.b means "parent directory, folder B, file b"
+
+Use relative imports with __init__.py files—it's the most Pythonic and maintainable approach!

@@ -5,6 +5,7 @@ The special syntax *args in function definitions in python is used to pass a var
 It is used to pass a non-key worded, variable-length argument list.
 '''
 
+#Example nr. 1
 def my_function(*args):
     for arg in args:
         print (arg)
@@ -12,6 +13,13 @@ def my_function(*args):
 my_function(1, 2, 3, 4)
 
 my_function(4, 3, 3, 1, 7, 5, 3, 3, 3, 2)
+
+#Example nr. 2
+def function(named_arg, *args):
+    print(named_arg)
+    print(args)
+
+function(1, 2, 3, 4, 5)
 
 
 '''

@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "pytest (all tests)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "pytest",
+      "args": ["-q"],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "pytest (this file)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "pytest",
+      "args": ["-q", "${relativeFile}"],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}

@@ -40,6 +40,16 @@ abc…	Letters
 (.*)	Capture all
 (abc|def)	Matches abc or def
 
+
+Lookahead and Lookbehind Assertions: https://www.jcchouinard.com/regex/
+
+(?=) Example: a(?=b)    Means: ‘a’ only if followed by ‘b’
+(?!) Example: a(?!b)    Means: ‘a’ only if not followed by ‘b’
+(?<=) Example: (?<=a)b  Means: ‘b’ only if preceded by ‘a’
+(?<!) Example: (?<!a)b  Means: ‘b’ only if not preceded by ‘a’
+
+
+
 \b  Matches the empty string, but only at the start or end of a word.
 \B  Matches the empty string, but not at the start or end of a word.
 \b and \B don't match a character. They match empty strings depending on their neighbourhood, i.e. what kind of a character the predecessor and the successor is. 
@@ -143,3 +153,41 @@ Replace: $1\l$2\u$3
 Shift-left-uppercase (e.g. CasE => CaSe => CAse => Case)
 Find: (\w)([A-Z])([a-z\s])
 Replace: \u$1\l$2$3
+
+
+E-mail address (from ChatGPT):
+
+import re
+
+def is_valid_email(email):
+    pattern = r'''
+        ^                          # start of string
+        (?!\.)                     # dot cannot be the first character
+        (?![^@]*\.\.)              # two consecutive dots are not allowed
+        [\w.-]+                    # username
+        @                          # at symbol
+        (?![^@]*\.$)               # dot cannot be the last character in domain
+        [A-Za-z0-9.-]+             # domain name
+        \.                         # dot
+        [A-Za-z]{2,4}              # top-level domain (2 to 4 characters)
+        $                          # end of string
+    '''
+
+    if re.match(pattern, email, re.VERBOSE):
+        return True
+    else:
+        return False
+
+
+
+In Python, you might consider using the validate_email function from the validate_email_address library. You can install it using:
+
+pip install validate_email_address
+or
+from validate_email_address import validate_email
+
+email = "test.user@example.com"
+if validate_email(email):
+    print(f"{email} is a valid email address.")
+else:
+    print(f"{email} is not a valid email address.")

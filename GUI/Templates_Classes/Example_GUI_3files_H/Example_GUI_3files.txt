@@ -1,0 +1,63 @@
+APP_file.py:
+
+from data_processor_file import DataProcessor
+from data_gui_file import DataEntryGUI
+
+class Application:
+    def __init__(self):
+        # Create instances for both classes
+        data_processor = DataProcessor
+        data_gui = DataEntryGUI (self.process_input)
+
+    def process_input(self, input_val1):
+        # Use DataProcessor to process and store values
+        self.data_processor.process_values(input_val1)
+
+    def run(self):
+        self.gui.run()
+
+
+
+data_processor_file.py :
+
+class DataProcessor:
+    def __init__(self):
+        self.input_val1 = None
+
+    def process_values(self, input_val1):
+        self.sum1 = input_val1 + 1
+
+
+
+data_gui_file.py:
+
+class DataEntryGUI:
+    def __init__(self, on_submit_callback):
+        self.window = tk.Tk()
+        self.window.title("Data Entry Form")
+        self.window.geometry("300x250")
+
+        # Callback to be triggered on data submission
+        self.submit_callback = on_submit_callback
+
+        # Create input fields
+        self.create_input_fields()
+
+    def create_input_fields(self):
+        # Input field
+        tk.Label(self.window, text="Enter Value 1:").pack(pady=5)
+        self.entry1 = tk.Entry(self.window, width=30)
+        self.entry1.pack(pady=5)
+
+        # Submit button
+        submit_button = tk.Button(self.window, text="Submit", command=self.submit_data)
+        submit_button.pack(pady=10)
+
+    def submit_data(self):
+        input_val1 = int(self.entry1.get())
+        
+        self.submit_callback(input_val1)
+
+    def run(self):
+        self.window.mainloop()    
+

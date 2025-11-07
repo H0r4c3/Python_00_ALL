@@ -1,0 +1,57 @@
+C:\Users\Horace.000\eclipse-workspace\Python_Project_6_Online_Courses\venv\Scripts\Activate.ps1
+
+For new env: (to avoid the problem with Python 3.10)
+& "C:\Users\Horace.000\AppData\Local\Programs\Python\Python313\python.exe" -E -s -m venv venv-playwright
+
+
+
+C:\Users\Horace.000\eclipse-workspace\Python_Project_6_Online_Courses\00_ALL\Playwright\venv-playwright\Scripts\python.exe
+
+
+pytest.ini
+What it does:
+
+--headed runs with visible browser (like headless=False)
+--screenshot only-on-failure takes screenshots when tests fail
+--video retain-on-failure records video of failing tests
+--output saves results to a folder
+
+
+Good! You already have a pytest.ini! Let's uncomment and merge the Playwright options properly:
+ini[pytest]
+testpaths = tests
+python_files = test_*.py *_test.py
+
+# Combined options: pytest + Playwright
+addopts = 
+    -q
+    -ra
+    -s
+    --headed
+    --browser chromium
+    --screenshot only-on-failure
+    --video retain-on-failure
+    --output ./test-results
+
+markers =
+    smoke: quick checks
+    e2e: end-to-end ui
+What changed:
+
+Merged both adopts sections into one
+Uncommented the Playwright options
+Each option on its own line (cleaner)
+
+What each option does:
+
+-q = quiet mode (less verbose output)
+-ra = show summary of all test results
+-s = show print statements (don't capture stdout)
+--headed = show browser window (not headless)
+--browser chromium = use Chrome
+--screenshot only-on-failure = screenshot failed tests
+--video retain-on-failure = video of failed tests
+--output ./test-results = save artifacts here
+
+
+playwright codegen -> for recording new tests !!!!!!!!!

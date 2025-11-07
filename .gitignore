@@ -1,3 +1,4 @@
+BACKUPs/
 BACKUPs/requirements.txt
 BACKUPs/Age_and_Gender_Detection_using_OpenCV_in_Python/00.age_and_gender_detection.py
 BACKUPs/Age_and_Gender_Detection_using_OpenCV_in_Python/age_and_gender_detection_live.py
@@ -923,3 +924,5 @@ pandas/old_moved_Hella_HMF_validation/Results - Copy.xlsx
 pandas/old_moved_Hella_HMF_validation/excel_file.xlsx
 pandas/old_moved_Hella_HMF_validation/excel_file_old.xlsx
 pandas/old_moved_Hella_HMF_validation
+
+*.mhtml

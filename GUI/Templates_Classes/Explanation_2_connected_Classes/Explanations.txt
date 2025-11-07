@@ -1,0 +1,62 @@
+Let me help you understand how classes can store instances of other classes as attributes. This is a fundamental concept in object-oriented programming that enables objects to work together.
+Think about it like building with LEGO blocks. Just as a LEGO structure can have smaller LEGO pieces attached to it, a class instance can have other class instances as its "parts" or attributes.
+Let's break this down with a simple example:
+pythonCopyclass Engine:
+    def __init__(self):
+        self.horsepower = 150
+    
+    def start(self):
+        return "Engine is running"
+
+class Car:
+    def __init__(self):
+        # Here's where we create an Engine instance as an attribute
+        self.engine = Engine()
+    
+    def start_car(self):
+        # Now we can use the engine instance's methods
+        return self.engine.start()
+
+# Create a car
+my_car = Car()
+When we create a Car instance, several things happen:
+
+The Car's __init__ method runs
+Inside __init__, we create a new Engine instance with Engine()
+We store that Engine instance in the attribute self.engine
+Now the Car instance has an Engine instance as part of its state
+
+This works because in Python, attributes can store any type of data:
+
+Simple types like numbers: self.speed = 0
+Strings: self.color = "red"
+Lists: self.passengers = []
+And yes, even instances of other classes: self.engine = Engine()
+
+Let's apply this understanding to your GUI and Processor example:
+pythonCopyclass Processor:
+    def process_text(self, text):
+        return text.upper()
+
+class GUI:
+    def __init__(self, processor):
+        # Store the Processor instance as an attribute
+        self.processor = processor  # This is like storing any other piece of data
+        
+    def handle_input(self, text):
+        # Now we can use the processor anywhere in our GUI class
+        result = self.processor.process_text(text)
+        return result
+
+# Creating and connecting the instances
+text_processor = Processor()
+gui = GUI(text_processor)
+In this case, instead of creating the Processor instance inside the GUI class (like we did with the Engine in the Car example), we're passing it in through the constructor. This is called "dependency injection" - we're giving the GUI class its required "parts" from the outside rather than having it create them itself.
+Think of it like assembling furniture:
+
+The Processor class is like a drill
+The GUI class is like a workbench that needs a drill to function
+When we create a new workbench (GUI), we hand it a drill (Processor) to use
+The workbench stores this drill in a specific place (self.processor) so it can find and use it whenever needed
+
+This ability to store class instances as attributes is what enables complex programs to be built from smaller, interacting parts. Each class can focus on its specific job while holding references to other objects it needs to work with.

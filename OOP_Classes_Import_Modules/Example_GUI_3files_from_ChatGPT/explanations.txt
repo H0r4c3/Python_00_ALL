@@ -1,0 +1,8 @@
+Example of script in Python having 3 .py files: 1 file with printing 3 values in a method in a class, another file with GUI for this, having 3 input fields in a method in a class, where to enter the values, 1 file beeing the App who is using the both first files.
+ChatGPT said:
+ChatGPT
+Here’s an example of a Python project with three .py files:
+
+printer.py: Defines a class that prints three values.
+gui.py: Defines a class that creates a GUI with three input fields.
+app.py: Combines the functionality of the first two files.

@@ -1,0 +1,72 @@
+Playwright in Python — Roadmap
+🎯 GOAL
+
+Automate browser actions using Python: open sites, click buttons, fill forms, check results, take screenshots, etc.
+
+🧩 Phase 1 — Core Basics (you are here)
+
+Learn one concept per step:
+
+✅ async_playwright() → start Playwright
+
+✅ p.chromium.launch() → open browser
+
+browser.new_page() → open a new tab
+
+page.goto(url) → go to a website
+
+page.title() + assert → verify page title
+
+page.screenshot() → save screenshot
+
+await browser.close() → clean exit
+
+📘 After these: you’ll know how to automate basic browsing.
+
+🧩 Phase 2 — Interacting with the Page
+
+page.click() → click buttons, links
+
+page.fill() → type text into forms
+
+page.locator() → find elements by CSS, text, or role
+
+page.wait_for_selector() → wait for something to appear
+
+assert something → verify what happened
+
+📘 After these: you’ll create real tests (e.g., login to a page, check messages, etc.).
+
+🧩 Phase 3 — Using pytest (for real testing)
+
+Organize tests in folders (tests/test_01_navigation.py)
+
+Learn about pytest.mark.asyncio
+
+Add setup/teardown (run before/after tests)
+
+View test results, screenshots, and logs in VS Code
+
+📘 After these: you can test a real website automatically.
+
+🧩 Phase 4 — Advanced Topics (optional but fun)
+
+Record a test and export it to Python
+
+Handle popups, downloads, frames
+
+Run tests in parallel
+
+Integrate with CI/CD or GitHub Actions
+
+🧭 What you’ll gain
+
+After these lessons, you’ll be able to:
+
+Build browser automation in Python
+
+Write real tests that check your site automatically
+
+Use VS Code + pytest to run and debug tests
+
+Later: connect Playwright with Machine Learning or data pipelines

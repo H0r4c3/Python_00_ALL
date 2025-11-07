@@ -1,0 +1,52 @@
+Example of script in Python having 3 .py files: 1 file with printing 3 values in a method in a class, another file with GUI for this, having 3 input fields in a method in a class, where to enter the values, 1 file beeing the App who is using the both first files.
+
+
+I'll help you create a multi-file Python script that demonstrates a simple application with class-based structure and GUI interaction. I'll break this down into three files to show how they interact.
+
+
+Data Processor Class (data_processor.py)
+Click to open code
+
+GUI Input Class (data_gui.py)
+Click to open code
+
+Main Application (main.py)
+Click to open code
+Let me break down the structure and purpose of each file for you:
+
+data_processor.py:
+Contains the DataProcessor class
+Responsible for storing and processing input values
+Has methods to set and print the values
+Demonstrates basic data handling logic
+data_gui.py:
+Contains the DataEntryGUI class using Tkinter
+Creates a GUI with three input fields
+Handles user input and validation
+Uses a callback mechanism to submit data
+main.py:
+Contains the Application class that ties everything together
+Creates instances of DataProcessor and DataEntryGUI
+Provides a callback method to process input from the GUI
+Serves as the main entry point of the application
+To run the application:
+
+Save each file in the same directory
+Ensure you have Python and Tkinter installed
+Run main.py
+The application flow works like this:
+
+When you run main.py, a GUI window opens
+You enter values in the three input fields
+Clicking "Submit" validates the input
+If valid, it calls the process_input method
+The method stores values in DataProcessor
+The values are printed to the console
+This example demonstrates several important programming concepts:
+
+Object-oriented programming with classes
+Separation of concerns (GUI, data processing, main application)
+Callback mechanisms
+Basic GUI programming
+Modular design
+Would you like me to elaborate on any part of the code or explain the design choices in more detail?

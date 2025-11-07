@@ -1,0 +1,26 @@
+ChatGPT:
+
+A simple wrapper around Linear Regression to learn and predict the Celsius → Fahrenheit relationship
+
+Requirements:
+1. Let’s wrap everything into a clean Python class with clear comments and explanations in English.
+
+2. One Class in a file named train_model.py for training the model
+- What this does:
+load_data() → loads your Celsius/Fahrenheit pairs.
+train() → fits a linear regression model to the data.
+print_model_parameters() → prints slope & intercept (should be close to 1.8 and 32).
+predict() → predicts Fahrenheit for any Celsius input.
+plot_results() → visualizes the data points and the regression line.
+
+3. One Class in a file named save_model.py for saving the model in a folder named 'models' (placed in same folder as the script) having date and time in name
+- By default, os.makedirs("models") will create the folder relative to wherever you run the script from. If you want it to always save in the models/ folder 
+next to the script file (not depending on where you run python), you should anchor the path to the script’s directory with __file__.
+
+4. One Class in a file named evaluate_model.py for evaluating the model
+- We’ll create another file (evaluator.py) with a class ModelEvaluator. This class will:
+Load any saved model from the models/ folder.
+Evaluate it on the original Celsius → Fahrenheit dataset (or any test dataset you provide).
+Report metrics like Mean Squared Error (MSE) and R² score (common for regression tasks).
+
+5. A main.py file who will run the train_model.py and save_model.py files

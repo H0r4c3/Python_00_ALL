@@ -1,0 +1,69 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run current file",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            }
+        },
+        {
+            "name": "Run main.py",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/main.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "Run as module (package mode)",
+            "type": "python",
+            "request": "launch",
+            "module": "main",  // adjust if your entry point is a package (e.g. src.app)
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "Run Pytest (all tests)",
+            "type": "python",
+            "request": "launch",
+            "module": "pytest",
+            "args": ["-v"],
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            }
+        }
+    ]
+}
+
+
+
+.vscode/
+├── settings.json
+└── launch.json
+You’ll paste the same base template there every time, then:
+
+rename "Run main.py"’s path if the entry point differs,
+
+tweak "module" if it’s a package,
+
+optionally set "envFile" if the project uses environment variables.
+
+🚀 Why this template works well
+Goal	Feature
+Run arbitrary files	"Run current file"
+Run main entry point	"Run main.py"
+Handle packages properly	"Run as module"
+Debug tests	"Run Pytest"
+Keep projects independent	Uses ${workspaceFolder} + venv automatically
+Avoid import errors	Adds "PYTHONPATH": "${workspaceFolder}"

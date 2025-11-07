@@ -1,0 +1,61 @@
+https://www.udacity.com/enrollment/ud187
+
+Converting Celsius to Fahrenheit
+The model will learn to convert Celsius to Fahrenheit using a simple linear relationship.
+
+Defining Inputs and Outputs: It explains the concept of features (inputs) and labels (outputs), 
+where Celsius degrees are the inputs and corresponding Fahrenheit degrees are the outputs.
+
+
+-50.0 degrees Celsius = -58.0 degrees Fahrenheit
+-40.0 degrees Celsius = -40.0 degrees Fahrenheit
+-30.0 degrees Celsius = -22.0 degrees Fahrenheit
+-20.0 degrees Celsius = -4.0 degrees Fahrenheit
+-10.0 degrees Celsius = 14.0 degrees Fahrenheit
+-5.0 degrees Celsius = 23.0 degrees Fahrenheit
+0.0 degrees Celsius = 32.0 degrees Fahrenheit
+5.0 degrees Celsius = 41.0 degrees Fahrenheit
+10.0 degrees Celsius = 50.0 degrees Fahrenheit
+15.0 degrees Celsius = 59.0 degrees Fahrenheit
+20.0 degrees Celsius = 68.0 degrees Fahrenheit
+25.0 degrees Celsius = 77.0 degrees Fahrenheit
+30.0 degrees Celsius = 86.0 degrees Fahrenheit
+35.0 degrees Celsius = 95.0 degrees Fahrenheit
+40.0 degrees Celsius = 104.0 degrees Fahrenheit
+45.0 degrees Celsius = 113.0 degrees Fahrenheit
+50.0 degrees Celsius = 122.0 degrees Fahrenheit
+60.0 degrees Celsius = 140.0 degrees Fahrenheit
+70.0 degrees Celsius = 158.0 degrees Fahrenheit
+80.0 degrees Celsius = 176.0 degrees Fahrenheit
+90.0 degrees Celsius = 194.0 degrees Fahrenheit
+100.0 degrees Celsius = 212.0 degrees Fahrenheit
+110.0 degrees Celsius = 230.0 degrees Fahrenheit
+120.0 degrees Celsius = 248.0 degrees Fahrenheit
+150.0 degrees Celsius = 302.0 degrees Fahrenheit
+
+
+-50.0 corespunde -58.0 
+-40.0 corespunde -40.0 
+-30.0 corespunde -22.0 
+-20.0 corespunde -4.0 
+-10.0 corespunde 14.0
+-5.0 corespunde 23.0 
+0.0 corespunde 32.0 
+5.0 corespunde 41.0 
+10.0 corespunde 50.0 
+15.0 corespunde 59.0 
+20.0 corespunde 68.0 
+25.0 corespunde 77.0 
+30.0 corespunde 86.0 
+35.0 corespunde 95.0 
+40.0 corespunde 104.0 
+45.0 corespunde 113.0 
+50.0 corespunde 122.0 
+60.0 corespunde 140.0 
+70.0 corespunde 158.0 
+80.0 corespunde 176.0 
+90.0 corespunde 194.0 
+100.0 corespunde 212.0 
+110.0 corespunde 230.0 
+120.0 corespunde 248.0 
+150.0 corespunde 302.0

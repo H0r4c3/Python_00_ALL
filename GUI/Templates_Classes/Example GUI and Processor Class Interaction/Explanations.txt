@@ -1,0 +1,47 @@
+Let me help you understand this interaction between GUI and processor classes with a clear example. This is a common pattern in software development that follows the principle of separation of concerns.
+GUI and Processor Class Interaction ExampleClick to open code
+Let me explain how this works step by step:
+
+First, the Application class acts as the coordinator. When you create an Application instance, it:
+
+Creates a Processor instance
+Creates a GUI instance and passes the Processor to it
+This establishes the connection between the two classes
+
+
+In the GUI class initialization:
+
+It receives the Processor instance through its constructor
+Stores it as self.processor, making it available throughout the GUI class
+Creates the window, entry field, button, and label
+
+
+When the user interacts with the GUI:
+
+They type text in the entry field
+Click the "Process" button
+This triggers the handle_process method
+
+
+The handle_process method shows the full interaction:
+
+Gets the text from the entry field
+Calls the Processor's process_text method with this text
+Takes the processed result and updates the GUI label
+
+
+
+Think of it like a restaurant where:
+
+The Application is the restaurant owner who hires both a waiter (GUI) and a chef (Processor)
+The waiter (GUI) takes orders from customers (user input)
+The waiter knows about the chef (has the processor instance) and can send orders to them
+The chef (Processor) modifies the order (processes the text)
+The waiter then delivers the finished dish (processed text) back to the customer
+
+This separation of responsibilities is beneficial because:
+
+The GUI only handles user interaction
+The Processor only handles text processing
+Neither class needs to know the internal details of how the other works
+You can modify either class without affecting the other, as long as their interface stays the same
