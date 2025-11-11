@@ -55,3 +55,19 @@ What each option does:
 
 
 playwright codegen -> for recording new tests !!!!!!!!!
+
+
+pytest.ini is the configuration brain of pytest.
+It’s a central configuration file for pytest.
+Instead of writing options every time in CLI or VS Code settings, you store them once here.
+
+
+In your .vscode/settings.json you can tell pytest to look recursively:
+
+"python.testing.pytestArgs": [
+    "00_ALL/Playwright/ChatGPT",
+    "00_ALL/Playwright/CLAUDE"
+],
+"python.testing.pytestEnabled": true
+
+This tells VS Code: “discover all tests under ChatGPT and CLAUDE, ignore Misc if you want.”

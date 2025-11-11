@@ -8,7 +8,7 @@
   "python.testing.pytestArgs": ["00_ALL/Playwright"],
   "python.testing.cwd": "${workspaceFolder}/00_ALL/Playwright",
   "python.testing.pytestPath": "pytest",
-  "python.analysis.extraPaths": ["${workspaceFolder}/00_ALL/Playwright"],
+  "python.analysis.extraPaths": ["${workspaceFolder}/00_ALL/Playwright", "${workspaceFolder}/00_ALL/ChatGPT", "${workspaceFolder}/00_ALL/CLAUDE"],
   "python.analysis.typeCheckingMode": "basic"
 }
 
