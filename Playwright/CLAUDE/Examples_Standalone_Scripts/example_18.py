@@ -9,13 +9,14 @@ Expected result: You should see the first checkbox get checked.
 
 '''
 from playwright.sync_api import sync_playwright
+import time
 
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=False)
     page = browser.new_page()
     page.goto("https://the-internet.herokuapp.com/checkboxes")
     page.check("input[type='checkbox']")
+    time.sleep(2)
     print("Checkbox checked!")
-    import time
     time.sleep(2)
     browser.close()

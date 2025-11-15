@@ -5,10 +5,10 @@
   "python.testing.pytestEnabled": true,
   "python.testing.unittestEnabled": false,
   "python.testing.nosetestsEnabled": false,
-  "python.testing.pytestArgs": ["00_ALL/Playwright"],
-  "python.testing.cwd": "${workspaceFolder}/00_ALL/Playwright",
+  "python.testing.pytestArgs": ["."],
+  "python.testing.cwd": "${workspaceFolder}",
   "python.testing.pytestPath": "pytest",
-  "python.analysis.extraPaths": ["${workspaceFolder}/00_ALL/Playwright", "${workspaceFolder}/00_ALL/ChatGPT", "${workspaceFolder}/00_ALL/CLAUDE"],
+  "python.analysis.extraPaths": ["${workspaceFolder}"],
   "python.analysis.typeCheckingMode": "basic"
 }
 

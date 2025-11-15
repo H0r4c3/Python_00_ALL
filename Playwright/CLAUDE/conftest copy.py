@@ -44,7 +44,7 @@ def pytest_configure(config):
     if hasattr(config.option, 'output'):
         config.option.output = str(results_dir / "playwright-results")
     
-    # Log file
+    # Log file - THIS WAS MISSING!
     config.option.log_file = str(results_dir / "test-logs.log")
     
     # Store for later use

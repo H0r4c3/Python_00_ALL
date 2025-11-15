@@ -21,7 +21,8 @@ with sync_playwright() as p:
     time.sleep(5)
     page.press('[data-test=\"search-query\"]', "Enter")
     page.wait_for_load_state("networkidle")
-    first_result = page.locator("h3").first.inner_text()
+    time.sleep(3)
+    first_result = page.locator("h5.card-title").first.inner_text()
     print(f"First result: {first_result}")
     browser.close()
 

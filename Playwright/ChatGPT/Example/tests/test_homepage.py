@@ -1,6 +1,5 @@
 from playwright.sync_api import Page, expect
-#from pages.home_page import HomePage
-from ChatGPT.pages.home_page import HomePage
+from ChatGPT.Example.pages.homepage_page import HomePage
 
 
 class TestHomepage:

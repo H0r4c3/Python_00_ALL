@@ -9,13 +9,14 @@ Expected result: You should see the second checkbox (which is already checked) g
 
 '''
 from playwright.sync_api import sync_playwright
+import time
 
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=False)
     page = browser.new_page()
     page.goto("https://the-internet.herokuapp.com/checkboxes")
     page.uncheck("input[type='checkbox']:checked")
+    time.sleep(2)
     print("Checkbox unchecked!")
-    import time
     time.sleep(2)
     browser.close()

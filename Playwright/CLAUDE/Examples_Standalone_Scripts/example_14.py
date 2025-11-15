@@ -10,11 +10,13 @@ Expected result: You should see: Search box visible: True
 
 '''
 from playwright.sync_api import sync_playwright
+import time
 
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=False)
     page = browser.new_page()
     page.goto("https://www.google.com")
+    time.sleep(3)
     is_visible = page.locator("textarea[name='q']").is_visible()
     print(f"Search box visible: {is_visible}")
     browser.close()

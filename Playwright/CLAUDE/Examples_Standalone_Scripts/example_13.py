@@ -17,11 +17,11 @@ with sync_playwright() as p:
     page = browser.new_page()
     page.goto("https://practicesoftwaretesting.com")
     page.fill('[data-test=\"search-query\"]', "hammer")
-    time.sleep(5)
+    time.sleep(3)
     page.press('[data-test=\"search-submit\"]', "Enter")
     page.wait_for_load_state("networkidle")
-    count = page.locator("a.card").count()
     time.sleep(3)
+    count = page.locator("a.card").count() # card is from class="card"
     print(f"Number of results found: {count}")
     browser.close()
 
