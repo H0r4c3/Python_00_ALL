@@ -10,6 +10,7 @@ Expected result: You should see the alert message printed in the terminal!
 
 '''
 from playwright.sync_api import sync_playwright
+import time
 
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=False)
@@ -22,7 +23,9 @@ with sync_playwright() as p:
     page.on("dialog", handle_dialog)
     
     page.goto("https://the-internet.herokuapp.com/javascript_alerts")
+    time.sleep(2)
     page.click("button:has-text('Click for JS Alert')")
-    import time
+    time.sleep(2)
+    page.click("button:has-text('Click for JS Confirm')")
     time.sleep(2)
     browser.close()

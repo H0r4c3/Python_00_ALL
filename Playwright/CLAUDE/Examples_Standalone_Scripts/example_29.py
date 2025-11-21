@@ -9,13 +9,17 @@ Expected result: You should see the cursor blinking in the search box.
 
 '''
 from playwright.sync_api import sync_playwright
+import time
 
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=False)
     page = browser.new_page()
-    page.goto("https://www.google.com")
-    page.focus("textarea[name='q']")
+    page.goto("https://practicesoftwaretesting.com")
+    page.locator("[data-test=\"sort\"]").focus()
+    print("Sort box focused!")
+    time.sleep(2)
+    page.focus("[data-test=\"search-query\"]")
+    time.sleep(2)
     print("Search box focused!")
-    import time
     time.sleep(2)
     browser.close()

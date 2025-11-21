@@ -9,16 +9,20 @@ Expected result: You should see "First text" appear, then disappear after 1 seco
 
 '''
 from playwright.sync_api import sync_playwright
+import time
 
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=False)
     page = browser.new_page()
-    page.goto("https://www.google.com")
-    page.fill("textarea[name='q']", "First text")
+    page.goto("https://practicesoftwaretesting.com/")
+    page.fill("[data-test=\"search-query\"]", "First text")
+    #page.locator("[data-test=\"search-query\"]").fill("First text")
     print("Typed first text")
-    import time
-    time.sleep(1)
-    page.fill("textarea[name='q']", "")
+    time.sleep(3)
+    page.fill("[data-test=\"search-query\"]", "")
     print("Cleared the field!")
     time.sleep(2)
     browser.close()
+    
+    
+    

@@ -13,7 +13,7 @@ class TestLocatorsWithPOM:
         login_page.login("tomsmith", "SuperSecretPassword!")
         
         assert login_page.is_logged_in()
-        expect(page).to_have_url("**/secure")
+        expect(page).to_have_url("https://the-internet.herokuapp.com/secure")
     
     def test_login_error_message(self, page: Page) -> None:
         """Test: Invalid login using page object"""

@@ -10,6 +10,7 @@ Expected result: The alert popup appears and is automatically accepted!
 
 '''
 from playwright.sync_api import sync_playwright
+import time
 
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=False)
@@ -18,8 +19,10 @@ with sync_playwright() as p:
     page.on("dialog", lambda dialog: dialog.accept())
     
     page.goto("https://the-internet.herokuapp.com/javascript_alerts")
+    time.sleep(2)
+    
     page.click("button:has-text('Click for JS Alert')")
     print("Alert accepted!")
-    import time
+    
     time.sleep(2)
     browser.close()

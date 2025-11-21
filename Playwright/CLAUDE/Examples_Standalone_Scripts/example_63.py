@@ -10,13 +10,14 @@ Expected result: You should see column A and column B swap positions!
 
 '''
 from playwright.sync_api import sync_playwright
+import time
 
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=False)
     page = browser.new_page()
     page.goto("https://the-internet.herokuapp.com/drag_and_drop")
+    time.sleep(2)
     page.drag_and_drop("#column-a", "#column-b")
     print("Dragged and dropped!")
-    import time
     time.sleep(2)
     browser.close()

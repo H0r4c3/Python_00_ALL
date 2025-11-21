@@ -71,3 +71,18 @@ In your .vscode/settings.json you can tell pytest to look recursively:
 "python.testing.pytestEnabled": true
 
 This tells VS Code: “discover all tests under ChatGPT and CLAUDE, ignore Misc if you want.”
+
+
+
+The Playwright Inspector with page.pause() is honestly one of the most useful debugging tools for test automation - you'll use it all the time!
+
+
+Prioritize locators in this order:
+
+get_by_role() - Best choice
+get_by_label() - Great for form inputs
+get_by_placeholder() - Good for inputs without labels
+get_by_text() - Good for links, buttons with visible text
+get_by_test_id() - Fallback when the above don't work
+locator() with CSS/XPath - Last resort
+

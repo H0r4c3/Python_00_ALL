@@ -10,11 +10,13 @@ Expected result: You should see the length and beginning of Google's HTML code.
 
 '''
 from playwright.sync_api import sync_playwright
+import time
 
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=False)
     page = browser.new_page()
-    page.goto("https://www.google.com")
+    page.goto("https://practicesoftwaretesting.com/")
+    time.sleep(3)
     html = page.content()
     print(f"HTML length: {len(html)} characters")
     print(html[:200])

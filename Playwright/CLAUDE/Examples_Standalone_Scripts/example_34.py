@@ -15,8 +15,9 @@ with sync_playwright() as p:
     browser = p.chromium.launch(headless=False)
     page = browser.new_page()
     page.goto("https://the-internet.herokuapp.com/login")
+    page.wait_for_timeout(2000)
     page.get_by_role("textbox", name="username").fill("tomsmith")
+    page.wait_for_timeout(2000)
     print("Username filled using role!")
-    import time
-    time.sleep(2)
+    page.wait_for_timeout(3000)
     browser.close()

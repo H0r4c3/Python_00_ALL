@@ -10,22 +10,27 @@ Expected result: Two tabs open, then Wikipedia tab closes while Google stays ope
 
 '''
 from playwright.sync_api import sync_playwright
+import time
 
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=False)
     page1 = browser.new_page()
-    page1.goto("https://www.google.com")
+    page1.goto("https://practicesoftwaretesting.com/")
+    
+    time.sleep(2)
     
     page2 = browser.new_page()
     page2.goto("https://www.wikipedia.org")
     print("Opened 2 tabs")
     
-    import time
     time.sleep(1)
     
     page2.close()
     print("Closed Wikipedia tab!")
+    
     time.sleep(2)
+    
     browser.close()(headless=False)
-    print("Browser opened!")
+    print("Browser closed!")
+    
     browser.close()

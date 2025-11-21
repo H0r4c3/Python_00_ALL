@@ -15,6 +15,6 @@ with sync_playwright() as p:
     browser = p.chromium.launch(headless=False)
     page = browser.new_page()
     page.goto("https://www.google.com")
-    page.locator("img[alt='Google']").screenshot(path="logo.png")
+    page.locator("img[alt='Google']").screenshot(path=r"C:\Users\Horace.000\eclipse-workspace\Python_Project_6_Online_Courses\00_ALL\Playwright\logo.png")
     print("Logo screenshot saved!")
     browser.close()

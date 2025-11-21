@@ -13,7 +13,7 @@ from playwright.sync_api import sync_playwright
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=False)
     page = browser.new_page()
-    page.goto("https://www.google.com")
+    page.goto("https://practicesoftwaretesting.com")
     all_text = page.inner_text("body")
     print(f"Page text: {all_text}")
     browser.close()

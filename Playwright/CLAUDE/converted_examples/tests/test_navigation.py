@@ -1,6 +1,7 @@
 """Navigation tests using Page Object Model"""
 from playwright.sync_api import Page, expect
-from pages.google_page import GooglePage
+#from pages.practicesoftwaretesting_page import PracticeStorePage
+from pages.practice_store_page import PracticeStorePage
 from pages.wikipedia_page import WikipediaPage
 import time
 
@@ -10,12 +11,12 @@ class TestNavigationWithPOM:
     
     def test_go_back(self, page: Page) -> None:
         """Test: Go back using page objects"""
-        google_page = GooglePage(page)
+        practicesoftwaretesting_page = PracticeStorePage(page)
         wikipedia_page = WikipediaPage(page)
         
         # Visit Google
-        google_page.navigate()
-        expect(page).to_have_url("https://www.google.com/")
+        practicesoftwaretesting_page.navigate()
+        expect(page).to_have_url("https://practicesoftwaretesting.com/")
         
         # Visit Wikipedia
         wikipedia_page.navigate()
@@ -23,20 +24,20 @@ class TestNavigationWithPOM:
         
         # Go back to Google
         page.go_back()
-        expect(page).to_have_url("https://www.google.com/")
+        expect(page).to_have_url("https://practicesoftwaretesting.com/")
     
     def test_go_forward(self, page: Page) -> None:
         """Test: Go forward using page objects"""
-        google_page = GooglePage(page)
+        practicesoftwaretesting_page = PracticeStorePage(page)
         wikipedia_page = WikipediaPage(page)
         
         # Visit both pages
-        google_page.navigate()
+        practicesoftwaretesting_page.navigate()
         wikipedia_page.navigate()
         
         # Go back
         page.go_back()
-        expect(page).to_have_url("https://www.google.com/")
+        expect(page).to_have_url("https://practicesoftwaretesting.com/")
         
         # Go forward
         page.go_forward()
@@ -44,32 +45,32 @@ class TestNavigationWithPOM:
     
     def test_reload_page(self, page: Page) -> None:
         """Test: Reload page using page object"""
-        google_page = GooglePage(page)
-        google_page.navigate()
+        practicesoftwaretesting_page = PracticeStorePage(page)
+        practicesoftwaretesting_page.navigate()
         
         # Get initial title
-        initial_title = google_page.get_title()
+        initial_title = practicesoftwaretesting_page.get_title()
         
         # Reload
         page.reload()
         
         # Title should still be the same
-        assert google_page.get_title() == initial_title
+        assert practicesoftwaretesting_page.get_title() == initial_title
     
     def test_wait_for_selector(self, page: Page) -> None:
         """Test: Wait for selector after navigation"""
-        google_page = GooglePage(page)
-        google_page.navigate()
-        google_page.search("Playwright")
+        practicesoftwaretesting_page = PracticeStorePage(page)
+        practicesoftwaretesting_page.navigate()
+        practicesoftwaretesting_page.search("hammer")
         
         # Wait for results
         page.wait_for_selector("h3", timeout=10000)
-        assert google_page.get_results_count() > 0
+        assert practicesoftwaretesting_page.get_product_count() > 0
     
     def test_wait_for_timeout(self, page: Page) -> None:
         """Test: Wait for timeout"""
-        google_page = GooglePage(page)
-        google_page.navigate()
+        practicesoftwaretesting_page = PracticeStorePage(page)
+        practicesoftwaretesting_page.navigate()
         
         start = time.time()
         page.wait_for_timeout(2000)

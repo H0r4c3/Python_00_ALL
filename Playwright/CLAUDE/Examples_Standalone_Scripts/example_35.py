@@ -16,6 +16,5 @@ with sync_playwright() as p:
     page.goto("https://the-internet.herokuapp.com/login")
     page.get_by_text("Login Page").is_visible()
     print("Found 'Login Page' text!")
-    import time
-    time.sleep(2)
+    page.wait_for_timeout(2000)
     browser.close()

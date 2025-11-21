@@ -15,6 +15,6 @@ with sync_playwright() as p:
     browser = p.chromium.launch(headless=False)
     page = browser.new_page()
     page.goto("https://www.wikipedia.org")
-    page.screenshot(path="full_page.png", full_page=True)
+    page.screenshot(path=r"C:\Users\Horace.000\eclipse-workspace\Python_Project_6_Online_Courses\00_ALL\Playwright\full_page.png", full_page=True)
     print("Full page screenshot saved!")
     browser.close()

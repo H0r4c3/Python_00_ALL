@@ -15,6 +15,18 @@ class GooglePage(BasePage):
     def navigate(self) -> None:
         """Navigate to Google"""
         self.navigate_to("https://www.google.com")
+        self._accept_cookies()
+    
+    def _accept_cookies(self):
+        """Handle cookie consent popup"""
+        try:
+            # Wait for and click Accept button
+            #accept_button = self.page.locator('button:has-text("Accept all")')
+            accept_button = self.page.get_by_role("button", name="Acceptă tot").click()
+            accept_button.wait_for(timeout=3000)
+            accept_button.click()
+        except:
+            pass  # No cookie popup or already accepted
     
     def search(self, query: str) -> None:
         """Perform search"""

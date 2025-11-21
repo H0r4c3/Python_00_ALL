@@ -3,7 +3,8 @@ import pytest
 from pathlib import Path
 from playwright.sync_api import Page
 
-from pages.google_page import GooglePage
+#from pages.google_page import GooglePage
+from pages.practice_store_page import PracticeStorePage
 from pages.login_page import LoginPage
 from pages.dropdown_page import DropdownPage
 from pages.checkboxes_page import CheckboxesPage
@@ -22,13 +23,19 @@ def screenshots_dir():
     screenshots.mkdir(exist_ok=True)
     return screenshots
 
-
+'''
 # Basic Page Object Fixtures
 @pytest.fixture
 def google_page(page: Page) -> GooglePage:
     """Provides GooglePage instance"""
     return GooglePage(page)
+'''
 
+# Basic Page Object Fixtures
+@pytest.fixture
+def practice_store_page(page: Page) -> PracticeStorePage:  # Changed
+    """Provides PracticeStorePage instance"""
+    return PracticeStorePage(page)
 
 @pytest.fixture
 def login_page(page: Page) -> LoginPage:

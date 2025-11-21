@@ -16,6 +16,13 @@ with sync_playwright() as p:
     page = browser.new_page()
     page.goto("https://the-internet.herokuapp.com/tables")
     cell = page.locator("table").locator("tr").first.locator("td").first
-    text = cell.inner_text()
-    print(f"First cell text: {text}")
-    browser.close()
+    
+    #text = cell.inner_text()
+    #print(f"First cell text: {text}")
+    
+    try:
+        text = cell.inner_text()
+        print(f"First cell text: {text}")
+    except Exception as e:
+        print(f"Could not retrieve cell text: {e}")
+        browser.close()

@@ -14,8 +14,16 @@ from playwright.sync_api import sync_playwright
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=False)
     page = browser.new_page()
-    page.goto("https://www.google.com")
-    page.get_by_test_id("search-button").click()
+    page.goto("https://practicesoftwaretesting.com/")
+    
+    #page.locator("[data-test=\"search-query\"]").click()
+    #page.locator("[data-test=\"search-query\"]").fill("hammer")
+    #page.locator("[data-test=\"search-submit\"]").click()
+    
+    page.pause() # inspector opens
+    
+    page.get_by_test_id("search-query").fill("hammer")
+    page.get_by_test_id("search-submit").click()
     print("Clicked using test ID!")
     import time
     time.sleep(2)
